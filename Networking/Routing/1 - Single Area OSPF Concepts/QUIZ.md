@@ -1,0 +1,18 @@
+- packet order:
+	- hello
+	- DBD
+	- LSR (syn)
+	- LSU (syn-ack)
+	- LSA (ack)
+- DR/BDR
+	- exchanges link-state info
+- dead interval
+	- 4 * hello interval
+- RID chosen on highest active interface IP
+- OSPFv2 requirements
+	- hello timer
+	- subnet mask
+	- OSPFv2 type
+- `cost = 100,000,000 / bandwidth`
+- RID can break a tie in an election
+

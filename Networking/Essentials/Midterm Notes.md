@@ -1,0 +1,25 @@
+- [x] questions of purpose (gateway, mask, etc.)
+- [x] PDUs
+- [x] calculating network addresses (host, mask)
+- [x] addressing of each layer
+- [x] fields of headers and trailers (highlighted)
+- [x] router/switch behaviour
+- [x] TCP/IP model
+- [x] wireshark
+- [x] CSMA
+- [x] cable types
+- [x] ways to access device (ssh, telnet, console)
+- [x] fiber types
+- [ ] how frames travel
+- [ ] packet priority (QoS)
+- [x] configuration commands
+- [x] where files are stored on devices
+- [x] purposes of switch configs
+- [x] protocols to osi layer
+- [ ] bin/hex/decimal conversions
+- [x] 3 different subnet mask 
+	- 11111111.111111111.11111111.0
+	- 255.255.255.0
+	- 192.168.0.1/24
+- [ ] static routing
+- [ ] cleanup devices

@@ -1,0 +1,7 @@
+![[Pasted image 20221012101112.png]]
+- website is `http://mercury.picoctf.net:28916/index.php`
+	- red and blue options are not relevant to the challenge
+	- nothing interesting in the GET and POST requests and responses in burpsuite
+	- no cookies
+- using `curl -I HEAD http://mercury.picoctf.net:28916/index.php ` gets us the flag
+- flag is `picoCTF{r3j3ct_th3_du4l1ty_70bc61c4}`

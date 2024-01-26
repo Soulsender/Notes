@@ -1,0 +1,5 @@
+- Download file `cat.jpg`
+- `exiftool` shows that license of file is strange string
+	- `cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9`
+	- String is b64 encoded
+	- Decode from b64
