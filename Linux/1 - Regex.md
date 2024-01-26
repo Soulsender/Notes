@@ -6,7 +6,8 @@
 - `.` any character
 - `.*` wildcard character
 - `{}` of the proceeding matches (`{3}`)
-- `()` multiple regex (seperated and ORed with `|`)
+- `()` multiple regex (separated and ORed with `|`)
+- `?` last character is optional
 #### Grep Switches
 - `-E` extended grep
 - `-i` case insensitive
@@ -29,5 +30,8 @@
 
 # two regex ORed
 '(^[89]....|[1-9]....$)'
+
+# colour and color ("u" is optional)
+'^colou?r$'
 ```
 
