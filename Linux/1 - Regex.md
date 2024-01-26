@@ -5,6 +5,7 @@
 - `[^]` is not
 - `.` any character
 - `.*` wildcard character
+- `{}` of the proceeding matches
 #### Grep Switches
 - `-E` extended grep
 - `-i` case insensitive
@@ -21,5 +22,8 @@
 
 # two vowels next to each other
 '^[aeiou][aeiou]$'
+
+# numbers in the range of 100000 - 999999
+'^[1-9][0-9]{5}$'
 ```
 
