@@ -5,7 +5,8 @@
 - `[^]` is not
 - `.` any character
 - `.*` wildcard character
-- `{}` of the proceeding matches
+- `{}` of the proceeding matches (`{3}`)
+- `()` multiple regex (seperated and ORed with `|`)
 #### Grep Switches
 - `-E` extended grep
 - `-i` case insensitive
