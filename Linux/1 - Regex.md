@@ -8,6 +8,7 @@
 - `{}` of the proceeding matches (`{3}`)
 - `()` multiple regex (separated and ORed with `|`)
 - `?` last character is optional
+- `+` last character can be one or more
 #### Grep Switches
 - `-E` extended grep
 - `-i` case insensitive
