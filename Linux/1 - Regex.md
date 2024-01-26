@@ -7,8 +7,10 @@
 - `.*` wildcard character
 - `{}` of the proceeding matches (`{3}`)
 - `()` multiple regex (separated and ORed with `|`)
-- `?` last character is optional
+- `?` last regex is optional
 - `+` last character can be one or more
+- `*` last character can be zero or more
+- `{,}` consecutive digits
 #### Grep Switches
 - `-E` extended grep
 - `-i` case insensitive
