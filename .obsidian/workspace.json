@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Web/XSS.md",
+                "file": "Hacking/Five Stages of Ethical Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Web/XSS.md",
+                "file": "Hacking/Five Stages of Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Web/XSS.md",
+                "file": "Hacking/Five Stages of Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Web/XSS.md"
+                "file": "Hacking/Five Stages of Ethical Hacking.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Hacking/Web/Server-Side Exploits.md",
     "Hacking/Web/PHP.md",
+    "Hacking/Web/XSS.md",
+    "Hacking/Web/Server-Side Exploits.md",
     "Hacking/Day to Day.md",
     "Hacking/OSINT/Geographical/Physical OSINT.md",
     "Hacking/OSINT/Geographical/Identifiying Geographical Locations.md",
@@ -186,7 +187,6 @@
     "CTFs & Boxes/PicoGym/Web/GET aHEAD.md",
     "CTFs & Boxes/PicoGym/RevEng/transformation.md",
     "CTFs & Boxes/PicoGym/General/Static ain't always noise.md",
-    "static.md",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",

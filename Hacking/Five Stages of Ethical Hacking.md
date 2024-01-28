@@ -1,7 +1,3 @@
-# Five Stages of Ethical Hacking
-
-![464b03b7f963fabfde3494d7b429e039.png](../../../_resources/464b03b7f963fabfde3494d7b429e039.png)
-
 ## Recon
 - Usually passive
 - Osint

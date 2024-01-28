@@ -6,10 +6,5 @@
 ### XSS Stored
 - If input has min/max restriction, you can edit HTML and change it client-side
 ### Changing Cookies with JavaScript
-
 - Cookie has to have HttpOnly unchecked
-
-![[Pasted image 20221219002037.png]]
-![[Pasted image 20221219002109.png]]
-![[Pasted image 20221219002209.png]]
 - RENAVIGATE to root of website, reloading page will not work
