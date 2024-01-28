@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/OSINT/Geographical/Physical OSINT.md",
+                "file": "Hacking/Web/XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/OSINT/Geographical/Physical OSINT.md",
+                "file": "Hacking/Web/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/OSINT/Geographical/Physical OSINT.md",
+                "file": "Hacking/Web/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/OSINT/Geographical/Physical OSINT.md"
+                "file": "Hacking/Web/XSS.md"
               }
             }
           },
@@ -161,6 +161,10 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Hacking/Web/Server-Side Exploits.md",
+    "Hacking/Web/PHP.md",
+    "Hacking/Day to Day.md",
+    "Hacking/OSINT/Geographical/Physical OSINT.md",
     "Hacking/OSINT/Geographical/Identifiying Geographical Locations.md",
     "Hacking/OSINT/Credentials/Email.md",
     "Hacking/Forensics/Tools.md",
@@ -183,11 +187,7 @@
     "CTFs & Boxes/PicoGym/RevEng/transformation.md",
     "CTFs & Boxes/PicoGym/General/Static ain't always noise.md",
     "static.md",
-    "CTFs & Boxes/PicoGym/General/Nice netcat....md",
-    "CTFs & Boxes/PicoGym/General/Magikarp Ground Mission.md",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
-    "CTFs & Boxes/PicoGym/Forensics/tunn3l v1s10n.md",
-    "CTFs & Boxes/PicoGym/Forensics/Matryoshka doll.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
