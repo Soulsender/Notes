@@ -24,7 +24,6 @@ else
 fi
 ```
 bash script
-![[static]] hexdump file
 
 - supposed to use the script to decode the flag
 - I just used `strings` on it and grepped for the flag

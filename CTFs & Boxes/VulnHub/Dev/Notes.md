@@ -21,4 +21,3 @@
 		- messing with path can give user on server ``
 	- subdirectories -> [Feroxbuster](./Feroxbuster)
 	- Faulty Bolt installation?
-	- ![[Pasted image 20221029221605.png]]

@@ -3,7 +3,7 @@ Debian 10
 - 80 - Apache v2.4.38
 	- /academy
 		- Admin page creds are `admin/admin`
-		- creds are `10201321/admin` -> changed from reset password![[Pasted image 20221027195133.png]]
+		- creds are `10201321/admin` -> changed from reset password.
 		- php reverse shell upload in profile picture 
 			- linpeas -> see ssh and myphpadmin
 				- /home/grimmie/backup.sh

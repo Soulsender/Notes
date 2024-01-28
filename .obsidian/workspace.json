@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Hacking/OSINT/Geographical/Physical OSINT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Hacking/OSINT/Geographical/Physical OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Hacking/OSINT/Geographical/Physical OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/1 - Regex.md"
+                "file": "Hacking/OSINT/Geographical/Physical OSINT.md"
               }
             }
           },
@@ -161,32 +161,33 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "README.md",
-    "Hacking/Five Stages of Ethical Hacking.md",
-    "Hacking/Day to Day.md",
-    "Hacking/RE & Malware Analysis/Safety & Extensions.md",
-    "Hacking/RE & Malware Analysis/Types of Malware.md",
-    "Hacking/OSINT/OSINT Part 3 - Case Management.md",
-    "Hacking/OSINT/OSINT Process.md",
-    "Hacking/OSINT/OSINT Part 2 - Tools.md",
-    "Hacking/OSINT/OSINT Part 1 - Introduction.md",
+    "Hacking/OSINT/Geographical/Identifiying Geographical Locations.md",
+    "Hacking/OSINT/Credentials/Email.md",
     "Hacking/Forensics/Tools.md",
     "Hacking/Forensics/File Magic Numbers.md",
-    "Hacking/Action/Buffer Overflows.md",
     "Hacking/Active Directory/Inital.md",
-    "Cloud/Google Cloud/CloudShell/Commands.md",
-    "Linux/1 - Regex.md",
-    "Bounty/Mars.md",
-    "Hacking/Windows/System32.md",
-    "Hacking/Windows/NTFS.md",
-    "Hacking/Windows/Computer Management (compmgmt).md",
-    "Hacking/Windows/cmd.exe.md",
-    "Hacking/Networking/Common Ports & Protocols.md",
-    "Networking/Essentials/OSI Model.md",
-    "Hacking/Networking/3 - Network Layer/Firewalls.md",
-    "Hacking/Networking/7 - Application Layer/HTTP.md",
-    "Hacking/Networking/7 - Application Layer/DNS.md",
-    "Hacking/Networking/4 - Transport Layer/TCP-UDP.md",
+    "CTFs & Boxes/VulnHub/Mr Robot/General.md",
+    "Hacking/Action/Buffer Overflows.md",
+    "CTFs & Boxes/VulnHub/Mr Robot/fsoc Desktop.md",
+    "CTFs & Boxes/VulnHub/Kioptrix/Vulns.md",
+    "CTFs & Boxes/VulnHub/Kioptrix/Notes.md",
+    "CTFs & Boxes/VulnHub/Kioptrix/Nikto Scan.md",
+    "CTFs & Boxes/VulnHub/Dev/Notes.md",
+    "CTFs & Boxes/VulnHub/Butler/Nmap.md",
+    "CTFs & Boxes/VulnHub/Blue/Notes.md",
+    "CTFs & Boxes/VulnHub/Butler/Notes.md",
+    "CTFs & Boxes/VulnHub/Blue/Nmap.md",
+    "CTFs & Boxes/VulnHub/Academy/Notes.md",
+    "CTFs & Boxes/VulnHub/Academy/Nmap.md",
+    "CTFs & Boxes/PicoGym/Web/GET aHEAD.md",
+    "CTFs & Boxes/PicoGym/RevEng/transformation.md",
+    "CTFs & Boxes/PicoGym/General/Static ain't always noise.md",
+    "static.md",
+    "CTFs & Boxes/PicoGym/General/Nice netcat....md",
+    "CTFs & Boxes/PicoGym/General/Magikarp Ground Mission.md",
+    "attachments/image/OSPF Step by Step-1704847520989.jpeg",
+    "CTFs & Boxes/PicoGym/Forensics/tunn3l v1s10n.md",
+    "CTFs & Boxes/PicoGym/Forensics/Matryoshka doll.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
@@ -205,7 +206,6 @@
     "attachments/image/Motherboards-1698112002999.jpeg",
     "attachments/image/Motherboards-1698112002998.jpeg",
     "attachments/image/Motherboards-1698112002996.jpeg",
-    "attachments/image/Motherboards-1698112002995.jpeg",
-    "attachments/image/Motherboards-1698112002993.jpeg"
+    "attachments/image/Motherboards-1698112002995.jpeg"
   ]
 }
