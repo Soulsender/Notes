@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Five Stages of Ethical Hacking.md",
+                "file": "Networking/Switching/VLAN Trunks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Five Stages of Ethical Hacking.md",
+                "file": "Networking/Switching/VLAN Trunks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Five Stages of Ethical Hacking.md",
+                "file": "Networking/Switching/VLAN Trunks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Five Stages of Ethical Hacking.md"
+                "file": "Networking/Switching/VLAN Trunks.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "attachments/image/VLAN Trunks-1706552338639.jpeg",
+    "Hacking/Five Stages of Ethical Hacking.md",
     "Hacking/Web/PHP.md",
     "Hacking/Web/XSS.md",
     "Hacking/Web/Server-Side Exploits.md",
@@ -185,8 +187,6 @@
     "CTFs & Boxes/VulnHub/Academy/Notes.md",
     "CTFs & Boxes/VulnHub/Academy/Nmap.md",
     "CTFs & Boxes/PicoGym/Web/GET aHEAD.md",
-    "CTFs & Boxes/PicoGym/RevEng/transformation.md",
-    "CTFs & Boxes/PicoGym/General/Static ain't always noise.md",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
