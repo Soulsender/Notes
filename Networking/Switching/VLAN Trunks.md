@@ -5,4 +5,4 @@
 #### DTP
 - `desirable` actively tries to make the interface a trunk
 - `auto` makes the interface be able to be a trunk, but does not do so explicitly
-![[VLAN Trunks-1706552338639.jpeg]]
+![[../../attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg]]
