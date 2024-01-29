@@ -161,6 +161,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/Routing/1 - Single Area OSPF Concepts/Components of OSPF.md",
+    "Networking/IOS Commands.md",
     "Networking/Switching/VLAN Trunks.md",
     "attachments/image/VLAN Trunks-1706552338639.jpeg",
     "Hacking/Five Stages of Ethical Hacking.md",
@@ -186,8 +188,6 @@
     "CTFs & Boxes/VulnHub/Butler/Notes.md",
     "CTFs & Boxes/VulnHub/Blue/Nmap.md",
     "CTFs & Boxes/VulnHub/Academy/Notes.md",
-    "CTFs & Boxes/VulnHub/Academy/Nmap.md",
-    "CTFs & Boxes/PicoGym/Web/GET aHEAD.md",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",

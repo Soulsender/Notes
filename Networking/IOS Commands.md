@@ -58,14 +58,15 @@
 - `login local`
 - `transport input ssh`'
 #### OSPF
-- `router ospf 10` enter ospf config
-- `router-id {rid}` explicitly state RID
 - `ip ospf priority` explicitly state priority
 - `ip ospf {cost}` explicitly states cost
 - `ip ospf {pid} area {area}` set ospf on area interface
+- `ip ospf network point-to-point` make interface point to point
+- `ip ospf {hello/dead}-interval {10/40}` change hello/dead interval
+- `router ospf 10` enter ospf config
+- `router-id {rid}` explicitly state RID
 - `network {ip}` set network statement
 - `clear ip ospf process` restart ospf process
-- `ip ospf network point-to-point` make interface point to point
 - `passive-interface loop1` set loop1 as passive interface
 - `auto-cost reference-bandwidth {1000/10000}` set auto cost (fa/gi)
 - `default-information originate` sets ospf default route (used with `ip route`)
