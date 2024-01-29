@@ -58,7 +58,7 @@
 - `login local`
 - `transport input ssh`'
 #### OSPF
-- `ip ospf priority` explicitly state priority
+- `ip ospf priority {priority}` explicitly state priority
 - `ip ospf {cost}` explicitly states cost
 - `ip ospf {pid} area {area}` set ospf on area interface
 - `ip ospf network point-to-point` make interface point to point
