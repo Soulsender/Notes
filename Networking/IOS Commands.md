@@ -62,7 +62,7 @@
 - `router-id {rid}` explicitly state RID
 - `ip ospf priority` explicitly state priority
 - `ip ospf {cost}` explicitly states cost
-- `ip ospf {pid} area {area}` set ospf on area
+- `ip ospf {pid} area {area}` set ospf on area interface
 - `network {ip}` set network statement
 - `clear ip ospf process` restart ospf process
 - `ip ospf network point-to-point` make interface point to point
