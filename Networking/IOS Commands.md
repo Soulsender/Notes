@@ -67,6 +67,7 @@
 - `clear ip ospf process` restart ospf process
 - `ip ospf network point-to-point` make interface point to point
 - `passive-interface loop1` set loop1 as passive interface
+- `auto-cost reference-bandwidth {1000/10000}` set auto cost (fa/gi)
 #### VLANs
 - `switch mode access` - set to not trunk (STATIC)
 - `switchport mode trunk` enable trunking on the interface (STATIC)
