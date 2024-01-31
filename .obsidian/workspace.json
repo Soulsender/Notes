@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick-Reference/cipher.md",
+                "file": "Linux/1 - Regex.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick-Reference/cipher.md",
+                "file": "Linux/1 - Regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick-Reference/cipher.md",
+                "file": "Linux/1 - Regex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick-Reference/cipher.md"
+                "file": "Linux/1 - Regex.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Quick-Reference/cipher.md",
     "Quick-Reference/find.md",
     "Quick-Reference/fake-ap.md",
-    "Quick-Reference/cipher.md",
     "Linux/1 - Regex.md",
     "Quick-Reference/input-output.md",
     "Quick-Reference/wifi.md",
