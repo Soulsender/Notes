@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/11 - Networking.md",
+                "file": "Linux/1 - Regex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/11 - Networking.md",
+                "file": "Linux/1 - Regex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/11 - Networking.md",
+                "file": "Linux/1 - Regex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/11 - Networking.md"
+                "file": "Linux/1 - Regex.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Linux/11 - Networking.md",
     "Linux/12 - Packages.md",
     "Linux/13 - Find.md",
     "Linux/13.1 - Device Nodes.md",
@@ -189,7 +190,6 @@
     "CTFs & Boxes/VulnHub/Kioptrix/Notes.md",
     "CTFs & Boxes/VulnHub/Kioptrix/Nikto Scan.md",
     "CTFs & Boxes/VulnHub/Dev/Notes.md",
-    "CTFs & Boxes/VulnHub/Butler/Nmap.md",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
