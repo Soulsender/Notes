@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Quick-Reference/cipher.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Quick-Reference/cipher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Quick-Reference/cipher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/1 - Regex.md"
+                "file": "Quick-Reference/cipher.md"
               }
             }
           },
@@ -159,8 +159,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Quick-Reference/find.md",
+    "Quick-Reference/fake-ap.md",
+    "Quick-Reference/cipher.md",
+    "Linux/1 - Regex.md",
+    "Quick-Reference/input-output.md",
+    "Quick-Reference/wifi.md",
+    "Quick-Reference/verify.md",
+    "Quick-Reference/users.md",
+    "Quick-Reference/text.md",
+    "Quick-Reference/stable.md",
+    "Quick-Reference/ssh.md",
+    "Quick-Reference/script.md",
+    "Quick-Reference/rev-eng.md",
+    "Quick-Reference/regex.md",
+    "Quick-Reference/perms.md",
+    "Quick-Reference/nmap.md",
+    "Quick-Reference/hydra.md",
+    "Quick-Reference/help.md",
+    "Quick-Reference/gpg.md",
+    "Quick-Reference/forensic.md",
     "Networking/Switching/VLAN Trunks.md",
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
@@ -168,28 +188,9 @@
     "Networking/IOS Commands.md",
     "VLAN Trunks-1706552338639.jpeg.md",
     "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
-    "Linux/1 - Regex.md",
     "README.md",
     "Hacking/Five Stages of Ethical Hacking.md",
     "Hacking/Day to Day.md",
-    "Hacking/RE & Malware Analysis/Safety & Extensions.md",
-    "Hacking/RE & Malware Analysis/Types of Malware.md",
-    "Hacking/OSINT/OSINT Part 3 - Case Management.md",
-    "Hacking/OSINT/OSINT Process.md",
-    "Hacking/OSINT/OSINT Part 2 - Tools.md",
-    "Hacking/OSINT/OSINT Part 1 - Introduction.md",
-    "Hacking/Forensics/Tools.md",
-    "Hacking/Forensics/File Magic Numbers.md",
-    "Hacking/Action/Buffer Overflows.md",
-    "Hacking/Active Directory/Inital.md",
-    "Cloud/Google Cloud/CloudShell/Commands.md",
-    "Bounty/Mars.md",
-    "Hacking/Windows/System32.md",
-    "Hacking/Windows/NTFS.md",
-    "Hacking/Windows/Computer Management (compmgmt).md",
-    "Hacking/Windows/cmd.exe.md",
-    "Hacking/Networking/Common Ports & Protocols.md",
-    "Networking/Essentials/OSI Model.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
