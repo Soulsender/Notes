@@ -71,19 +71,19 @@
 - `auto-cost reference-bandwidth {1000/10000}` set auto cost (fa/gi)
 - `default-information originate` sets ospf default route (used with `ip route`)
 ### VLANs
-- `no `
-- `switch mode access` - set to not trunk (STATIC)
+- `no switchport` make port a routed port (layer 2 int)
+- `switch mode access` set to not trunk (STATIC)
 - `switchport mode trunk` enable trunking on the interface (STATIC)
 - `switchport nonegotiate` stops interface from sending DTP frames (DYNAMIC)
 - `switchport mode dynamic auto/desirable` enables DTP (DYNAMIC)
-- `switch access vlan 10` - set port to be used for VLAN 10
-- `vlan 10` - switch to vlan 10 config
-- `name {name}` - set vlan name
+- `switch access vlan 10` set port to be used for VLAN 10
+- `vlan 10` switch to vlan 10 config
+- `name {name}` set vlan name
 - `no switchport trunk allowed vlan` remove allowed VLANs and reset native VLAN trunk
 - `switchport trunk native vlan 99` change native vlan to vlan 99
 - `switchport trunk allowed vlan 10,20,30` sets allowed vlans
-- `mls qos trust cos` - does something with QoS for VoIP idk what lol
-- `swi voice vlan 150` - puts voice stuff on vlan 150
+- `mls qos trust cos` does something with QoS for VoIP idk what lol
+- `swi voice vlan 150` puts voice stuff on vlan 150
 ### Inter-VLAN Routing
 - `int g0/0.10` create subinterface
 - `encapsulation dot1Q 10` sets encapsulation type to 802.1Q
