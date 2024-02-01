@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/1 - Regex.md",
-                "mode": "preview",
+                "file": "Networking/Switching/Inter-VLAN Routing.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Networking/Switching/Inter-VLAN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/1 - Regex.md",
+                "file": "Networking/Switching/Inter-VLAN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/1 - Regex.md"
+                "file": "Networking/Switching/Inter-VLAN Routing.md"
               }
             }
           },
@@ -161,10 +161,12 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/Switching/VLAN Trunks.md",
+    "Networking/Switching/Inter-VLAN Routing.md",
+    "Linux/1 - Regex.md",
     "Quick-Reference/cipher.md",
     "Quick-Reference/find.md",
     "Quick-Reference/fake-ap.md",
-    "Linux/1 - Regex.md",
     "Quick-Reference/input-output.md",
     "Quick-Reference/wifi.md",
     "Quick-Reference/verify.md",
@@ -181,7 +183,6 @@
     "Quick-Reference/help.md",
     "Quick-Reference/gpg.md",
     "Quick-Reference/forensic.md",
-    "Networking/Switching/VLAN Trunks.md",
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
@@ -190,7 +191,6 @@
     "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
     "README.md",
     "Hacking/Five Stages of Ethical Hacking.md",
-    "Hacking/Day to Day.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
