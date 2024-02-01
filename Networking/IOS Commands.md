@@ -1,6 +1,40 @@
-### Keybindings
-- Ctrl + C -> cancel current task, clear line
-- Ctrl + Shift + 6 -> cancel "translating" task
+### VLANs
+- `switch mode access` set to not trunk (STATIC)
+- `switchport mode trunk` enable trunking on the interface (STATIC)
+- `switchport nonegotiate` stops interface from sending DTP frames (DYNAMIC)
+- `switchport mode dynamic auto/desirable` enables DTP (DYNAMIC)
+- `switch access vlan 10` set port to be used for VLAN 10
+- `vlan 10` switch to vlan 10 config
+- `name {name}` set vlan name
+- `no switchport trunk allowed vlan` remove allowed VLANs and reset native VLAN trunk
+- `switchport trunk native vlan 99` change native vlan to vlan 99
+- `switchport trunk allowed vlan 10,20,30` sets allowed vlans
+- `mls qos trust cos` does something with QoS for VoIP idk what lol
+- `swi voice vlan 150` puts voice stuff on vlan 150
+### Inter-VLAN Routing
+- `int g0/0.10` create subinterface
+- `encapsulation dot1Q 10` sets encapsulation type to 802.1Q
+- `no switchport` make port a routed port (layer 2 int)
+### OSPF
+- `ip ospf priority {priority}` explicitly state priority
+- `ip ospf {cost}` explicitly states cost
+- `ip ospf {pid} area {area}` set ospf on area interface
+- `ip ospf network point-to-point` make interface point to point
+- `ip ospf {hello/dead}-interval {10/40}` change hello/dead interval
+- `router ospf 10` enter ospf config
+- `router-id {rid}` explicitly state RID
+- `network {ip}` set network statement
+- `clear ip ospf process` restart ospf process
+- `passive-interface loop1` set loop1 as passive interface
+- `auto-cost reference-bandwidth {1000/10000}` set auto cost (fa/gi)
+- `default-information originate` sets ospf default route (used with `ip route`)
+### SSH
+- `ip domain name example.com`
+- `crypto key generate rsa (general-keys modulus 512)`
+- `username admin secret cisco`
+- `line vty 0 15`
+- `login local`
+- `transport input ssh`
 ### Navigation
 - `enable` enter priv EXEC (`en`)
 - `disable` enter user EXEC
@@ -11,6 +45,9 @@
 - `banner motd {banner}` create a warning banner
 - `traceroute {ip}` traceroute ip address 
 - `no {command}` delete command specified
+### Keybindings
+- Ctrl + C -> cancel current task, clear line
+- Ctrl + Shift + 6 -> cancel "translating" task
 ### Show (`sh`)
 - `show version` get version and system info
 - `show interface status` show all interfaces
@@ -50,40 +87,4 @@
 - `ipv6 address fe80::1 link-local`
 - `ipv6 address 2001:db8::1/64`
 - `ipv6 unicast-routing`
-### SSH
-- `ip domain name example.com`
-- `crypto key generate rsa (general-keys modulus 512)`
-- `username admin secret cisco`
-- `line vty 0 15`
-- `login local`
-- `transport input ssh`'
-### OSPF
-- `ip ospf priority {priority}` explicitly state priority
-- `ip ospf {cost}` explicitly states cost
-- `ip ospf {pid} area {area}` set ospf on area interface
-- `ip ospf network point-to-point` make interface point to point
-- `ip ospf {hello/dead}-interval {10/40}` change hello/dead interval
-- `router ospf 10` enter ospf config
-- `router-id {rid}` explicitly state RID
-- `network {ip}` set network statement
-- `clear ip ospf process` restart ospf process
-- `passive-interface loop1` set loop1 as passive interface
-- `auto-cost reference-bandwidth {1000/10000}` set auto cost (fa/gi)
-- `default-information originate` sets ospf default route (used with `ip route`)
-### VLANs
-- `no switchport` make port a routed port (layer 2 int)
-- `switch mode access` set to not trunk (STATIC)
-- `switchport mode trunk` enable trunking on the interface (STATIC)
-- `switchport nonegotiate` stops interface from sending DTP frames (DYNAMIC)
-- `switchport mode dynamic auto/desirable` enables DTP (DYNAMIC)
-- `switch access vlan 10` set port to be used for VLAN 10
-- `vlan 10` switch to vlan 10 config
-- `name {name}` set vlan name
-- `no switchport trunk allowed vlan` remove allowed VLANs and reset native VLAN trunk
-- `switchport trunk native vlan 99` change native vlan to vlan 99
-- `switchport trunk allowed vlan 10,20,30` sets allowed vlans
-- `mls qos trust cos` does something with QoS for VoIP idk what lol
-- `swi voice vlan 150` puts voice stuff on vlan 150
-### Inter-VLAN Routing
-- `int g0/0.10` create subinterface
-- `encapsulation dot1Q 10` sets encapsulation type to 802.1Q
+
