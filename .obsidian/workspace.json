@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/VLANs/Inter-VLAN Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/VLANs/Inter-VLAN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/VLANs/Inter-VLAN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Switching/VLANs/Inter-VLAN Routing.md"
               }
             }
           },
@@ -159,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "7cff6b15a3f0a196",
   "lastOpenFiles": [
-    "Networking/Switching/VLAN Trunks.md",
-    "Networking/Switching/Inter-VLAN Routing.md",
     "Networking/IOS Commands.md",
+    "Networking/Switching/VLANs",
+    "Networking/Switching/VLANs/VLAN Trunks.md",
+    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
     "Linux/1 - Regex.md",
     "Quick-Reference/cipher.md",
     "Quick-Reference/find.md",
@@ -190,7 +191,6 @@
     "VLAN Trunks-1706552338639.jpeg.md",
     "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
     "README.md",
-    "Hacking/Five Stages of Ethical Hacking.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
@@ -200,7 +200,6 @@
     "Windows/Windows Essentials",
     "Cloud/Google Cloud",
     "Networking/Essentials/14-Transport Layer",
-    "Networking/Essentials/12-IPv6",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
