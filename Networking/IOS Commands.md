@@ -71,6 +71,7 @@
 - `auto-cost reference-bandwidth {1000/10000}` set auto cost (fa/gi)
 - `default-information originate` sets ospf default route (used with `ip route`)
 ### VLANs
+- `no `
 - `switch mode access` - set to not trunk (STATIC)
 - `switchport mode trunk` enable trunking on the interface (STATIC)
 - `switchport nonegotiate` stops interface from sending DTP frames (DYNAMIC)
