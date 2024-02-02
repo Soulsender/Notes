@@ -9,3 +9,8 @@
 ### Standard
 - source IP
 - placed near destination
+### Extended
+- source IP
+- destination IP
+- protocols
+- ports

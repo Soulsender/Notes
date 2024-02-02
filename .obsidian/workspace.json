@@ -161,8 +161,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
+    "Networking/Routing/Skills Exam.md",
     "Networking/Routing/ACLs/Purpose.md",
+    "Networking/IOS Commands.md",
     "Networking/Routing/ACLs",
     "Networking/Switching/VLANs/VLAN Trunks.md",
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
@@ -192,7 +193,6 @@
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "VLAN Trunks-1706552338639.jpeg.md",
     "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
-    "README.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
