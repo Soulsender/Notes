@@ -6,6 +6,8 @@
 	- `deny CISA`
 	- `permit BCIT`
 	- `deny any`
+- there is two ACLs for one interface
+	- in/out
 ### Standard
 - source IP
 - placed near destination
