@@ -3,4 +3,9 @@
 - prioritise different kinds of traffic
 - go from most complicated > least complicated
 	- `permit J`
-	- `deny `
+	- `deny CISA`
+	- `permit BCIT`
+	- `deny any`
+### Standard
+- source IP
+- placed near destination
