@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Networking/Routing/ACLs/Purpose.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Routing/ACLs/Purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Routing/ACLs/Purpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Routing/ACLs/Purpose.md"
               }
             }
           },
@@ -161,9 +161,11 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Networking/Routing/ACLs/Purpose.md",
+    "Networking/Routing/ACLs",
     "Networking/Switching/VLANs/VLAN Trunks.md",
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
-    "Networking/IOS Commands.md",
     "Networking/Switching/VLANs",
     "Linux/1 - Regex.md",
     "Quick-Reference/cipher.md",
@@ -199,7 +201,6 @@
     "Networking/Essentials",
     "Windows/Windows Essentials",
     "Cloud/Google Cloud",
-    "Networking/Essentials/14-Transport Layer",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",

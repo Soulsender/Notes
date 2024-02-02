@@ -1,3 +1,6 @@
+### ACLs
+- `permit` allow group
+- `deny` deny group
 ### VLANs
 - `switch mode access` set to not trunk (STATIC)
 - `switchport mode trunk` enable trunking on the interface (STATIC)
