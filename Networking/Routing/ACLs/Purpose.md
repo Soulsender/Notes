@@ -8,6 +8,10 @@
 	- `deny any`
 - there is two ACLs for one interface
 	- in/out
+- on ACLs out, router must do all calculations and **then** drop it.
+	- this can lower bandwidth
+	- better to drop packet on interface it is going in through rather than the once it's going out
+- **ACLs must have at least one permit statement**
 ### Standard
 - source IP
 - placed near destination

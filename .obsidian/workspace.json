@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Routing/Skills Exam.md",
+    "Networking/Routing/ACLs/Wildcard Mask.md",
     "Networking/Routing/ACLs/Purpose.md",
+    "Networking/Routing/Skills Exam.md",
     "Networking/IOS Commands.md",
     "Networking/Routing/ACLs",
     "Networking/Switching/VLANs/VLAN Trunks.md",
@@ -191,7 +192,6 @@
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
-    "VLAN Trunks-1706552338639.jpeg.md",
     "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
