@@ -1,7 +1,5 @@
 ### ACLs
-- `permit` allow group
-- `deny` deny group
-- `access-list 10 permit {192.168.1.1} {0.0.0.0}` allow 192.168.1.1 on access list 10 with wildcard mask
+- `access-list 10 permit {192.168.1.1} {0.0.0.0}` allow 192.168.1.1 on access list 10 with wildcard mask for one PC
 ### VLANs
 - `switch mode access` set to not trunk (STATIC)
 - `switchport mode trunk` enable trunking on the interface (STATIC)
