@@ -20,3 +20,4 @@
 - destination IP
 - protocols
 - ports
+- placed near source
