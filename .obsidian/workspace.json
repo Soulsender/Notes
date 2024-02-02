@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md",
-                "mode": "source",
+                "file": "Networking/IOS Commands.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/ACLs/Purpose.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/Routing/ACLs/Purpose.md",
     "Networking/Routing/Skills Exam.md",
     "Networking/IOS Commands.md",
     "Networking/Routing/ACLs/Wildcard Mask.md",
-    "Networking/Routing/ACLs/Purpose.md",
     "Networking/Routing/ACLs",
     "Networking/Switching/VLANs/VLAN Trunks.md",
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
