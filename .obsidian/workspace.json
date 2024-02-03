@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Networking/Routing/ACLs/Wildcard Mask.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Routing/ACLs/Wildcard Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Routing/ACLs/Wildcard Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Routing/ACLs/Wildcard Mask.md"
               }
             }
           },
@@ -161,19 +161,9 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Routing/ACLs/Purpose.md",
-    "Networking/Routing/Skills Exam.md",
-    "Networking/IOS Commands.md",
-    "Networking/Routing/ACLs/Wildcard Mask.md",
-    "Networking/Routing/ACLs",
-    "Networking/Switching/VLANs/VLAN Trunks.md",
-    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
-    "Networking/Switching/VLANs",
     "Linux/1 - Regex.md",
-    "Quick-Reference/cipher.md",
-    "Quick-Reference/find.md",
-    "Quick-Reference/fake-ap.md",
-    "Quick-Reference/input-output.md",
+    "Networking/Routing/ACLs/Untitled.md",
+    "attachments/image/1 - Regex-1706997806482.jpeg",
     "Quick-Reference/wifi.md",
     "Quick-Reference/verify.md",
     "Quick-Reference/users.md",
@@ -182,30 +172,40 @@
     "Quick-Reference/ssh.md",
     "Quick-Reference/script.md",
     "Quick-Reference/rev-eng.md",
-    "Quick-Reference/regex.md",
     "Quick-Reference/perms.md",
+    "Quick-Reference/regex.md",
     "Quick-Reference/nmap.md",
+    "Quick-Reference/input-output.md",
     "Quick-Reference/hydra.md",
     "Quick-Reference/help.md",
-    "Quick-Reference/gpg.md",
     "Quick-Reference/forensic.md",
-    "attachments/image/VLAN Trunks-1706718886839.jpeg",
-    "attachments/image/IOS Commands-1706632306369.jpeg",
+    "Quick-Reference/gpg.md",
+    "Quick-Reference/find.md",
+    "Quick-Reference/fake-ap.md",
+    "Quick-Reference/cipher.md",
+    "Quick-Reference",
+    "Networking/Switching/VLANs/VLAN Trunks.md",
+    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
+    "Networking/Switching/VLANs",
+    "Networking/Routing/Skills Exam.md",
+    "Networking/Routing/OSPF/States.md",
+    "Networking/Routing/OSPF/RIP vs OSPF.md",
+    "Networking/Routing/OSPF",
+    "Networking/Routing/ACLs",
+    "attachments/image/IOS Commands-1706656555196.jpeg",
+    "attachments/image/IOS Commands-1706573811282.jpeg",
+    "attachments/image/VLAN Trunks-1706552338639.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
-    "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
     "Hacking/Networking",
     "Networking/Routing",
     "Networking/Essentials",
-    "Windows/Windows Essentials",
-    "Cloud/Google Cloud",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
     "attachments/image/Motherboards-1698112003159.jpeg",
-    "attachments/image/Motherboards-1698112003149.jpeg",
-    "attachments/image/Motherboards-1698112002999.jpeg"
+    "attachments/image/Motherboards-1698112003149.jpeg"
   ]
 }
