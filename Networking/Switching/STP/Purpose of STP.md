@@ -1,3 +1,7 @@
 - used to eliminate frame loops
 - adds redundancy
-- 
+- device elected by STP is called the **root bridge**
+- prevents looping from
+	- broadcast
+	- multicast
+	- unknown unicast
