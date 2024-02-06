@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/STP/Roles.md",
+                "file": "Networking/Switching/STP/BPDUs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/STP/Roles.md",
+                "file": "Networking/Switching/STP/BPDUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/STP/Roles.md",
+                "file": "Networking/Switching/STP/BPDUs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/STP/Roles.md"
+                "file": "Networking/Switching/STP/BPDUs.md"
               }
             }
           },
@@ -162,7 +162,8 @@
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
     "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/Roles.md",
+    "Networking/Switching/STP/BPDUs.md",
+    "Networking/Switching/STP/Roles & States.md",
     "Networking/Switching/STP/Overview.md",
     "attachments/image/Overview-1707254662841.jpeg",
     "Networking/IOS Commands.md",
@@ -191,7 +192,6 @@
     "Quick-Reference/regex.md",
     "Quick-Reference/perms.md",
     "Quick-Reference/nmap.md",
-    "Quick-Reference/hydra.md",
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",

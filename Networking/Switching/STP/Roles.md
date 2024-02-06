@@ -1,3 +1,0 @@
-- **root ports** - the best port to reach the bridge
-- **designated port** - port with best route to root bridge on a link
-- **non-designated ports** - 
