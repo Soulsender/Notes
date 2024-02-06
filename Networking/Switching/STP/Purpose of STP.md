@@ -12,4 +12,6 @@ Bridge Protocol Data Units
 		- default 32768 (range 0-61440 increments 4096)
 		- lower priority is preferable
 	- extended system ID
+		- decimal value
 	- MAC address of switch
+		- can be used as a tiebreaker
