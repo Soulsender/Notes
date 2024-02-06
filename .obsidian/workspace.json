@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/STP/Purpose of STP.md",
+                "file": "Networking/Switching/STP/Roles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/STP/Purpose of STP.md",
+                "file": "Networking/Switching/STP/Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/STP/Purpose of STP.md",
+                "file": "Networking/Switching/STP/Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/STP/Purpose of STP.md"
+                "file": "Networking/Switching/STP/Roles.md"
               }
             }
           },
@@ -161,8 +161,11 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
     "Networking/Switching/STP/Purpose of STP.md",
+    "Networking/Switching/STP/Roles.md",
+    "Networking/Switching/STP/Overview.md",
+    "attachments/image/Overview-1707254662841.jpeg",
+    "Networking/IOS Commands.md",
     "Networking/Switching/STP",
     "attachments/image/IOS Commands-1707252223333.jpeg",
     "Networking/Routing/ACLs/Purpose.md",
@@ -189,8 +192,6 @@
     "Quick-Reference/perms.md",
     "Quick-Reference/nmap.md",
     "Quick-Reference/hydra.md",
-    "Quick-Reference/help.md",
-    "Quick-Reference/gpg.md",
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
@@ -205,7 +206,6 @@
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
     "attachments/image/Motherboards-1698112003162.jpeg",
-    "attachments/image/Motherboards-1698112003159.jpeg",
-    "attachments/image/Motherboards-1698112003149.jpeg"
+    "attachments/image/Motherboards-1698112003159.jpeg"
   ]
 }
