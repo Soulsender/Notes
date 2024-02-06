@@ -5,3 +5,11 @@
 	- broadcast
 	- multicast
 	- unknown unicast
+#### BPDUs
+Bridge Protocol Data Units
+- contains bridge ID
+	- priority value
+		- default 32768 (range 0-61440 increments 4096)
+		- lower priority is preferable
+	- extended system ID
+	- MAC address of switch
