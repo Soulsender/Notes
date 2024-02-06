@@ -7,4 +7,4 @@
 - **blocking** - port that is blocking traffic
 - **listening** - not forwarding and not learning MACs
 - **learning** - not forwarding; learning MACs
-- **forwarding** - send/recieve traffic normally
+- **forwarding** - send/receive traffic normally

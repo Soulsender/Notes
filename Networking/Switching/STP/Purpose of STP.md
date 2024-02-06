@@ -13,4 +13,4 @@
 #### Timers
 - **hello timer** 2 secs
 - **forward delay timer** 15 secs
-- **max age timer** 20 secs
+- **max age timer** 20 secs (10 * hello)
