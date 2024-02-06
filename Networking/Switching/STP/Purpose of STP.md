@@ -1,0 +1,3 @@
+- used to eliminate frame loops
+- adds redundancy
+- 
