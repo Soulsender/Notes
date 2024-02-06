@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs.md",
+                "file": "Networking/Switching/STP/Purpose of STP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs.md",
+                "file": "Networking/Switching/STP/Purpose of STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs.md",
+                "file": "Networking/Switching/STP/Purpose of STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs.md"
+                "file": "Networking/Switching/STP/Purpose of STP.md"
               }
             }
           },
@@ -161,10 +161,11 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/BPDUs.md",
-    "Networking/Switching/STP/Roles & States.md",
     "Networking/Switching/STP/Overview.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "Networking/Switching/STP/Purpose of STP.md",
+    "attachments/image/Purpose of STP-1707255207413.jpeg",
+    "Networking/Switching/STP/Roles & States.md",
     "attachments/image/Overview-1707254662841.jpeg",
     "Networking/IOS Commands.md",
     "Networking/Switching/STP",
@@ -191,7 +192,6 @@
     "Quick-Reference/rev-eng.md",
     "Quick-Reference/regex.md",
     "Quick-Reference/perms.md",
-    "Quick-Reference/nmap.md",
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
@@ -205,7 +205,6 @@
     "Windows/Windows Essentials",
     "attachments/image/Motherboards-1698112003165.jpeg",
     "attachments/image/Motherboards-1698112003163.jpeg",
-    "attachments/image/Motherboards-1698112003162.jpeg",
-    "attachments/image/Motherboards-1698112003159.jpeg"
+    "attachments/image/Motherboards-1698112003162.jpeg"
   ]
 }

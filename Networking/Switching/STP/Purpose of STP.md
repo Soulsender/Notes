@@ -5,6 +5,11 @@
 	- broadcast
 	- multicast
 	- unknown unicast
+#### Root Ports
+- best route to the root bridge
+	- based on port cost
+	- root cost -> my BID -> root BID
+![[attachments/image/Purpose of STP-1707255207413.jpeg]]
 #### Timers
 - **hello timer** 2 secs
 - **forward delay timer** 15 secs
