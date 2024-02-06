@@ -15,3 +15,7 @@ Bridge Protocol Data Units
 		- decimal value
 	- MAC address of switch
 		- can be used as a tiebreaker
+#### Timers
+- **hello timer** 2 secs
+- **forward delay timer** 15 secs
+- **max age timer** 20 secs
