@@ -2,7 +2,8 @@
 - `access-list 10 permit {192.168.1.1} {0.0.0.0}` allow 192.168.1.1 on access list 10 with wildcard mask for one PC
 - `access-list 10 permit host {192.168.1.1}` same as last
 - `access-list 100 permit tcp any any {eq/lt} {www/80}` permit http
-- `ip access-list standard {ADMIN-HOST}` create ACL for VTY
+- `access-list 120 permit tcp any {10.0.0.0} {0.0.0.255} established` allow established tcp traffic
+- `ip access-list {standard/extended} {ADMIN-HOST}` create ACL with name
 - `access-class {ADMIN-HOST} in` enable ACL on VTY
 
 ### VLANs
