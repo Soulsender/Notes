@@ -74,6 +74,7 @@
 - `show ip route` show routing table
 - `show vlan` show vlan table
 - `show interface trunk` show trunk interfaces
+- `show access-list` show ACLs
 
 ### Config (`conf`)
 - `line console 0` enter **console** config interface (`line con 0`)
