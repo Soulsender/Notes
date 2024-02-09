@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/VLANs/VLAN Trunks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/VLANs/VLAN Trunks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/VLANs/VLAN Trunks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Switching/VLANs/VLAN Trunks.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
+    "Networking/IOS Commands.md",
     "Networking/Routing/ACLs/Wildcard Mask.md",
     "Linux/1 - Regex.md",
     "Networking/Routing/ACLs/Untitled.md",
@@ -186,10 +188,8 @@
     "Quick-Reference/cipher.md",
     "Quick-Reference",
     "Networking/Switching/VLANs/VLAN Trunks.md",
-    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
     "Networking/Switching/VLANs",
     "Networking/Routing/Skills Exam.md",
-    "Networking/Routing/OSPF/States.md",
     "Networking/Routing/OSPF",
     "Networking/Routing/ACLs",
     "attachments/image/IOS Commands-1706656555196.jpeg",
