@@ -5,6 +5,7 @@
 	- cicso version of STP
 	- provides separate spanning tree for each VLAN
 	- supports PortFast
+	- cisco default
 - RSTP
 	- faster newer version of STP
 - Rapid PVST+
@@ -16,4 +17,5 @@
 - MST
 	- cisco version of MSTP
 	- up to 16 instances of RSTP
-	- combines VLANs with same phyical and logical topology into common TSTP instance
+	- combines VLANs with same phyical and logical topology into common RSTP instance
+	- supports PortFast

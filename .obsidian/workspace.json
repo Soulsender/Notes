@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/STP/Versions of STP.md",
+                "file": "Networking/Switching/EtherChannel/Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/STP/Versions of STP.md",
+                "file": "Networking/Switching/EtherChannel/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/STP/Versions of STP.md",
+                "file": "Networking/Switching/EtherChannel/Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/STP/Versions of STP.md"
+                "file": "Networking/Switching/EtherChannel/Operation.md"
               }
             }
           },
@@ -161,9 +161,11 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/Versions of STP.md",
     "Networking/Switching/STP/PortFast.md",
+    "Networking/Switching/EtherChannel/Operation.md",
+    "Networking/Switching/EtherChannel",
+    "Networking/Switching/STP/Versions of STP.md",
+    "Networking/Switching/STP/Purpose of STP.md",
     "Networking/IOS Commands.md",
     "attachments/image/IOS Commands-1707509422244.jpeg",
     "attachments/image/IOS Commands-1707509422243.jpeg",
@@ -195,7 +197,6 @@
     "Quick-Reference/ssh.md",
     "Quick-Reference/script.md",
     "Quick-Reference/rev-eng.md",
-    "Quick-Reference/regex.md",
     "attachments/image/VLAN Trunks-1706718886839.jpeg",
     "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
@@ -205,7 +206,6 @@
     "Hacking/Networking/3 - Network Layer",
     "Hacking/Networking",
     "Networking/Routing",
-    "Networking/Essentials",
-    "Windows/Windows Essentials"
+    "Networking/Essentials"
   ]
 }
