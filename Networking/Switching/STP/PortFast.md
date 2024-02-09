@@ -1,0 +1,1 @@
+- allows switch port to bypass listening and learning states and go immediately to forwarding

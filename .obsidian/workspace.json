@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Networking/Switching/STP/Versions of STP.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/STP/Versions of STP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/STP/Versions of STP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Switching/STP/Versions of STP.md"
               }
             }
           },
@@ -161,22 +161,32 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Switching/STP/BPDUs & BID.md",
-    "Networking/Switching/STP/Election Process.md",
-    "attachments/image/Overview-1707254662841.jpeg.jpeg",
-    "attachments/image/VLAN Trunks-1707439815410.jpeg",
     "Networking/Switching/STP/Purpose of STP.md",
-    "attachments/image/VLAN Trunks-1707439815397.jpeg",
+    "Networking/Switching/STP/Versions of STP.md",
+    "Networking/Switching/STP/PortFast.md",
+    "Networking/IOS Commands.md",
+    "attachments/image/IOS Commands-1707509422244.jpeg",
+    "attachments/image/IOS Commands-1707509422243.jpeg",
+    "attachments/image/IOS Commands-1707509422241.jpeg",
     "Networking/Switching/STP/Roles & States.md",
+    "Networking/Switching/STP/Election Process.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "attachments/image/Purpose of STP-1707255207413.jpeg",
+    "attachments/image/Overview-1707254662841.jpeg",
+    "Networking/Switching/STP",
+    "attachments/image/IOS Commands-1707252223333.jpeg",
+    "Networking/Routing/ACLs/Purpose.md",
+    "Networking/Routing/Skills Exam.md",
+    "Networking/Routing/ACLs/Wildcard Mask.md",
+    "Networking/Routing/ACLs",
     "Networking/Switching/VLANs/VLAN Trunks.md",
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
-    "conflict-files-obsidian-git.md",
-    "Networking/Switching/STP",
-    "Networking/IOS Commands.md",
-    "Networking/Routing/ACLs/Wildcard Mask.md",
+    "Networking/Switching/VLANs",
     "Linux/1 - Regex.md",
-    "Networking/Routing/ACLs/Untitled.md",
-    "attachments/image/1 - Regex-1706997806482.jpeg",
+    "Quick-Reference/cipher.md",
+    "Quick-Reference/find.md",
+    "Quick-Reference/fake-ap.md",
+    "Quick-Reference/input-output.md",
     "Quick-Reference/wifi.md",
     "Quick-Reference/verify.md",
     "Quick-Reference/users.md",
@@ -185,26 +195,17 @@
     "Quick-Reference/ssh.md",
     "Quick-Reference/script.md",
     "Quick-Reference/rev-eng.md",
-    "Quick-Reference/perms.md",
     "Quick-Reference/regex.md",
-    "Quick-Reference/nmap.md",
-    "Quick-Reference/input-output.md",
-    "Quick-Reference/hydra.md",
-    "Quick-Reference/help.md",
-    "Quick-Reference",
-    "Networking/Switching/VLANs",
-    "Networking/Routing/OSPF",
-    "Networking/Routing/ACLs",
-    "attachments/image/IOS Commands-1706656555196.jpeg",
-    "attachments/image/IOS Commands-1706573811282.jpeg",
-    "attachments/image/VLAN Trunks-1706552338639.jpeg",
+    "attachments/image/VLAN Trunks-1706718886839.jpeg",
+    "attachments/image/IOS Commands-1706632306369.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
+    "attachments/image/VLAN Trunks-1706552338639.jpeg”.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
     "Hacking/Networking",
     "Networking/Routing",
-    "attachments/image/Motherboards-1698112003165.jpeg",
-    "attachments/image/Motherboards-1698112003163.jpeg"
+    "Networking/Essentials",
+    "Windows/Windows Essentials"
   ]
 }
