@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/VLANs/VLAN Trunks.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b6addf5a3d0ee79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -172,19 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b6addf5a3d0ee79",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Switching/VLANs/VLAN Trunks.md",
-    "conflict-files-obsidian-git.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "Networking/Switching/STP/Election Process.md",
+    "attachments/image/Overview-1707254662841.jpeg.jpeg",
     "attachments/image/VLAN Trunks-1707439815410.jpeg",
-    "attachments/image/VLAN Trunks-1707439815408.jpeg",
+    "Networking/Switching/STP/Purpose of STP.md",
     "attachments/image/VLAN Trunks-1707439815397.jpeg",
     "Networking/Switching/STP/Roles & States.md",
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/Election Process.md",
-    "Networking/Switching/STP/BPDUs & BID.md",
-    "Networking/Switching/STP",
+    "Networking/Switching/VLANs/VLAN Trunks.md",
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
+    "conflict-files-obsidian-git.md",
+    "Networking/Switching/STP",
     "Networking/IOS Commands.md",
     "Networking/Routing/ACLs/Wildcard Mask.md",
     "Linux/1 - Regex.md",
@@ -204,7 +191,6 @@
     "Quick-Reference/input-output.md",
     "Quick-Reference/hydra.md",
     "Quick-Reference/help.md",
-    "Quick-Reference/forensic.md",
     "Quick-Reference",
     "Networking/Switching/VLANs",
     "Networking/Routing/OSPF",
