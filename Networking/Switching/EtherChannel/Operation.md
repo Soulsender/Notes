@@ -1,3 +1,5 @@
 - groups multiple physical ethernet links into one single logical link
 - resulting virtual interface is called **port channel**
 - provides redundancy and load balancing
+- LACP `active/passive`
+- PAgP `desirable`

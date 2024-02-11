@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/EtherChannel/Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/EtherChannel/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/EtherChannel/Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Switching/EtherChannel/Operation.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
     "attachments/image/IOS Commands-1707610849488.jpeg",
     "attachments/image/IOS Commands-1707610849487.jpeg",
     "attachments/image/IOS Commands-1707610849479.jpeg",
@@ -179,7 +180,6 @@
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
     "conflict-files-obsidian-git.md",
     "Networking/Switching/STP",
-    "Networking/IOS Commands.md",
     "Networking/Routing/ACLs/Wildcard Mask.md",
     "Linux/1 - Regex.md",
     "Networking/Routing/ACLs/Untitled.md",
@@ -202,7 +202,6 @@
     "attachments/image/IOS Commands-1706656555196.jpeg",
     "attachments/image/IOS Commands-1706573811282.jpeg",
     "attachments/image/VLAN Trunks-1706552338639.jpeg",
-    "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
