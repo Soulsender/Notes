@@ -1,3 +1,6 @@
+### EtherChannel
+- `channel-group 1 mode desirable` make interface desirable for ethchannel
+- `int port-channel 1` go into ethchannel 1 config
 ### ACLs
 - `access-list 10 permit {192.168.1.1} {0.0.0.0}` allow 192.168.1.1 on access list 10 with wildcard mask for one PC
 - `access-list 10 permit host {192.168.1.1}` same as last
@@ -75,6 +78,7 @@
 - `show vlan` show vlan table
 - `show interface trunk` show trunk interfaces
 - `show access-list` show ACLs
+- `show etherchannel sum` show summary of ethchannels
 
 ### Config (`conf`)
 - `line console 0` enter **console** config interface (`line con 0`)
