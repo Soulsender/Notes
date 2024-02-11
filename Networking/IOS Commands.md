@@ -1,6 +1,7 @@
 ### EtherChannel
 - `channel-group 1 mode desirable` make interface desirable for ethchannel
 - `int port-channel 1` go into ethchannel 1 config
+- `spanning-tree vlan 1 root primary` restore current device as primary root
 ### ACLs
 - `access-list 10 permit {192.168.1.1} {0.0.0.0}` allow 192.168.1.1 on access list 10 with wildcard mask for one PC
 - `access-list 10 permit host {192.168.1.1}` same as last
