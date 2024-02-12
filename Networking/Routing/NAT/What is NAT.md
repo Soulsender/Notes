@@ -1,4 +1,4 @@
 - **Inside local** - computers of your company (local before NAT router)
 - **Inside global** - 
-- **Outside local** - destination device
-- **Outside global** - any address that appears on outside part of network
+- **Outside local** - public ip of ISP (ip of router interface)
+- **Outside global** - destination device on internet
