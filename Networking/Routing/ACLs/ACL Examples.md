@@ -19,7 +19,9 @@ access-list 111 permit ip any any
 #### Extended ACL 3:
 ```
 ip access-list extended branch_to_hq
-deny ip 192.168.2.0 0.0.0.
+deny ip 192.168.2.0 0.0.0.31 192.168.1.0 0.0.0.63
+deny ip 192.168.2.32 0.0.0.15 192.168.1.0 0.0.0.63
+permit ip any any
 ```
 
 #### Standard ACL 1:
