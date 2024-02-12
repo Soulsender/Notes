@@ -18,11 +18,14 @@ access-list 111 permit ip any any
 
 #### Extended ACL 3:
 ```
+ip access-list extended branch_to_hq
+deny ip 192.168.2.0 0.0.0.
 ```
+
 #### Standard ACL 1:
 - Create a named standard ACL. Use the name vty_block. The name of your ACL must match this name exactly.
 - Only addresses from the HQ LAN 2 network should be able to access the VTY lines of the HQ router.
 ```
-access-list standard vty_block
+ip access-list standard vty_block
 permit ip 192.168.1.64 0.0.0.7
 ```
