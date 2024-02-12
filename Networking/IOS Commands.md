@@ -2,6 +2,7 @@
 - `ip nat inside source static {192.168.0.1} {209.165.201.5}` static NAT mapping
 - `ip nat {inside/outside}` tell NAT if inside/outside
 - `ip nat pool {NAT-POOL-1} {209.165.200.226} {209.165.200.240} netmask {255.255.255.225}` define address pool
+- `ip nat inside source list 1 int s0/1/0 overload` configure PAT
 - `clear ip nat translation *` clear NAT translation table
 
 ### EtherChannel
