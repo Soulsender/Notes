@@ -2,4 +2,5 @@
 - resulting virtual interface is called **port channel**
 - provides redundancy and load balancing
 - LACP `active/passive`
-- PAgP `desirable`
+- PAgP `desirable/auto`
+![[attachments/image/Operation-1707704664097.jpeg]]

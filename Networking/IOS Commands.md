@@ -1,5 +1,5 @@
 ### EtherChannel
-- `channel-group 1 mode desirable` make interface desirable for ethchannel
+- `channel-group 1 mode desirable` make interface desirable for ethchannel PAgP
 - `int port-channel 1` go into ethchannel 1 config
 - `spanning-tree vlan 1 root primary` restore current device as primary root
 ### ACLs
