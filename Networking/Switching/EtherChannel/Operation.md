@@ -3,4 +3,7 @@
 - provides redundancy and load balancing
 - LACP `active/passive`
 - PAgP `desirable/auto`
+### PAgP Modes
 ![[attachments/image/Operation-1707704664097.jpeg]]
+### LACP Modes
+![[attachments/image/Operation-1707704731190.jpeg]]

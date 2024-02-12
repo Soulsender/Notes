@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking/Switching/EtherChannel/Operation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -179,6 +179,7 @@
   },
   "active": "b070345376b099d2",
   "lastOpenFiles": [
+    "attachments/image/Operation-1707704731190.jpeg",
     "attachments/image/Operation-1707704664097.jpeg",
     "Networking/IOS Commands.md",
     "Networking/Switching/EtherChannel/Operation.md",
@@ -220,7 +221,6 @@
     "Networking/Routing/ACLs",
     "attachments/image/IOS Commands-1706656555196.jpeg",
     "attachments/image/IOS Commands-1706573811282.jpeg",
-    "attachments/image/VLAN Trunks-1706552338639.jpeg",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
