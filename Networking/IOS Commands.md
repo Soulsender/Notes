@@ -1,3 +1,6 @@
+### NAT
+- `ip nat inside source static {192.168.0.1} {209.165.201.5}` static nat mapping
+- `ip nat {inside/outside}`
 ### EtherChannel
 - `channel-group 1 mode desirable` make interface desirable for ethchannel PAgP
 - `int port-channel 1` go into ethchannel 1 config
