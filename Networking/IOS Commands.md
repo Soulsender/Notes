@@ -1,10 +1,12 @@
 ### NAT
-- `ip nat inside source static {192.168.0.1} {209.165.201.5}` static nat mapping
-- `ip nat {inside/outside}`
+- `ip nat inside source static {192.168.0.1} {209.165.201.5}` static NAT mapping
+- `ip nat {inside/outside}` tell NAT if inside/outside
+
 ### EtherChannel
 - `channel-group 1 mode desirable` make interface desirable for ethchannel PAgP
 - `int port-channel 1` go into ethchannel 1 config
 - `spanning-tree vlan 1 root primary` restore current device as primary root
+
 ### ACLs
 - `access-list 10 permit {192.168.1.1} {0.0.0.0}` allow 192.168.1.1 on access list 10 with wildcard mask for one PC
 - `access-list 10 permit host {192.168.1.1}` same as last
@@ -83,6 +85,8 @@
 - `show interface trunk` show trunk interfaces
 - `show access-list` show ACLs
 - `show etherchannel sum` show summary of ethchannels
+- `show ip nat translations` shows active NAT translations
+- `show ip nat statistics` shows detailed info about active NAT
 
 ### Config (`conf`)
 - `line console 0` enter **console** config interface (`line con 0`)
