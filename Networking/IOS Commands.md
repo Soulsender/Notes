@@ -9,7 +9,7 @@
 	- `domain-name example.com` - define domain
 - `ipv6 dhcp server IPV6-STATELESS` bind pool to interface
 ###### Stateless DHCPv6 Client
-- `ipv6 enab`
+- `ipv6 enable`
 ### NAT
 - `ip nat inside source static {192.168.0.1} {209.165.201.5}` static NAT mapping
 - `ip nat {inside/outside}` tell NAT if inside/outside
