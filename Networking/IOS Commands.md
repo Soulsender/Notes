@@ -1,8 +1,15 @@
 ###  DHCP 
 - `ipv6 unicast-routing` - used for all DHCPv6 configurations
-- `ipv6 nd other-config-flag` - enable stateless DHCPv6
 - `ipv6 nd managed-config-flag` - enable stateful DHCPv6
 - `ipv6 nd prefix default no-autoconfig` - disable SLAAC (do for stateful DHCPv6)
+###### Stateless DHCPv6 Server
+- `ipv6 nd other-config-flag` - enable stateless DHCPv6
+- `ipv6 dhcp pool IPV6-STATELESS` - create pool config
+	- `dns-server 2001:db8:acad:1::254` - define DNS server
+	- `domain-name example.com` - define domain
+- `ipv6 dhcp server IPV6-STATELESS` bind pool to interface
+###### Stateless DHCPv6 Client
+- `ipv6 enab`
 ### NAT
 - `ip nat inside source static {192.168.0.1} {209.165.201.5}` static NAT mapping
 - `ip nat {inside/outside}` tell NAT if inside/outside
