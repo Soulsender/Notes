@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/ACLs/ACL Examples.md",
-                "mode": "preview",
+                "file": "Networking/Switching/DHCP/DHCP Operation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/DHCP/DHCP Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/DHCP/DHCP Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Networking/Switching/DHCP/DHCP Operation.md"
               }
             }
           },
@@ -172,8 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "dd6d0f94d9bcad90",
   "lastOpenFiles": [
+    "Networking/Routing/ACLs/ACL Examples.md",
+    "Networking/Switching/DHCP/DHCP Operation.md",
+    "Networking/Switching/DHCP",
+    "Networking/IOS Commands.md",
     "attachments/image/Operation-1707757182007.jpeg",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757181885.jpeg",
@@ -183,8 +187,6 @@
     "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Routing/NAT",
     "Networking/Routing/ACLs/Wildcard Mask.md",
-    "Networking/Routing/ACLs/ACL Examples.md",
-    "Networking/IOS Commands.md",
     "Networking/Switching/EtherChannel/Operation.md",
     "attachments/image/Operation-1707704731190.jpeg",
     "attachments/image/Operation-1707704664097.jpeg",
@@ -196,7 +198,6 @@
     "Networking/Switching/EtherChannel",
     "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/Election Process.md",
-    "attachments/image/Overview-1707254662841.jpeg.jpeg",
     "Networking/Switching/STP/Purpose of STP.md",
     "Networking/Switching/STP/Roles & States.md",
     "Networking/Switching/VLANs/VLAN Trunks.md",
@@ -218,7 +219,6 @@
     "Networking/Routing/OSPF",
     "Networking/Routing/ACLs",
     "Hacking/Networking/7 - Application Layer",
-    "Hacking/Networking/4 - Transport Layer",
-    "Hacking/Networking/3 - Network Layer"
+    "Hacking/Networking/4 - Transport Layer"
   ]
 }
