@@ -29,9 +29,11 @@
             "id": "41d08f1b55337225",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/image/Operation-1707757182007.jpeg"
+                "file": "Networking/Switching/STP/BPDUs & BID.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/image/Operation-1707757182007.jpeg",
+                "file": "Networking/Switching/STP/BPDUs & BID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/image/Operation-1707757182007.jpeg",
+                "file": "Networking/Switching/STP/BPDUs & BID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/image/Operation-1707757182007.jpeg"
+                "file": "Networking/Switching/STP/BPDUs & BID.md"
               }
             }
           },
@@ -177,13 +179,19 @@
   },
   "active": "41d08f1b55337225",
   "lastOpenFiles": [
+    "Networking/Switching/STP/PortFast.md",
+    "Networking/Switching/STP/Election Process.md",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757182007.jpeg",
-    "attachments/image/Operation-1707757181885.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Networking/Switching/EtherChannel/Operation.md",
-    "Networking/Routing/NAT/Types of NAT.md",
+    "Networking/Switching/STP/Purpose of STP.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "Networking/Switching/STP/Versions of STP.md",
+    "Networking/Switching/STP/Roles & States.md",
     "Networking/Switching/DHCP/DHCP Operation.md",
+    "attachments/image/Operation-1707757181885.jpeg",
+    "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Switching/DHCP",
     "Networking/IOS Commands.md",
     "Networking/Routing/NAT/What is NAT.md",
@@ -191,18 +199,11 @@
     "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181846.jpeg",
     "Networking/Routing/ACLs/ACL Examples.md",
-    "Networking/Switching/STP/PortFast.md",
     "Networking/Switching/EtherChannel",
-    "Networking/Switching/STP/Versions of STP.md",
-    "Networking/Switching/STP/Purpose of STP.md",
     "attachments/image/IOS Commands-1707509422244.jpeg",
     "attachments/image/IOS Commands-1707509422243.jpeg",
     "attachments/image/IOS Commands-1707509422241.jpeg",
-    "Networking/Switching/STP/Roles & States.md",
-    "Networking/Switching/STP/Election Process.md",
-    "Networking/Switching/STP/BPDUs & BID.md",
     "attachments/image/Purpose of STP-1707255207413.jpeg",
-    "attachments/image/Overview-1707254662841.jpeg",
     "Networking/Switching/STP",
     "Networking/Routing/ACLs/Purpose.md",
     "Networking/Routing/Skills Exam.md",
