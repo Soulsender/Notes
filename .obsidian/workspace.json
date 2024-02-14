@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Networking/Switching/DHCP/DHCPv6.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41d08f1b55337225",
+  "active": "386e0a574d15f851",
   "lastOpenFiles": [
     "Networking/Switching/DHCP/DHCPv6.md",
     "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
-    "Networking/Switching/DHCP/SLAAC.md",
-    "Networking/IOS Commands.md",
     "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
+    "Networking/IOS Commands.md",
+    "Networking/Switching/DHCP/SLAAC.md",
     "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/PortFast.md",
     "Networking/Switching/STP/Election Process.md",

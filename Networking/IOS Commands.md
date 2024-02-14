@@ -1,5 +1,5 @@
 ###  DHCP 
-- `ipv6 unicast-routing` - enable SLAAC
+- `ipv6 unicast-routing` - used for all DHCPv6 configurations
 - `ipv6 nd other-config-flag` - enable stateless DHCPv6
 - `ipv6 nd managed-config-flag` - enable stateful DHCPv6
 - `ipv6 nd prefix default no-autoconfig` - disable SLAAC (do for stateful DHCPv6)
