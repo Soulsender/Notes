@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -179,9 +179,10 @@
   },
   "active": "41d08f1b55337225",
   "lastOpenFiles": [
+    "Networking/Switching/DHCP/DHCPv6.md",
+    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
     "Networking/Switching/DHCP/SLAAC.md",
     "Networking/IOS Commands.md",
-    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
     "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
     "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/PortFast.md",
@@ -220,7 +221,6 @@
     "Quick-Reference/fake-ap.md",
     "Quick-Reference/input-output.md",
     "Quick-Reference/wifi.md",
-    "Quick-Reference/verify.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",

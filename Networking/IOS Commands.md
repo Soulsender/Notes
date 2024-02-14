@@ -1,4 +1,6 @@
 ###  DHCP 
+- `ipv6 unicast-routing` - enable SLAAC
+- `ipv6 nd other-config-flag` - enable stateless IPv6
 ### NAT
 - `ip nat inside source static {192.168.0.1} {209.165.201.5}` static NAT mapping
 - `ip nat {inside/outside}` tell NAT if inside/outside
