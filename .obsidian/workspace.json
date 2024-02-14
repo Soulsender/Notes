@@ -29,11 +29,9 @@
             "id": "41d08f1b55337225",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Networking/Routing/NAT/Types of NAT.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/image/Operation-1707757182007.jpeg"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/NAT/Types of NAT.md",
+                "file": "attachments/image/Operation-1707757182007.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/NAT/Types of NAT.md",
+                "file": "attachments/image/Operation-1707757182007.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/NAT/Types of NAT.md"
+                "file": "attachments/image/Operation-1707757182007.jpeg"
               }
             }
           },
@@ -179,16 +177,17 @@
   },
   "active": "41d08f1b55337225",
   "lastOpenFiles": [
+    "attachments/image/Operation-1707757181951.jpeg",
+    "attachments/image/Operation-1707757182007.jpeg",
+    "attachments/image/Operation-1707757181885.jpeg",
+    "attachments/image/OSPF Step by Step-1704847520989.jpeg",
+    "Networking/Switching/EtherChannel/Operation.md",
+    "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Switching/DHCP/DHCP Operation.md",
     "Networking/Switching/DHCP",
     "Networking/IOS Commands.md",
-    "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Routing/NAT/What is NAT.md",
-    "Networking/Switching/EtherChannel/Operation.md",
     "Networking/Routing/NAT",
-    "attachments/image/Operation-1707757182007.jpeg",
-    "attachments/image/Operation-1707757181951.jpeg",
-    "attachments/image/Operation-1707757181885.jpeg",
     "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181846.jpeg",
     "Networking/Routing/ACLs/ACL Examples.md",
@@ -220,7 +219,6 @@
     "Quick-Reference/wifi.md",
     "Quick-Reference/verify.md",
     "Quick-Reference/users.md",
-    "Quick-Reference/text.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
     "Hacking/Networking/3 - Network Layer",
