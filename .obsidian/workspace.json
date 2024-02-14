@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs & BID.md",
+                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs & BID.md",
+                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs & BID.md",
+                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/STP/BPDUs & BID.md"
+                "file": "Networking/Switching/DHCP/IPv6 DHCP Assignment.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "41d08f1b55337225",
   "lastOpenFiles": [
+    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
+    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/PortFast.md",
     "Networking/Switching/STP/Election Process.md",
     "attachments/image/Operation-1707757181951.jpeg",
@@ -186,10 +189,8 @@
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "Networking/Switching/EtherChannel/Operation.md",
     "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/Versions of STP.md",
     "Networking/Switching/STP/Roles & States.md",
-    "Networking/Switching/DHCP/DHCP Operation.md",
     "attachments/image/Operation-1707757181885.jpeg",
     "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Switching/DHCP",

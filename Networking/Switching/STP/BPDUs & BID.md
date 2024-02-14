@@ -1,4 +1,4 @@
-*Bridge Protocol Data Units*
+ *Bridge Protocol Data Units*
 - contains bridge ID
 	- priority value
 		- default 32768 + vlan number (range 0-61440 increments 4096)
