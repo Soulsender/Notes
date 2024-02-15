@@ -17,6 +17,7 @@
 	- `default-router {192.168.0.1}` define default gateway
 	- `dns-server {192.168.0.254}` define DNS server
 - `ip helper-address {10.1.1.2}` configure relay agent
+- `ip address dhcp` get ip from DHCP server
 ### NAT
 - `ip nat inside source static {192.168.0.1} {209.165.201.5}` static NAT mapping
 - `ip nat {inside/outside}` tell NAT if inside/outside
