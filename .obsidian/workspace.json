@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Misc/Business Notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Misc/Business Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Misc/Business Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Misc/Business Notes.md"
               }
             }
           },
@@ -161,8 +161,11 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Switching/DHCP/DHCPv6.md",
+    "Untitled.md",
+    "Misc/Business Notes.md",
+    "Misc",
     "Networking/IOS Commands.md",
+    "Networking/Switching/DHCP/DHCPv6.md",
     "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
     "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
     "Networking/Switching/DHCP/SLAAC.md",
@@ -201,11 +204,8 @@
     "Quick-Reference/cipher.md",
     "Quick-Reference/find.md",
     "Quick-Reference/fake-ap.md",
-    "Quick-Reference/input-output.md",
-    "Quick-Reference/wifi.md",
     "Hacking/Networking/7 - Application Layer",
     "Hacking/Networking/4 - Transport Layer",
-    "Hacking/Networking/3 - Network Layer",
-    "Hacking/Networking"
+    "Hacking/Networking/3 - Network Layer"
   ]
 }
