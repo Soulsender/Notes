@@ -16,4 +16,14 @@
 - **objective** headings identify a topic but are not self contained
 - "Walking to the office, a red sports car passed her."
 	- this is a dangling modifier
-- 
+- four design elements
+	- justification
+	- page size
+	- type styles
+	- ???
+- short sentences are up to 15 words
+- proofreading is important because you can ensure the document is the correct length
+- proofreading involves revising information for clarity
+- "the report *seems* to be incomplete"
+	- hedging sentence (sentence is uncertain)
+- sentences starting with "it" or "there" are probably longer than they need to be
