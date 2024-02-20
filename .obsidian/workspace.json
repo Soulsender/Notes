@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Business Notes.md",
+                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Business Notes.md",
+                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Business Notes.md",
+                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Business Notes.md"
+                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocol.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Misc/Business Notes.md",
+    "Networking/Switching/FHRP/First Hope Redundancy Protocol.md",
+    "Networking/Switching/FHRP",
+    "conflict-files-obsidian-git.md",
     "Windows/Azure/Module 7.md",
     "Windows/Azure",
     "Untitled.md",
@@ -204,8 +206,6 @@
     "Networking/Switching/VLANs/Inter-VLAN Routing.md",
     "Networking/Switching/VLANs",
     "Linux/1 - Regex.md",
-    "Quick-Reference/cipher.md",
-    "Hacking/Networking/7 - Application Layer",
-    "Hacking/Networking/4 - Transport Layer"
+    "Hacking/Networking/7 - Application Layer"
   ]
 }
