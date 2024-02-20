@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "264588dd0044f8de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Business Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Business Notes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Business Notes.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -159,10 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "264588dd0044f8de",
   "lastOpenFiles": [
-    "Untitled.md",
     "Misc/Business Notes.md",
+    "conflict-files-obsidian-git.md",
+    "Windows/Azure/Module 7.md",
+    "Windows/Azure",
+    "Untitled.md",
     "Misc",
     "Networking/IOS Commands.md",
     "Networking/Switching/DHCP/DHCPv6.md",
@@ -202,10 +218,7 @@
     "Networking/Switching/VLANs",
     "Linux/1 - Regex.md",
     "Quick-Reference/cipher.md",
-    "Quick-Reference/find.md",
-    "Quick-Reference/fake-ap.md",
     "Hacking/Networking/7 - Application Layer",
-    "Hacking/Networking/4 - Transport Layer",
-    "Hacking/Networking/3 - Network Layer"
+    "Hacking/Networking/4 - Transport Layer"
   ]
 }
