@@ -1,3 +1,4 @@
+- default serial 1.544 mbps
 ### Terminology
 - **data terminal equipment (DTE)** - device that connects subscriber LANs to WAN device (ie. router)
 - **data communication equipment (DCE)** - used to communicate with provider (ie. modem)
@@ -14,4 +15,6 @@
 - **wireless router/access point** - wirelessly connect to WAN provider, can use cellular
 - **core devices** - high speed routers and layer 3 switches
 ### Optical Fiber Layer 1 Standards
-- **
+- **Synchronous Digital Hierarchy (SDH)** - global standard for transporting data over fiber optic
+- **Synchronous Optical Networking (SONET)** - north american standard that provides same services as SDH
+- **Dense Wavelength Division Multiplexing (DWDM)** - newer technology that increases data carrying capacity by using different wavelengths of light
