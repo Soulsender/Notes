@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/FHRP/HSRP.md",
+                "file": "Networking/Routing/WANs/WAN Standards.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/FHRP/HSRP.md",
+                "file": "Networking/Routing/WANs/WAN Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/FHRP/HSRP.md",
+                "file": "Networking/Routing/WANs/WAN Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/FHRP/HSRP.md"
+                "file": "Networking/Routing/WANs/WAN Standards.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "386e0a574d15f851",
   "lastOpenFiles": [
-    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
     "Networking/Switching/FHRP/HSRP.md",
+    "Networking/Routing/WANs/WAN Standards.md",
+    "Networking/Routing/WANs",
+    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
     "Misc/Business Notes.md",
     "Networking/Switching/FHRP",
     "conflict-files-obsidian-git.md",
@@ -204,8 +206,6 @@
     "Networking/Routing/ACLs/Wildcard Mask.md",
     "Networking/Routing/ACLs",
     "Networking/Switching/VLANs/VLAN Trunks.md",
-    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
-    "Networking/Switching/VLANs",
-    "Hacking/Networking/7 - Application Layer"
+    "Networking/Switching/VLANs"
   ]
 }
