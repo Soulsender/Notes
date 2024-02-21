@@ -1,6 +1,8 @@
 - default serial 1.544 mbps
 - DLCL uses frame relay layer 2
 - **ATM** - 53 bytes, transferring voice, video, and data built on cell-based arcitecture
+- **site-to-site VPN** - configured on routers, there is no client program for the client. Clients are unaware they are using VPN.
+- **remote access VPN** - one PC only has remote access connection, must be using a client program
 ### Terminology
 - **data terminal equipment (DTE)** - device that connects subscriber LANs to WAN device (ie. router)
 - **data communication equipment (DCE)** - used to communicate with provider (ie. modem)
