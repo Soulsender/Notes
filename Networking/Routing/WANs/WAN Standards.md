@@ -1,4 +1,6 @@
 - default serial 1.544 mbps
+- DLCL uses frame relay layer 2
+- **ATM** - 53 bytes, transferring voice, video, and data built on ccell-based arcitecture
 ### Terminology
 - **data terminal equipment (DTE)** - device that connects subscriber LANs to WAN device (ie. router)
 - **data communication equipment (DCE)** - used to communicate with provider (ie. modem)
