@@ -1,3 +1,10 @@
+### Terminology
+- **data terminal equipment (DTE)** - device that connects subscriber LANs to WAN device (ie. router)
+- **data communication equipment (DCE)** - used to communicate with provider (ie. modem)
+- **customer premises equipment (CPE)** - DTE and DCE devices on enterprise edge, customer owns or leases the CPE from the provider
+- **point-of-presence (POP)** - point where subscriber connects to service provider network
+- **demarcation point** - physical location that separates CPE from service provider equipment
+- **local loop** - actual copper or fiber cable that connects CPE to CO
 ### Devices
 - **voiceband modem** - uses telephone lines (legacy)
 - **DSL/Cable modem **- broadband modems, connect to DTE router with ethernet
