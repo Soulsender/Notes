@@ -13,3 +13,5 @@
 - **optical converter** - fiber optic converter
 - **wireless router/access point** - wirelessly connect to WAN provider, can use cellular
 - **core devices** - high speed routers and layer 3 switches
+### Optical Fiber Layer 1 Standards
+- **
