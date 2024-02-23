@@ -7,4 +7,4 @@
 ## Message Flags
 - `A=1 O=0 M=0` - SLAAC
 - `A=1 O=1 M=0` - Stateless DHCP/SLAAC
-- `A=0 M=1` - Stateful DHCP only
+- `A=0 O=0 M=1` - Stateful DHCP only
