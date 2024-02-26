@@ -28,10 +28,11 @@
 7. Baseline Management
 8. Documentation
 ## Email Security
-- SEG (secure email gateway) blocks unwanted messages
-	- Cisco secure email
-	- FortiMail secure email gateway
-	- Microsoft exchange online protection
+#### SEG (secure email gateway) blocks unwanted messages
+- Cisco secure email
+- FortiMail secure email gateway
+- Microsoft exchange online protection
+#### Email Authentication
 - Email authentication stops unauthorized parties from sending email from domains they do not own
 	- **DKIM (domain keys identified mail)**
 		- signs emails from their domain using public keys
@@ -43,3 +44,13 @@
 		- can quarantine emails or deliver them
 		- can also be used to send the marked emails to admins
 		- DMARC policies are stored in DNS text records
+## VPN
+#### PPTP (point to point tunneling protocol)
+- microsoft proprietary
+- TCP/IP only (port 1723)
+- outdated and vulnerable
+#### L2F (layer 2 forwarding)
+- cisco proprietary
+- operates at layer 2
+- does not encrypt data
+- w/ PPTP it is L2TP
