@@ -67,3 +67,7 @@
 - has encryption
 - layer 3
 - uses authentication header (AH) and encapsulating security payload (ESP)
+#### IKE (internet key exchange)
+- diffie-hellman key exchange
+- pre-shared keys
+- udp 500
