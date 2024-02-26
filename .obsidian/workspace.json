@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Networking/Switching/Midterm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Networking/Switching/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Networking/Switching/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Midterm.md"
+                "file": "Networking/Switching/Midterm.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "3bb5c153b2a8debc",
   "lastOpenFiles": [
-    "Networking/Routing/Midterm.md",
     "Security/Midterm.md",
+    "Networking/Switching/Midterm.md",
+    "Networking/Routing/Midterm.md",
     "Networking/Routing/Skills Exam.md",
     "Windows/Azure/Module 7.md",
     "Networking/Switching/FHRP/HSRP.md",
@@ -203,7 +204,6 @@
     "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/Election Process.md",
     "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/Roles & States.md",
     "Networking/Switching/STP",
     "Quick-Reference",
     "Networking/Switching/VLANs"
