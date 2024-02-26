@@ -16,3 +16,4 @@
 - NAT types
 ### WANs
 - dark fiber
+- frame relay

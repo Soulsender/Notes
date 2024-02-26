@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/Midterm.md",
+                "file": "Networking/Routing/Midterm (1-7).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/Midterm.md",
+                "file": "Networking/Routing/Midterm (1-7).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/Midterm.md",
+                "file": "Networking/Routing/Midterm (1-7).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/Midterm.md"
+                "file": "Networking/Routing/Midterm (1-7).md"
               }
             }
           },
@@ -182,7 +182,7 @@
     "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
     "Networking/Switching/DHCP/DHCPv6.md",
     "Networking/Routing/WANs/WAN Standards.md",
-    "Networking/Routing/Midterm.md",
+    "Networking/Routing/Midterm (1-7).md",
     "Networking/Switching/FHRP/HSRP.md",
     "Networking/Routing/WANs",
     "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
