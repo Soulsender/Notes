@@ -1,4 +1,9 @@
 ## Frameworks
+#### CIA
+- Confidentiality
+- Integrity
+- Availability
+- Non-Repudiation
 #### NIST
 1. Identify
 2. Protect
@@ -16,6 +21,9 @@
 #### Manageable Network
 1. Prepare to document
 2. Map the network
-3. Protect the network
-4. Reach the network (accessibility)
-5. Control 
+3. Protect
+4. Reach (accessibility)
+5. Control
+6. Patch Management
+7. Baseline Management
+8. Documentation
