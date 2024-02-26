@@ -58,3 +58,12 @@
 - microsoft & cisco
 - does not have encryption
 - paired with IPsec (L2TP/IPsec)
+- tcp 1701 / udp 500
+#### SSTP (secure socket tunneling protocol)
+- supported only by windows
+- uses SSL/TLS encryption
+- uses HTTPS port
+#### IPsec
+- has encryption
+- layer 3
+- uses authentication header (AH) and encapsulating security payload (ESP)
