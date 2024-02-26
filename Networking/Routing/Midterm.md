@@ -3,3 +3,5 @@
 - dead interval is 4x hello interval
 - the adjacency table is used to create the OSPF neighbor table
 - OSPF areas contain routers that have the same link-state info in their LSDBs
+- router BR/BDR election
+- 
