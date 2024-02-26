@@ -40,3 +40,6 @@
 		- DNS text record that lists IPs of servers that are allowed to send emails
 	- **DMARC (domain based message authentication reporting and conformance)**
 		- tells receiving email servers what to do after SPF and DKIM
+		- can quarantine emails or deliver them
+		- can also be used to send the marked emails to admins
+		- DMARC policies are stored in DNS text records
