@@ -27,3 +27,9 @@
 6. Patch Management
 7. Baseline Management
 8. Documentation
+## Email Security
+- SEG (secure email gateway) blocks unwanted messages
+	- Cisco secure email
+	- FortiMail secure email gateway
+	- Microsoft exchange online protection
+	- 
