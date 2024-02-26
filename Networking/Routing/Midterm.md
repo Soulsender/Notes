@@ -4,4 +4,10 @@
 - the adjacency table is used to create the OSPF neighbor table
 - OSPF areas contain routers that have the same link-state info in their LSDBs
 - router BR/BDR election
-- administrative distance 
+- administrative distance
+### ACLs
+- how to modify ACLs
+### NAT
+- inside/outside/local/global
+### WANs
+- dark fiber
