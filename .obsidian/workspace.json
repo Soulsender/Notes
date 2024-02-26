@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4195e0d48f5f86b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bb5c153b2a8debc",
+  "active": "4195e0d48f5f86b5",
   "lastOpenFiles": [
     "Security/Midterm.md",
     "Networking/Switching/Midterm.md",
