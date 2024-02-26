@@ -54,3 +54,7 @@
 - operates at layer 2
 - does not encrypt data
 - w/ PPTP it is L2TP
+#### L2TP
+- microsoft & cisco
+- does not have encryption
+- paired with IPsec (L2TP/IPsec)
