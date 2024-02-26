@@ -32,4 +32,11 @@
 	- Cisco secure email
 	- FortiMail secure email gateway
 	- Microsoft exchange online protection
-	- 
+- Email authentication stops unauthorized parties from sending email from domains they do not own
+	- **DKIM (domain keys identified mail)**
+		- signs emails from their domain using public keys
+		- public keys are stored in DNS text record
+	- **SPF (sender policy framework)**
+		- DNS text record that lists IPs of servers that are allowed to send emails
+	- **DMARC (domain based message authentication reporting and conformance)**
+		- tells receiving email servers what to do after SPF and DKIM
