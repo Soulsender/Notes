@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "386e0a574d15f851",
+            "id": "3bb5c153b2a8debc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
-                "mode": "preview",
+                "file": "Security/Midterm.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
+                "file": "Security/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
+                "file": "Security/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/FHRP/First Hope Redundancy Protocols.md"
+                "file": "Security/Midterm.md"
               }
             }
           },
@@ -159,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386e0a574d15f851",
+  "active": "3bb5c153b2a8debc",
   "lastOpenFiles": [
-    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
-    "Networking/Switching/DHCP/SLAAC.md",
-    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
-    "Networking/Switching/DHCP/DHCPv6.md",
-    "Networking/Routing/WANs/WAN Standards.md",
     "Networking/Routing/Midterm.md",
-    "Networking/Switching/FHRP/HSRP.md",
-    "Networking/Routing/WANs",
-    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
-    "Misc/Business Notes.md",
-    "Networking/Switching/FHRP",
-    "conflict-files-obsidian-git.md",
+    "Security/Midterm.md",
+    "Networking/Routing/Skills Exam.md",
     "Windows/Azure/Module 7.md",
-    "Windows/Azure",
-    "Untitled.md",
+    "Networking/Switching/FHRP/HSRP.md",
+    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
+    "Networking/Switching/FHRP",
+    "Networking/Routing/WANs/WAN Standards.md",
+    "Networking/Routing/WANs",
+    "Misc/Business Notes.md",
     "Misc",
     "Networking/IOS Commands.md",
-    "Networking/Switching/STP/BPDUs & BID.md",
-    "Networking/Switching/STP/PortFast.md",
-    "Networking/Switching/STP/Election Process.md",
-    "attachments/image/Operation-1707757181951.jpeg",
-    "attachments/image/Operation-1707757182007.jpeg",
-    "attachments/image/OSPF Step by Step-1704847520989.jpeg",
-    "Networking/Switching/EtherChannel/Operation.md",
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/Versions of STP.md",
-    "Networking/Switching/STP/Roles & States.md",
-    "attachments/image/Operation-1707757181885.jpeg",
-    "Networking/Routing/NAT/Types of NAT.md",
+    "Windows/Azure",
+    "Linux/Syslog.md",
+    "Networking/Switching/DHCP/DHCP Operation.md",
+    "Networking/Switching/DHCP/SLAAC.md",
+    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
+    "Networking/Switching/DHCP/DHCPv6.md",
+    "Networking/Routing/ACLs/ACL Examples.md",
     "Networking/Switching/DHCP",
-    "Networking/Routing/NAT/What is NAT.md",
-    "Networking/Routing/NAT",
+    "attachments/image/Operation-1707757182007.jpeg",
+    "attachments/image/Operation-1707757181951.jpeg",
+    "attachments/image/Operation-1707757181885.jpeg",
     "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181846.jpeg",
-    "Networking/Routing/ACLs/ACL Examples.md",
-    "Networking/Switching/EtherChannel",
-    "attachments/image/IOS Commands-1707509422244.jpeg",
-    "attachments/image/IOS Commands-1707509422243.jpeg",
-    "attachments/image/IOS Commands-1707509422241.jpeg",
-    "attachments/image/Purpose of STP-1707255207413.jpeg",
-    "Networking/Switching/STP",
-    "Networking/Routing/ACLs/Purpose.md",
-    "Networking/Routing/Skills Exam.md",
+    "Networking/Routing/NAT/What is NAT.md",
+    "Networking/Routing/NAT/Types of NAT.md",
+    "Networking/Routing/NAT",
     "Networking/Routing/ACLs/Wildcard Mask.md",
-    "Networking/Routing/ACLs",
+    "Networking/Switching/EtherChannel/Operation.md",
+    "attachments/image/Operation-1707704731190.jpeg",
+    "attachments/image/Operation-1707704664097.jpeg",
+    "attachments/image/IOS Commands-1707610849488.jpeg",
+    "attachments/image/IOS Commands-1707610849487.jpeg",
+    "attachments/image/IOS Commands-1707610849479.jpeg",
+    "Networking/Switching/STP/Versions of STP.md",
+    "Networking/Switching/STP/PortFast.md",
+    "Networking/Switching/EtherChannel",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "Networking/Switching/STP/Election Process.md",
+    "Networking/Switching/STP/Purpose of STP.md",
+    "Networking/Switching/STP/Roles & States.md",
+    "Networking/Switching/STP",
+    "Quick-Reference",
     "Networking/Switching/VLANs"
   ]
 }
