@@ -39,9 +39,9 @@
 - the first stage of the writing process includes analyzing the audience
 - **three step writing process**
 	- planning, writing, completing
-- planning should take 30% of the time to produce the message
+- planning should take 50% of the time to produce the message
 - you must make sure your purpose is acceptable to your organization
 - information for simple messages can be gathered using informal techniques
 - oral is best for immediate feedback
 - written is best when your message needs more time and resources
-- direct approach is best when the message is controversial
+- direct approach is best when the audience will react well
