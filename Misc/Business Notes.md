@@ -31,4 +31,7 @@
 - **structured** interviews are questions in a predetermined order
 - **panel** interview is when there is a group of interviewers
 - **stress** interview is when you are critized or provoked
-- **situational** is when 
+- **situational** interview is when you are given a situation you must answer to
+- in a tricky question, consider the implications and then answer
+- last opportunity to correct misconceptions is at the end of the interview
+- when discussing salary, be proactive and initiate
