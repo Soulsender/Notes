@@ -26,3 +26,5 @@
 - "the report *seems* to be incomplete"
 	- hedging sentence (sentence is uncertain)
 - sentences starting with "it" or "there" are probably longer than they need to be
+### Chapter 4
+- euphemisms can obscure the truth of something
