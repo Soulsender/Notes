@@ -4,7 +4,7 @@
 - Action
 - Result
 ### Chapter 13
-- experienced recruiters will spend no longer than 10 minutes to decide who they want for further prescreening
+- experienced recruiters will spend no longer than 30 minutes to decide who they want for further prescreening
 - **functional** resumes stress individual areas of competence
 - **chronological** resumes list jobs by job titles held
 - devote the most space to jobs that are relevant
