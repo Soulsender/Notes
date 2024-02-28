@@ -28,3 +28,6 @@
 - sentences starting with "it" or "there" are probably longer than they need to be
 ### Chapter 4
 - euphemisms can obscure the truth of something
+- **structured** interviews are questions in a predetermined order
+- **panel** interview is when there is a group of interviewers
+- **stress** int
