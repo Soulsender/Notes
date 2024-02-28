@@ -30,4 +30,5 @@
 - euphemisms can obscure the truth of something
 - **structured** interviews are questions in a predetermined order
 - **panel** interview is when there is a group of interviewers
-- **stress** int
+- **stress** interview is when you are critized or provoked
+- **situational** is when 
