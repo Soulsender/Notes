@@ -14,4 +14,5 @@
 ### Find
 - `-type l` for symbolic links
 - `-links +1` for hard links
-- 
+- `-iname` like `-name` but case insensitive
+- locate will match files with filename contains specified text
