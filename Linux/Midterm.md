@@ -11,3 +11,7 @@
 	- debug
 - `/etc/rsyslog.conf` and `/etc/rsyslog.d/`
 - `rsyslogd` daemon
+### Find
+- `-type l` for symbolic links
+- `-links +1` for hard links
+- 
