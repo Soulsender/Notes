@@ -9,4 +9,5 @@
 	- notice
 	- info
 	- debug
-- `/etc/rsyslog.conf`
+- `/etc/rsyslog.conf` and `/etc/rsyslog.d/`
+- `rsyslogd` daemon
