@@ -9,3 +9,4 @@
 	- notice
 	- info
 	- debug
+- `/etc/rsyslog.conf`
