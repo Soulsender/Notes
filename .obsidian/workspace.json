@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Midterm.md",
-                "mode": "source",
+                "file": "Misc/Business Notes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Midterm.md",
+                "file": "Misc/Business Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Midterm.md",
+                "file": "Misc/Business Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Midterm.md"
+                "file": "Misc/Business Notes.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "3bb5c153b2a8debc",
   "lastOpenFiles": [
-    "Misc/Business Notes.md",
     "Linux/Midterm.md",
+    "Misc/Business Notes.md",
     "Networking/Switching/Midterm.md",
     "conflict-files-obsidian-git.md",
     "Networking/Routing/VPNs/VPN Technology.md",
