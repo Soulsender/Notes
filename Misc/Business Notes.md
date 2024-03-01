@@ -6,7 +6,7 @@
 ### Chapter 13
 - experienced recruiters will spend no longer than 30 minutes to decide who they want for further prescreening
 - **functional** resumes stress individual areas of competence
-- **chronological** resumes list jobs by job titles held
+- **reverse chronological** resumes list jobs by job titles held
 - devote the most space to jobs that are relevant
 - the job ad should be in the subject line of the email with your resume
 ### Chapter 5
@@ -17,11 +17,9 @@
 	- this is a dangling modifier
 - four design elements
 	- justification
-	- page size
 	- type styles
-	- ???
 - short sentences are up to 15 words
-- proofreading is important because you can ensure the document is the correct length
+- proofreading is important because it carries reputation and message
 - proofreading involves revising information for clarity
 - "the report *seems* to be incomplete"
 	- hedging sentence (sentence is uncertain)
@@ -34,7 +32,7 @@
 - **situational** interview is when you are given a situation you must answer to
 - in a tricky question, consider the implications and then answer
 - last opportunity to correct misconceptions is at the end of the interview
-- when discussing salary, be proactive and initiate
+- when discussing salary, wait for interviewer to bring it up
 ### Chapter 3
 - the first stage of the writing process includes analyzing the audience
 - **three step writing process**
