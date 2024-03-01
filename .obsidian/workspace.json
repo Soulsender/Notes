@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/Midterm (1-7).md",
+                "file": "Networking/Routing/WANs/WAN Standards.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/Midterm (1-7).md",
+                "file": "Networking/Routing/WANs/WAN Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/Midterm (1-7).md",
+                "file": "Networking/Routing/WANs/WAN Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/Midterm (1-7).md"
+                "file": "Networking/Routing/WANs/WAN Standards.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "3bb5c153b2a8debc",
   "lastOpenFiles": [
+    "Networking/Routing/Midterm (1-7).md",
     "Linux/Midterm.md",
     "Misc/Business Notes.md",
     "Networking/Switching/Midterm.md",
@@ -168,7 +169,6 @@
     "Networking/Routing/VPNs/VPN Technology.md",
     "Networking/Routing/VPNs/MPLS.md",
     "Networking/Routing/VPNs",
-    "Networking/Routing/Midterm (1-7).md",
     "Security/Midterm.md",
     "Networking/Routing/Midterm.md",
     "Networking/Routing/Skills Exam.md",
