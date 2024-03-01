@@ -17,3 +17,4 @@
 - `-iname` like `-name` but case insensitive
 - locate will match files with filename contains specified text
 - find will match EXACT NAMES (no file extension unless specified)
+
