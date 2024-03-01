@@ -20,3 +20,7 @@
 ### Scripts
 - `echo -n` removes the newline and any space at the end
 - `elif` NOT `elseif` or `else if`
+### Scheduling
+- `atrm 2` to remove the second job
+- `atq` to list all jobs
+- `0 0 13 * fri` every friday OR 13th of every month
