@@ -17,4 +17,6 @@
 - `-iname` like `-name` but case insensitive
 - locate will match files with filename contains specified text
 - find will match EXACT NAMES (no file extension unless specified)
-
+### Scripts
+- `echo -n` removes the newline and any space at the end
+- `elif` NOT `elseif` or `else if`
