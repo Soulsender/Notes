@@ -23,4 +23,4 @@
 ### Scheduling
 - `atrm 2` to remove the second job
 - `atq` to list all jobs
-- `0 0 13 * fri` every friday OR 13th of every month
+- `0 0 13 * fri` every friday AND ALSO 13th of every month
