@@ -11,6 +11,8 @@
 ### ACLs
 - how to modify ACLs
 - ACL on VTY
+- **standard by destination**
+- **extended by source**
 ### NAT
 - inside/outside/local/global
 - NAT types
