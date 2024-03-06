@@ -20,3 +20,4 @@
 ### EtherChannel
 - LACP `active/passive/on`
 - PAgP `desirable/auto/on`
+- STP recalculation is not needed on a failed link

@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/EtherChannel/Operation.md",
+                "file": "Networking/Switching/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/EtherChannel/Operation.md",
+                "file": "Networking/Switching/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/EtherChannel/Operation.md"
+                "file": "Networking/Switching/Midterm.md"
               }
             }
           },
@@ -177,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bb5c153b2a8debc",
+  "active": "900ba7fa20d1c039",
   "lastOpenFiles": [
+    "Networking/Switching/EtherChannel/Operation.md",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757182007.jpeg",
     "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181885.jpeg",
-    "Networking/Switching/EtherChannel/Operation.md",
     "Networking/Switching/Midterm.md",
     "Networking/Switching/STP/Purpose of STP.md",
     "Networking/IOS Commands.md",
