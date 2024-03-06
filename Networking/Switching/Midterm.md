@@ -18,6 +18,11 @@
 - prevents looping for broadcast, multicast, and unknown multicast
 - **root ports** best route to root bridge
 ### EtherChannel
-- LACP `active/passive/on`
+- LACP `active/passive/on` (aka 802.3ad (fuck you IEEE))
 - PAgP `desirable/auto/on`
 - STP recalculation is not needed on a failed link
+- allowed VLANs, trunking, and the native VLAN must match
+- load balancing
+	- src IP to dst IP
+	- src MAC to dst MAC
+- 
