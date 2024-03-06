@@ -17,3 +17,6 @@
 - removes frame loops and give redundancy
 - prevents looping for broadcast, multicast, and unknown multicast
 - **root ports** best route to root bridge
+### EtherChannel
+- LACP `active/passive/on`
+- PAgP `desirable/auto/on`
