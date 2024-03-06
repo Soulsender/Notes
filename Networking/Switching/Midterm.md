@@ -10,3 +10,10 @@
 	- uses multiple SVIs (switch virtual interfaces) for each VLAN
 	- `no switch` creates routed port
 	- traffic is routed via internal VLAN interfaces
+### STP
+- **PortFast** bypasses listening and learning
+	- goes from blocking to forwarding
+	- only on ports with end devices (BPDUs are not recieved)
+- removes frame loops and give redundancy
+- prevents looping for broadcast, multicast, and unknown multicast
+- **root ports** best route to root bridge
