@@ -72,4 +72,9 @@
 - pre-shared keys
 - udp 500
 ## Crossword
-- 
+- confidentiality
+- implicit
+- DMZ
+- zero day
+- honeypot
+- DMZ
