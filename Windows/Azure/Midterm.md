@@ -1,2 +1,4 @@
 - **availability zones** - physically seperate datacenters in region
-- 
+- **region pairs** - 300 miles away
+- **azure functions** - event driven app
+- **azure app service** - web apps, APIs, etc.
