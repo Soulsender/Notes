@@ -1,0 +1,2 @@
+- **availability zones** - physically seperate datacenters in region
+- 

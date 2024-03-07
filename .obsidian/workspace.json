@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Windows/Azure/Midterm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Windows/Azure/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Windows/Azure/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Midterm.md"
+                "file": "Windows/Azure/Midterm.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "900ba7fa20d1c039",
   "lastOpenFiles": [
+    "Security/Midterm.md",
+    "Windows/Azure/Midterm.md",
     "Networking/Switching/Midterm.md",
     "Networking/Switching/EtherChannel/Operation.md",
     "attachments/image/Operation-1707757181951.jpeg",
@@ -180,7 +182,6 @@
     "Networking/Routing/VPNs/VPN Technology.md",
     "Networking/Routing/VPNs/MPLS.md",
     "Networking/Routing/VPNs",
-    "Security/Midterm.md",
     "Networking/Routing/Midterm.md",
     "Networking/Routing/Skills Exam.md",
     "Windows/Azure/Module 7.md",
