@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Security/Access Control.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Security/Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Security/Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Security/Access Control.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "900ba7fa20d1c039",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Security/Access Control.md",
     "Networking/Routing/ACLs/ACL Examples.md",
     "Windows/Azure/Midterm.md",
     "Security/Midterm.md",
@@ -171,7 +173,6 @@
     "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181885.jpeg",
     "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/IOS Commands.md",
     "Networking/Switching/STP/PortFast.md",
     "Networking/Switching/STP/Roles & States.md",
     "Networking/Switching/STP/Versions of STP.md",
@@ -195,7 +196,6 @@
     "Linux/Syslog.md",
     "Networking/Switching/DHCP/DHCP Operation.md",
     "Networking/Switching/DHCP/SLAAC.md",
-    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
     "Networking/Switching/DHCP",
     "attachments/image/Operation-1707757181846.jpeg",
     "Networking/Routing/NAT",
