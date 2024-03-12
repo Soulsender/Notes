@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Azure/Midterm.md",
-                "mode": "source",
+                "file": "Networking/IOS Commands.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Azure/Midterm.md",
+                "file": "Networking/IOS Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Azure/Midterm.md",
+                "file": "Networking/IOS Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Azure/Midterm.md"
+                "file": "Networking/IOS Commands.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "900ba7fa20d1c039",
   "lastOpenFiles": [
-    "Security/Midterm.md",
+    "Networking/Routing/ACLs/ACL Examples.md",
     "Windows/Azure/Midterm.md",
+    "Security/Midterm.md",
     "Networking/Switching/Midterm.md",
     "Networking/Switching/EtherChannel/Operation.md",
     "attachments/image/Operation-1707757181951.jpeg",
@@ -195,7 +196,6 @@
     "Networking/Switching/DHCP/DHCP Operation.md",
     "Networking/Switching/DHCP/SLAAC.md",
     "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
-    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
     "Networking/Switching/DHCP",
     "attachments/image/Operation-1707757181846.jpeg",
     "Networking/Routing/NAT",
