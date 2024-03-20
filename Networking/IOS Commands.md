@@ -1,3 +1,7 @@
+### Security
+- `switchport port-security {sticky}` enable port security (dynamic default, can have sticky)
+- `switchport port-secuirty maximum {}` maximum MAC addresses on a port
+- `switchport port-security mac-address {}` static MAC
 ###  DHCPv6
 - `ipv6 unicast-routing` used for all DHCPv6 configurations
 - `ipv6 nd managed-config-flag` enable stateful DHCPv6
