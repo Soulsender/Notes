@@ -8,13 +8,15 @@ I x R
 ```
 - double the resistance, half the current
 - double the current, double the voltage
-### Watts (P)
+### Watts (P or W)
 - rate of electricity use
+- `W = E^2 / R`
 ### Magnetics
 - opposite poles attract, like pole repel
 - greater the current, greater than the magnetic field
 - resistors lower voltage
-
+### Battery
+- common primary cell is carbon-zinc
 ### Resistor Chart
 
 | Color  | 1st Band | 2nd Band | 3rd Band (Multiplier) | 4th Band (Tolerance) |
