@@ -8,6 +8,8 @@ I x R
 ```
 - double the resistance, half the current
 - double the current, double the voltage
+### Watts (P)
+- rate of electricity use
 ### Magnetics
 - opposite poles attract, like pole repel
 - greater the current, greater than the magnetic field
