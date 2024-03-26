@@ -29,3 +29,4 @@ I x R
 | White  | 9        | 9        | 10^9 (1G)             |                       |
 | Gold   | -        | -        | 10^-1 (0.1)           | ±5%                   |
 | Silver | -        | -        | 10^-2 (0.01)          | ±10%                  |
+- ex. Green (5), Blue (6), Brown (x1), Gold (560 ohms)
