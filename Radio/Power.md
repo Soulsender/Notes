@@ -1,3 +1,5 @@
-- current is measure of electrons
+- **current** is measure of electrons
+- **voltage** is electrical pressure
 - opposite poles attract, like pole repel
 - greater the current, greater than the magnetic field
+- resistors lower voltage
