@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio/Metric Prefixes.md",
+                "file": "Radio/Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio/Metric Prefixes.md",
+                "file": "Radio/Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio/Metric Prefixes.md",
+                "file": "Radio/Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio/Metric Prefixes.md"
+                "file": "Radio/Power.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "900ba7fa20d1c039",
   "lastOpenFiles": [
-    "Radio/NATO Alphabet.md",
     "Radio/Metric Prefixes.md",
+    "Radio/Power.md",
+    "Radio/NATO Alphabet.md",
     "Security/Access Control.md",
     "Radio",
     "Linux/Logical Volumes.md",
@@ -192,7 +193,6 @@
     "Networking/Routing/Skills Exam.md",
     "Windows/Azure/Module 7.md",
     "Networking/Switching/FHRP/HSRP.md",
-    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
     "Misc",

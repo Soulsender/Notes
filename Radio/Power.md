@@ -1,0 +1,3 @@
+- current is measure of electrons
+- opposite poles attract, like pole repel
+- greater the current, greater than the magnetic field
