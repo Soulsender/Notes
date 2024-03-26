@@ -17,6 +17,7 @@ I x R
 - resistors lower voltage
 ### Battery
 - common primary cell is carbon-zinc
+- car battery lead-acid battery, 12 volts
 ### Resistor Chart
 
 | Color  | 1st Band | 2nd Band | 3rd Band (Multiplier) | 4th Band (Tolerance) |
