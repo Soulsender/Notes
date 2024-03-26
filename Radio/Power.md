@@ -12,3 +12,20 @@ I x R
 - opposite poles attract, like pole repel
 - greater the current, greater than the magnetic field
 - resistors lower voltage
+
+### Resistor Chart
+
+| Color  | 1st Band | 2nd Band | 3rd Band (Multiplier) | 4th Band (Tolerance) |
+|--------|----------|----------|-----------------------|-----------------------|
+| Black  | 0        | 0        | 10^0 (1)              |                       |
+| Brown  | 1        | 1        | 10^1 (10)             | ±1%                   |
+| Red    | 2        | 2        | 10^2 (100)            | ±2%                   |
+| Orange | 3        | 3        | 10^3 (1k)             |                       |
+| Yellow | 4        | 4        | 10^4 (10k)            |                       |
+| Green  | 5        | 5        | 10^5 (100k)           | ±0.5%                 |
+| Blue   | 6        | 6        | 10^6 (1M)             | ±0.25%                |
+| Violet | 7        | 7        | 10^7 (10M)            | ±0.1%                 |
+| Gray   | 8        | 8        | 10^8 (100M)           | ±0.05%                |
+| White  | 9        | 9        | 10^9 (1G)             |                       |
+| Gold   | -        | -        | 10^-1 (0.1)           | ±5%                   |
+| Silver | -        | -        | 10^-2 (0.01)          | ±10%                  |
