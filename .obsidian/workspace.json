@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio/NATO Alphabet.md",
-                "mode": "preview",
+                "file": "Radio/Metric Prefixes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio/NATO Alphabet.md",
+                "file": "Radio/Metric Prefixes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio/NATO Alphabet.md",
+                "file": "Radio/Metric Prefixes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio/NATO Alphabet.md"
+                "file": "Radio/Metric Prefixes.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "900ba7fa20d1c039",
   "lastOpenFiles": [
-    "Security/Access Control.md",
     "Radio/NATO Alphabet.md",
+    "Radio/Metric Prefixes.md",
+    "Security/Access Control.md",
     "Radio",
     "Linux/Logical Volumes.md",
     "Networking/IOS Commands.md",
@@ -196,7 +197,6 @@
     "Networking/Routing/WANs",
     "Misc",
     "Windows/Azure",
-    "Linux/Syslog.md",
     "Networking/Switching/DHCP",
     "attachments/image/Operation-1707757181846.jpeg",
     "Networking/Routing/NAT",
