@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.11"
               }
             }
+          },
+          {
+            "id": "56ad038cbe582ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Resetting Password.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio/Power.md",
+                "file": "Networking/Resetting Password.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio/Power.md",
+                "file": "Networking/Resetting Password.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio/Power.md"
+                "file": "Networking/Resetting Password.md"
               }
             }
           },
@@ -170,8 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e5e991b1626de38",
+  "active": "56ad038cbe582ab6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Networking/Resetting Password.md",
     "Radio/Metric Prefixes.md",
     "Radio/Power.md",
     "Radio/NATO Alphabet.md",
@@ -196,14 +210,12 @@
     "Networking/Routing/WANs/WAN Standards.md",
     "Linux/Midterm.md",
     "Misc/Business Notes.md",
-    "conflict-files-obsidian-git.md",
     "Networking/Routing/VPNs/VPN Technology.md",
     "Networking/Routing/VPNs/MPLS.md",
     "Networking/Routing/VPNs",
     "Networking/Routing/Midterm.md",
     "Networking/Routing/Skills Exam.md",
     "Windows/Azure/Module 7.md",
-    "Networking/Switching/FHRP/HSRP.md",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
     "Misc",
