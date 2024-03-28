@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Resetting Password.md",
+                "file": "Networking/Routing/NAT/What is NAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Resetting Password.md",
+                "file": "Networking/Routing/NAT/What is NAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Resetting Password.md",
+                "file": "Networking/Routing/NAT/What is NAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Resetting Password.md"
+                "file": "Networking/Routing/NAT/What is NAT.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "56ad038cbe582ab6",
   "lastOpenFiles": [
-    "Networking/IOS Commands.md",
+    "Networking/Routing/NAT/Types of NAT.md",
+    "Networking/Routing/NAT/What is NAT.md",
     "Networking/Resetting Password.md",
+    "Networking/IOS Commands.md",
     "conflict-files-obsidian-git.md",
     "Radio/Metric Prefixes.md",
     "Radio/Power.md",
@@ -214,8 +216,6 @@
     "Networking/Routing/VPNs/MPLS.md",
     "Networking/Routing/VPNs",
     "Networking/Routing/Midterm.md",
-    "Networking/Routing/Skills Exam.md",
-    "Windows/Azure/Module 7.md",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
     "Misc",
