@@ -45,4 +45,5 @@ I x R
 - smooth variable flows
 - opposes changes in **voltage**
 ### Inductors
-- resist changes in **current**
+- opposes changes in **current**
+- stores electrical energy as a magnetic field

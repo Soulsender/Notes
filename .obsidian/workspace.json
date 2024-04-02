@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "403b4e548182b4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Radio/Power.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56ad038cbe582ab6",
+  "active": "403b4e548182b4fc",
   "lastOpenFiles": [
     "Radio/Metric Prefixes.md",
     "Networking/Routing/NAT/What is NAT.md",
