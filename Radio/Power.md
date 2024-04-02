@@ -55,3 +55,4 @@ I x R
 - resistance
 ### Resonance
 - adding circuit resistance does not change resonance
+- resonanting frequency is how much the circuit oscillates
