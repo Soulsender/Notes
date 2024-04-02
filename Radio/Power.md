@@ -40,6 +40,9 @@ I x R
 ### Decibals
 - +3 dB double
 - -3 dB half
-### Capacitors
+### Capacitors (Farads F)
 - store energy
 - smooth variable flows
+- opposes changes in **voltage**
+### Inductors
+- resist changes in **current**
