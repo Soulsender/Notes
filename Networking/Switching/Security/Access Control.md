@@ -8,6 +8,8 @@
 - DHCP snooping
 - dynamic ARP inspection
 - IP source guard
+- BPDU Guard
+	- disables ports that receive BPDU on access port
 ### Port Security
 - address modes
 	- manual - statically configured by admin
