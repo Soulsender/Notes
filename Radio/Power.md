@@ -37,3 +37,10 @@ I x R
 - ex. Green (5), Blue (6), Brown (x1), Gold (560 ohms)
 ### Human Hearing
 20-20000 Hz
+
+### Decibals
+- +3 dB double
+- -3 dB half
+
+### Capacitors
+- store energy
