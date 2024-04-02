@@ -59,3 +59,9 @@ I x R
 ### Transformers
 - raise or lower voltage
 - match impedances
+### Amplifiers
+- designed to increase level of input signal
+- can be audio, radio frequency, etc.
+- increase current, voltage, or power, but NOT resistance
+### Diodes
+- allow electrons to flow in one direction
