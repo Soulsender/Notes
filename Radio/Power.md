@@ -44,6 +44,7 @@ I x R
 - store energy
 - smooth variable flows
 - opposes changes in **voltage**
+- filtering
 ### Inductors
 - opposes changes in **current**
 - stores electrical energy as a magnetic field
@@ -63,11 +64,12 @@ I x R
 - designed to increase level of input signal
 - can be audio, radio frequency, etc.
 - increase current, voltage, or power, but NOT resistance
-### Diodes
+### Diodes (rectifier)
 - allow electrons to flow in one direction
 - convert AC to DC
 - allows current in forward; blocks current in backward
 - zener diodes (voltage regulators)
+	- regulate voltage
 ### Vacuum Tube
 - higher voltages to operate
 - higher power levels
