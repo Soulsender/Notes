@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio/Power.md",
+                "file": "Networking/Switching/Security/Access Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio/Power.md",
+                "file": "Networking/Switching/Security/Access Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio/Power.md",
+                "file": "Networking/Switching/Security/Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio/Power.md"
+                "file": "Networking/Switching/Security/Access Control.md"
               }
             }
           },
@@ -196,13 +196,16 @@
   },
   "active": "403b4e548182b4fc",
   "lastOpenFiles": [
+    "Radio/Power.md",
+    "Networking/Switching/Security/Access Control.md",
+    "Networking/Switching/Security",
+    "Networking/Switching/WLANs",
     "Radio/Metric Prefixes.md",
     "Networking/Routing/NAT/What is NAT.md",
     "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Resetting Password.md",
     "Networking/IOS Commands.md",
     "conflict-files-obsidian-git.md",
-    "Radio/Power.md",
     "Radio/NATO Alphabet.md",
     "Security/Access Control.md",
     "Radio",
@@ -227,7 +230,6 @@
     "Networking/Routing/VPNs/VPN Technology.md",
     "Networking/Routing/VPNs/MPLS.md",
     "Networking/Routing/VPNs",
-    "Networking/Routing/Midterm.md",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
     "Misc",
@@ -239,8 +241,6 @@
     "attachments/image/Operation-1707704664097.jpeg",
     "attachments/image/IOS Commands-1707610849488.jpeg",
     "attachments/image/IOS Commands-1707610849487.jpeg",
-    "attachments/image/IOS Commands-1707610849479.jpeg",
-    "Networking/Switching/EtherChannel",
-    "Networking/Switching/STP"
+    "attachments/image/IOS Commands-1707610849479.jpeg"
   ]
 }
