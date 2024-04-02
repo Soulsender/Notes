@@ -68,3 +68,13 @@ I x R
 - convert AC to DC
 - allows current in forward; blocks current in backward
 - zener diodes (voltage regulators)
+### Vacuum Tube
+- higher voltages to operate
+- higher power levels
+- amplify signals
+- waste energy as heat
+- triodes
+	- filament - heats cathode to emit electrons
+	- cathode - emits electrons
+	- grid - cylinder of wire mesh one grid
+	- plate - operates at high positive potential to attract electrons
