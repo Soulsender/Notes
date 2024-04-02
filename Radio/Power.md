@@ -56,3 +56,6 @@ I x R
 ### Resonance
 - adding circuit resistance does not change resonance
 - resonating frequency is how much the circuit oscillates
+### Transformers
+- raise or lower voltage
+- match impedances
