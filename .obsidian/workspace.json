@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/NAT/What is NAT.md",
+                "file": "Radio/Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/NAT/What is NAT.md",
+                "file": "Radio/Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/NAT/What is NAT.md",
+                "file": "Radio/Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/NAT/What is NAT.md"
+                "file": "Radio/Power.md"
               }
             }
           },
@@ -184,12 +184,12 @@
   },
   "active": "56ad038cbe582ab6",
   "lastOpenFiles": [
-    "Networking/Routing/NAT/Types of NAT.md",
+    "Radio/Metric Prefixes.md",
     "Networking/Routing/NAT/What is NAT.md",
+    "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Resetting Password.md",
     "Networking/IOS Commands.md",
     "conflict-files-obsidian-git.md",
-    "Radio/Metric Prefixes.md",
     "Radio/Power.md",
     "Radio/NATO Alphabet.md",
     "Security/Access Control.md",
