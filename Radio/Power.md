@@ -35,3 +35,5 @@ I x R
 | Gold   | -        | -        | 10^-1 (0.1)           | ±5%                   |
 | Silver | -        | -        | 10^-2 (0.01)          | ±10%                  |
 - ex. Green (5), Blue (6), Brown (x1), Gold (560 ohms)
+### Human Hearing
+20-20000 Hz
