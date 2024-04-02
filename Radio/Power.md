@@ -48,3 +48,10 @@ I x R
 - opposes changes in **current**
 - stores electrical energy as a magnetic field
 - add inductors together in series 
+### AC
+- capacitive reactance
+- resistance + reactance = impedance
+### DC
+- resistance
+### Resonance
+- adding circuit resistance does not change resonance
