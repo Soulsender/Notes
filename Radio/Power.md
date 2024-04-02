@@ -76,5 +76,8 @@ I x R
 - triodes
 	- filament - heats cathode to emit electrons
 	- cathode - emits electrons
-	- grid - cylinder of wire mesh one grid
+	- grid - cylinder of wire mesh one grid (only one)
 	- plate - operates at high positive potential to attract electrons
+### Power Supply
+- transceiver needs high current capacity power supply
+- cathode to anode - electron flow
