@@ -47,3 +47,4 @@ I x R
 ### Inductors
 - opposes changes in **current**
 - stores electrical energy as a magnetic field
+- add inductors together in series 
