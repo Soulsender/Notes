@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/WLANs/Access Points.md",
+                "file": "Networking/Switching/WLANs/Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/WLANs/Access Points.md",
+                "file": "Networking/Switching/WLANs/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/WLANs/Access Points.md",
+                "file": "Networking/Switching/WLANs/Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/WLANs/Access Points.md"
+                "file": "Networking/Switching/WLANs/Operation.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "403b4e548182b4fc",
   "lastOpenFiles": [
-    "Networking/Switching/WLANs/802.11 Standards.md",
     "Networking/Switching/WLANs/Access Points.md",
+    "Networking/Switching/WLANs/Operation.md",
+    "Networking/Switching/WLANs/802.11 Standards.md",
     "Networking/Switching/Security/Access Control.md",
     "Radio/Power.md",
     "Networking/Switching/Security",
@@ -228,7 +229,6 @@
     "Networking/Routing/Midterm (1-7).md",
     "Networking/Routing/WANs/WAN Standards.md",
     "Linux/Midterm.md",
-    "Misc/Business Notes.md",
     "Networking/Routing/VPNs",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
