@@ -65,3 +65,6 @@ I x R
 - increase current, voltage, or power, but NOT resistance
 ### Diodes
 - allow electrons to flow in one direction
+- convert AC to DC
+- allows current in forward; blocks current in backward
+- zener diodes (voltage regulators)
