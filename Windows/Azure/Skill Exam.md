@@ -8,7 +8,10 @@
 - Set both values to 1 in hex
 ### Group Policy
 
-| Policy                                        | Path                                                                                        |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Admin approval mode forbuilt-in admin account | `Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options` |
-| Bitlocker                                     |                                                                                             |
+| Policy                                         | Path                                                                                                                |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Admin approval mode for built-in admin account | **Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options**               |
+| Bitlocker                                      | **Computer Configuration** > **Administrative Templates** > **Windows Components** > **BitLocker Drive Encryption** |
+|                                                |                                                                                                                     |
+### Misc
+- enable "Store recovery keys in active directory" in bitlocker GPO
