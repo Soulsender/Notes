@@ -41,3 +41,6 @@
 	- can shut down electronics
 	- influences all radio comms beyond ground way or line of sight
 - more sun spots, greater ionization
+### Software
+- [HamClock](https://www.clearskyinstitute.com/ham/HamClock/)
+- 
