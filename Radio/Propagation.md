@@ -7,6 +7,7 @@
 - **surface wave** (ground wave) - follows curve of earth
 - satellite comms must be higher frequency waves so they do not reflect on ionosphere
 - 15 degrees best for longest distance generally
+- skips bounce better over water
 
 | Name          | Description                                                                                                      |
 | ------------- | ---------------------------------------------------------------------------------------------------------------- |
