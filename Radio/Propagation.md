@@ -5,10 +5,12 @@
 - **ionosphere wave** (skip, sky-wave)
 - **line of sight** (direct wave, direct path) - literally what it sounds like
 - **surface wave** (ground wave) - follows curve of earth
-- satilite comms must be commed to by higher frequency waves so they do not 
+- satellite comms must be higher frequency waves so they do not reflect on ionosphere
 ### Good & Bad Conditions
-
-| Good                                            | Bad                                         |
-| ----------------------------------------------- | ------------------------------------------- |
-| Sun is out, ionosphere is good (F, E, D layers) | Rain can block radio waves                  |
-|                                                 | Night looses D layer, E layer is diminished |
+- Rain can block radio waves
+- Night looses D layer, E layer is diminished, night is better for long range comms
+- Sun is out, ionosphere is lower (F, E, D layers), better for short comms
+### Ionosphere Layers
+- `F > E > D` *(highest to lowest)*
+- F layer hangs around
+- splits into two (F1 and F2) at daytime
