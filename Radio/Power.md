@@ -35,3 +35,51 @@ I x R
 | Gold   | -        | -        | 10^-1 (0.1)           | ±5%                   |
 | Silver | -        | -        | 10^-2 (0.01)          | ±10%                  |
 - ex. Green (5), Blue (6), Brown (x1), Gold (560 ohms)
+### Human Hearing
+- 20-20000 Hz
+### Decibals
+- +3 dB double
+- -3 dB half
+### Capacitors (Farads F)
+- store energy
+- smooth variable flows
+- opposes changes in **voltage**
+- filtering
+### Inductors
+- opposes changes in **current**
+- stores electrical energy as a magnetic field
+- add inductors together in series 
+### AC
+- capacitive reactance
+- resistance + reactance = impedance
+### DC
+- resistance
+### Resonance
+- adding circuit resistance does not change resonance
+- resonating frequency is how much the circuit oscillates
+### Transformers
+- raise or lower voltage
+- match impedances
+### Amplifiers
+- designed to increase level of input signal
+- can be audio, radio frequency, etc.
+- increase current, voltage, or power, but NOT resistance
+### Diodes (rectifier)
+- allow electrons to flow in one direction
+- convert AC to DC
+- allows current in forward; blocks current in backward
+- zener diodes (voltage regulators)
+	- regulate voltage
+### Vacuum Tube
+- higher voltages to operate
+- higher power levels
+- amplify signals
+- waste energy as heat
+- triodes
+	- filament - heats cathode to emit electrons
+	- cathode - emits electrons
+	- grid - cylinder of wire mesh one grid (only one)
+	- plate - operates at high positive potential to attract electrons
+### Power Supply
+- transceiver needs high current capacity power supply
+- cathode to anode - electron flow
