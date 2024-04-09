@@ -10,14 +10,15 @@
 - skips bounce better over water
 - lower freqs travel longer distances than higher
 
-| Name          | Description                                                                                                      |
-| ------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Skip distance | transmitter to nearest point where sky wave returns to eath. Determined by height of ionosphere & angle of waves |
-| Skip zone     | Point where no waves will reach (too close to groundwave, too far from skywave)                                  |
-| Multihop      | Can reflect again and cause multihop where waves reflect multiple times (3000km per hop)                         |
-| Path loss     | Waves diminishing over time                                                                                      |
-| Multipath     | Waves getting somewhere simultaneously by bouncing or travelling directly                                        |
-| Polarization  | VHF and UHF band antennas must have same polarization as transmitting/receiving                                  |
+| Name             | Description                                                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Skip distance    | transmitter to nearest point where sky wave returns to eath. Determined by height of ionosphere & angle of waves          |
+| Skip zone        | Point where no waves will reach (too close to groundwave, too far from skywave)                                           |
+| Multihop         | Can reflect again and cause multihop where waves reflect multiple times (3000km per hop)                                  |
+| Path loss        | Waves diminishing over time                                                                                               |
+| Multipath        | Waves getting somewhere simultaneously by bouncing or travelling directly                                                 |
+| Polarization     | VHF and UHF band antennas must have same polarization as transmitting/receiving **(not caused by parabolic interaction)** |
+| Selective fading | phase differences between radio wave components of same transmission                                                      |
 
 ### Good & Bad Conditions
 - Rain can block radio waves
@@ -27,3 +28,5 @@
 - `F > E > D` *(highest to lowest)*
 - F layer hangs around
 - splits into two (F1 and F2) at daytime
+### Solar Activity
+- 11-year solar cycle
