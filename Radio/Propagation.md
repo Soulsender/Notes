@@ -19,6 +19,8 @@
 | Multipath        | Waves getting somewhere simultaneously by bouncing or travelling directly                                                 |
 | Polarization     | VHF and UHF band antennas must have same polarization as transmitting/receiving **(not caused by parabolic interaction)** |
 | Selective fading | phase differences between radio wave components of same transmission                                                      |
+| Solar flux       | Radio energy emitted by sun; index is measure of solar activity that is taken at specific frequency                       |
+|                  |                                                                                                                           |
 
 ### Good & Bad Conditions
 - Rain can block radio waves
