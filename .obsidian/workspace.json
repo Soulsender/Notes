@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a37c7c1e5bdffa2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78762f8b46090023",
+  "active": "0a37c7c1e5bdffa2",
   "lastOpenFiles": [
     "Networking/Routing/OSPF/OSPF Step by Step.md",
     "Networking/Routing/OSPF/States.md",
