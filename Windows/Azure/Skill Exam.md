@@ -7,3 +7,8 @@
 - New DWORD "BypassSecureBootCheck"
 - Set both values to 1 in hex
 ### Group Policy
+
+| Policy                                        | Path                                                                                        |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Admin approval mode forbuilt-in admin account | `Computer Configuration\Windows Settings\Security Settings\Local Policies\Security Options` |
+| Bitlocker                                     |                                                                                             |
