@@ -23,6 +23,8 @@
 | Critical freq         | Highest frequency where radio is reflect to earth                                                                         |
 | Lowest usablke freq   | Lowest freq which will support comms over circuit (tx/rx)                                                                 |
 | Maximum freq          | Highest freq that will reach destination                                                                                  |
+| Scatter               | weak, distorted signal,                                                                                                   |
+|                       |                                                                                                                           |
 
 ### Good & Bad Conditions
 - Rain can block radio waves
