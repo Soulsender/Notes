@@ -43,4 +43,5 @@
 - more sun spots, greater ionization
 ### Software
 - [HamClock](https://www.clearskyinstitute.com/ham/HamClock/)
-- 
+- [VOACAP](https://www.voacap.com/hf/)
+- [WSPR](https://www.arrl.org/wspr)
