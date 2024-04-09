@@ -30,3 +30,7 @@
 - splits into two (F1 and F2) at daytime
 ### Solar Activity
 - 11-year solar cycle
+- coronal mass ejection (CMEs)
+	- can shut down electronics
+	- influences all radio comms beyond ground way or line of sight
+- more sun spots, greater ionization
