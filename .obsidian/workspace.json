@@ -4,45 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efbc242b9f2a343e",
+        "id": "86633dd36cbd5831",
         "type": "tabs",
         "children": [
           {
-            "id": "900ba7fa20d1c039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radio/Power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e5e991b1626de38",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "56ad038cbe582ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radio/Power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "403b4e548182b4fc",
+            "id": "e37be6b6ed98f2ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "403b4e548182b4fc",
+  "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
-    "Radio/Propagation.md",
+    "Radio/Power.md",
+    "Networking/Switching/STP/Purpose of STP.md",
     "Networking/Switching/Final.md",
+    "Radio/Propagation.md",
+    "Radio/NATO Alphabet.md",
+    "Radio/Metric Prefixes.md",
+    "Networking/Routing/Midterm (1-7).md",
+    "Networking/Routing/WANs/WAN Standards.md",
+    "Networking/Routing/VPNs/MPLS.md",
+    "Networking/Routing/OSPF/States.md",
+    "Networking/Routing/OSPF/RIP vs OSPF.md",
+    "Networking/Routing/OSPF/OSPF Step by Step.md",
+    "Networking/Routing/NAT/What is NAT.md",
+    "Networking/Routing/NAT/Types of NAT.md",
+    "Networking/Routing/ACLs/Purpose.md",
+    "Networking/Routing/OSPF/Elections & DRs.md",
+    "Networking/Routing/OSPF/QUIZ.md",
     "Windows/Azure/Skill Exam.md",
     "Networking/Switching/WLANs/Access Points.md",
     "Networking/Switching/WLANs/Operation.md",
@@ -206,29 +186,14 @@
     "Networking/Switching/Midterm.md",
     "Networking/IOS Commands.md",
     "Networking/Switching/Security/Access Control.md",
-    "Radio/Power.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
-    "Radio/Metric Prefixes.md",
-    "Networking/Routing/NAT/What is NAT.md",
-    "Networking/Routing/NAT/Types of NAT.md",
     "conflict-files-obsidian-git.md",
-    "Radio/NATO Alphabet.md",
-    "Security/Access Control.md",
     "Radio",
-    "Linux/Logical Volumes.md",
-    "Networking/Routing/ACLs/ACL Examples.md",
-    "Windows/Azure/Midterm.md",
-    "Security/Midterm.md",
-    "Networking/Switching/EtherChannel/Operation.md",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757182007.jpeg",
     "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181885.jpeg",
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/PortFast.md",
-    "Networking/Switching/STP/Roles & States.md",
-    "Networking/Switching/STP/Versions of STP.md",
     "Networking/Routing/VPNs",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
