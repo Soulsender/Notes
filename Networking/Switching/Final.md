@@ -6,11 +6,11 @@
 - if priority is same; lowest MAC wins
 - priority = 32768 + extended sys ID
 
-| STP Version | Desc                                      |
-| ----------- | ----------------------------------------- |
-| STP         | original, aka CST                         |
-| PVST+       | seperate 802.1D ST instance for each VLAN |
-| RSTP        | faster version of STP                     |
-| Rapid PVST+ | seperate 802.1w instance per VLAN         |
-| MSTP        | IEEE maps multiple                        |
-|             |                                           |
+| STP Version | Desc                                                     |
+| ----------- | -------------------------------------------------------- |
+| STP         | original, aka CST                                        |
+| PVST+       | seperate 802.1D ST instance for each VLAN                |
+| RSTP        | faster version of STP                                    |
+| Rapid PVST+ | seperate 802.1w instance per VLAN                        |
+| MSTP        | IEEE maps multiple                                       |
+| MST         | cisco version of MSTP, combines VLANs into TSTP instance |
