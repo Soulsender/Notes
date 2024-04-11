@@ -19,4 +19,6 @@
 - LACP (act/pas) / PAgP (aut/des)
 - SU = in use
 #### DHCPv6
-- 
+- stateful = `A=0 O=0 M=1`
+- stateless = `A=1 O=1 M=0`
+- relay = `ipv6 dhcp relay dest {addr}`
