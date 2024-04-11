@@ -18,3 +18,5 @@
 ### Etherchannel
 - LACP (act/pas) / PAgP (aut/des)
 - SU = in use
+#### DHCPv6
+- 
