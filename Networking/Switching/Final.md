@@ -41,3 +41,4 @@
 | S      | static route           |
 | O      | dynamic route          |
 | *      | default route          |
+- `[admin/metric]`
