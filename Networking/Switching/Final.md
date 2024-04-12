@@ -29,3 +29,5 @@
 | HSRP (Hot Standby) | active & standby devices; cisco prop |
 | VRRP               | virtual routers; open source         |
 | GLBP               | load balances; cisco prop            |
+### Dynamic ARP Inspection
+- requires DHCP snooping global
