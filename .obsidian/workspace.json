@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/Final.md",
+                "file": "Networking/Subnet Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/Final.md",
+                "file": "Networking/Subnet Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/Final.md",
+                "file": "Networking/Subnet Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/Final.md"
+                "file": "Networking/Subnet Sheet.md"
               }
             }
           },
@@ -161,9 +161,10 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
+    "Networking/Switching/Final.md",
+    "Networking/Subnet Sheet.md",
     "Networking/Switching/Midterm.md",
     "README.md",
-    "Networking/Switching/Final.md",
     "Radio/Power.md",
     "Networking/Switching/STP/Purpose of STP.md",
     "Radio/Propagation.md",
@@ -186,7 +187,6 @@
     "Networking/Switching/WLANs/802.11 Standards.md",
     "Networking/Resetting Password.md",
     "Networking/IOS Commands.md",
-    "Networking/Switching/Security/Access Control.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
