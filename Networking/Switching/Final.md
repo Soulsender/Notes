@@ -31,3 +31,13 @@
 | GLBP               | load balances; cisco prop            |
 ### Dynamic ARP Inspection
 - requires DHCP snooping global
+- verifies IP-to-MAC
+### Static Routing
+
+| Letter | Desc                   |
+| ------ | ---------------------- |
+| L      | address for router int |
+| C      | directly connected     |
+| S      | static route           |
+| O      | dynamic route          |
+| *      | default route          |
