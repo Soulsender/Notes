@@ -24,6 +24,8 @@
 - relay = `ipv6 dhcp relay dest {addr}`
 #### FHRP
 
-| Protocol           | Desc                                     |
-| ------------------ | ---------------------------------------- |
-| HSRP (Hot Standby) | chooses active device and standby device |
+| Protocol           | Desc                         |
+| ------------------ | ---------------------------- |
+| HSRP (Hot Standby) | active & standby devices     |
+| VRRP               | virtual routers; open source |
+|                    |                              |
