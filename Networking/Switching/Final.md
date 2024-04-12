@@ -7,14 +7,14 @@
 - **priority** = 32768 + extended sys ID
 - **portfast** = blocking >>> forwarding
 
-| STP Version | Desc                                                           |
-| ----------- | -------------------------------------------------------------- |
-| STP         | original, aka CST                                              |
-| PVST+       | seperate 802.1D ST instance for each VLAN                      |
-| RSTP        | faster version of STP                                          |
-| Rapid PVST+ | seperate 802.1w instance per VLAN, has BPDU guard and portfast |
-| MSTP        | IEEE maps multiple                                             |
-| MST         | cisco version of MSTP, combines VLANs into TSTP instance       |
+| STP Version | Desc                                                                       |
+| ----------- | -------------------------------------------------------------------------- |
+| STP         | original, aka CST                                                          |
+| PVST+       | seperate 802.1D ST instance for each VLAN                                  |
+| RSTP        | faster version of STP                                                      |
+| Rapid PVST+ | seperate 802.1w instance per VLAN, has BPDU guard and portfast; cisco prop |
+| MSTP        | IEEE maps multiple                                                         |
+| MST         | cisco version of MSTP, combines VLANs into TSTP instance                   |
 ### Etherchannel
 - LACP (act/pas) / PAgP (aut/des)
 - SU = in use
@@ -24,8 +24,8 @@
 - relay = `ipv6 dhcp relay dest {addr}`
 #### FHRP
 
-| Protocol           | Desc                         |
-| ------------------ | ---------------------------- |
-| HSRP (Hot Standby) | active & standby devices     |
-| VRRP               | virtual routers; open source |
-|                    |                              |
+| Protocol           | Desc                                 |
+| ------------------ | ------------------------------------ |
+| HSRP (Hot Standby) | active & standby devices; cisco prop |
+| VRRP               | virtual routers; open source         |
+| GLBP               | load balances; cisco prop            |
