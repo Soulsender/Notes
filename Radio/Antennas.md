@@ -18,4 +18,5 @@
 ### Yagi
 - increase gain by adding boom length and directors
 - excellent front to back ratio
+- traps on antenna are basically inductors for tuning
 > yagi antennas have one driven element
