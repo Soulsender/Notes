@@ -9,3 +9,9 @@
 	- wavelength (meters) = 300 / frequency MHz
 - full wave below 30MHz
 	- wavelength (meters) = 286 / frequency MHz
+### Antenna Calculations
+- below 30 MHz
+	- wavelength (meters) = 286 / frequency MHz
+	- 1/2 wavelength (meters) = 143 / frequency MHz
+> if you made a half-wave dipole antenna for 28.150 MHz, how long would it be?
+> 143 / 28.150 = 5.08m
