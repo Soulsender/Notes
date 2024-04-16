@@ -15,3 +15,7 @@
 	- 1/2 wavelength (meters) = 143 / frequency MHz
 > if you made a half-wave dipole antenna for 28.150 MHz, how long would it be?
 > 143 / 28.150 = 5.08m
+### Yagi
+- increase gain by adding boom length and directors
+- excellent front to back ratio
+> yagi antennas have one driven element
