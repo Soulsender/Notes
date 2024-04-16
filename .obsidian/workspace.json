@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
-                "mode": "preview",
+                "file": "Radio/Transmission Lines.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Radio/Transmission Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Radio/Transmission Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Radio/Transmission Lines.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Radio/Transmission Lines.md",
     "Networking/Switching/Final.md",
     "Networking/Switching/Midterm.md",
     "Networking/Subnet Sheet.md",
@@ -185,8 +187,6 @@
     "Networking/Switching/WLANs/Access Points.md",
     "Networking/Switching/WLANs/Operation.md",
     "Networking/Switching/WLANs/802.11 Standards.md",
-    "Networking/Resetting Password.md",
-    "Networking/IOS Commands.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
