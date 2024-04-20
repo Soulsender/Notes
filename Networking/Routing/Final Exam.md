@@ -9,3 +9,12 @@
 	- in/out IPv6
 ### NAT
 - NAT64 used to provide access for IPv4 and IPv6 only networks
+### WAN
+- single-homed
+	- connects to ISP with one link
+- dual-homed
+	- connects to ISP with two links
+- multihomed
+	- connects to two different ISPs; one link each
+- dual-multihomed
+	- connects to two different ISPs; two links each
