@@ -18,3 +18,8 @@
 	- connects to two different ISPs; one link each
 - dual-multihomed
 	- connects to two different ISPs; two links each
+- ISPs use PPP
+	- authentication
+	- assign public IPv4 addr\
+	- link-quality management features
+	- ethernet does not support PPP
