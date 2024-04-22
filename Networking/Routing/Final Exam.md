@@ -41,3 +41,9 @@
 - LLQ (low latency queuing)
 	- sends delay sensitive packets first
 	- used with CBWFQ
+- shaping doesn't drop packets, it sends at a different time
+- policing drops packets when it is overwhelmed
+### Network Management
+- syslog (DINWECAE) 8 total
+	- 0 emergency
+	- 7 debug
