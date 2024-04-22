@@ -27,3 +27,8 @@
 - GRE; tunnel only, no encryption
 - site-to-site; between routers
 - remote access; client has VPN client software
+- HTTPS is clientless VPN
+### QoS
+- FIFO; first in first out
+	- is default
+- WFQ; weighted fair que
