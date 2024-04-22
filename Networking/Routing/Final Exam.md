@@ -23,3 +23,7 @@
 	- assign public IPv4 addr\
 	- link-quality management features
 	- ethernet does not support PPP
+### VPN
+- GRE; tunnel only, no encryption
+- site-to-site; between routers
+- remote access; client has VPN client software
