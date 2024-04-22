@@ -36,4 +36,8 @@
 	- uses packet headers src/dst IPs, MACs, port numbers, protocol, & ToS (in IP header)
 	- cannot be used with tunneling/encryption
 - CBWFQ (class based weighted fair queuing)
-	- 
+	- extends WFQ with user classes
+	- can be used with tunneling/encryption
+- LLQ (low latency queuing)
+	- sends delay sensitive packets first
+	- used with CBWFQ
