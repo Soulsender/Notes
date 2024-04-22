@@ -47,3 +47,5 @@
 - syslog (DINWECAE) 8 total
 	- 0 emergency
 	- 7 debug
+- troubleshooting
+	- define problem > gather info > analyze info > eliminate causes > propose hypothesis > test > solve
