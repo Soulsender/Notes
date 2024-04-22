@@ -29,6 +29,11 @@
 - remote access; client has VPN client software
 - HTTPS is clientless VPN
 ### QoS
-- FIFO; first in first out
+- FIFO (first in first out)
 	- is default
-- WFQ; weighted fair que
+- WFQ (weighted fair queuing)
+	- classifies traffic by priority
+	- uses packet headers src/dst IPs, MACs, port numbers, protocol, & ToS (in IP header)
+	- cannot be used with tunneling/encryption
+- CBWFQ (class based weighted fair queuing)
+	- 
