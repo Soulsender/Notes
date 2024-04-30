@@ -21,4 +21,5 @@
 ### Module 11
 - azure advisor
 	- makes security, performance, and reliability recommendations
-	- 
+- azure monitor
+	- visual information of resources
