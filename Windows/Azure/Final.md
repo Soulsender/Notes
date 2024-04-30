@@ -10,3 +10,11 @@
 	- for risk compliance, security and management
 - azure policy
 	- policies and auditing of resources
+	- monitoring of security vulnerabilities
+- resource locks
+	- prevents changes or accidental deletion
+- service trust portal
+	- resources about security and privacy compliance
+### Module 10
+- azure arc
+	- 
