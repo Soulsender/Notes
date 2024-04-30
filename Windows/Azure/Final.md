@@ -23,3 +23,8 @@
 	- makes security, performance, and reliability recommendations
 - azure monitor
 	- visual information of resources
+### Module 12
+- entra ID
+	- single sign on
+	- access ctronaols
+	- data protection
