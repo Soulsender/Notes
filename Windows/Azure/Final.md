@@ -17,4 +17,8 @@
 	- resources about security and privacy compliance
 ### Module 10
 - azure arc
+	- manages environment by putting **non-azure** resources into ARM
+### Module 11
+- azure advisor
+	- makes security, performance, and reliability recommendations
 	- 
