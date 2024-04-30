@@ -28,3 +28,8 @@
 	- single sign on
 	- access ctronaols
 	- data protection
+- SSPR (self service password reset)
+	- allows permitted users to reset their password without helpdesk
+- federation services
+### Module 13
+- 
