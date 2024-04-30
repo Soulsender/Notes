@@ -4,3 +4,7 @@
 	- Region 3 - china/australia
 	- Region 1 - north asia/europe/africa
 - most amateur equipment is not certified for commercial use
+- emergency
+	- only with other amateur stations
+- distress
+	- any means of communication
