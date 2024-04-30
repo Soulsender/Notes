@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Radio/Regulations.md",
+                "file": "Windows/Azure/Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Radio/Regulations.md",
+                "file": "Windows/Azure/Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Radio/Regulations.md",
+                "file": "Windows/Azure/Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Radio/Regulations.md"
+                "file": "Windows/Azure/Final.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
-    "Radio/Interference.md",
     "Radio/Regulations.md",
+    "Windows/Azure/Final.md",
+    "Radio/Interference.md",
     "Networking/IOS Commands.md",
     "Networking/Routing/Final Exam.md",
     "Radio/Antennas.md",
@@ -186,7 +187,6 @@
     "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Routing/ACLs/Purpose.md",
     "Networking/Routing/OSPF/Elections & DRs.md",
-    "Networking/Routing/OSPF/QUIZ.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
