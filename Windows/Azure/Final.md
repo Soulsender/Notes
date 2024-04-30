@@ -32,4 +32,8 @@
 	- allows permitted users to reset their password without helpdesk
 - federation services
 ### Module 13
-- 
+- virtual networks
+	- logical isolations of cloud resources
+	- can be used to manage VPNs
+	- admin controls DNS server
+	- each network has CIDR block
