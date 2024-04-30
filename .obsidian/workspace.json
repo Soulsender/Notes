@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Radio/Interference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Radio/Interference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "Radio/Interference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "Radio/Interference.md"
               }
             }
           },
@@ -161,10 +161,11 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Radio/Interference.md",
     "Networking/Routing/Final Exam.md",
     "Radio/Antennas.md",
     "Radio/Transmission Lines.md",
-    "Networking/IOS Commands.md",
     "Networking/Switching/Final.md",
     "Networking/Switching/Midterm.md",
     "Networking/Subnet Sheet.md",
@@ -186,7 +187,6 @@
     "Networking/Routing/OSPF/Elections & DRs.md",
     "Networking/Routing/OSPF/QUIZ.md",
     "Windows/Azure/Skill Exam.md",
-    "Networking/Switching/WLANs/Access Points.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",

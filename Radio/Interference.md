@@ -1,0 +1,4 @@
+- spurious emissions
+	- transmitting outside of the band you mean to
+- key click
+	- spurious signal from morse code when carrier is too sharp
