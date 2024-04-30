@@ -6,3 +6,5 @@
 	- developed in a transmitter at undesired frequency
 - harmonics
 	- multiples of the fundamental frequency
+- splatter
+	- caused by overmodulation
