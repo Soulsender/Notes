@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Security/Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Security/Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Midterm.md",
+                "file": "Security/Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Midterm.md"
+                "file": "Security/Final.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
-    "Security/Access Control.md",
     "Security/Midterm.md",
+    "Security/Final.md",
+    "Security/Access Control.md",
     "Windows/Azure/Final.md",
     "Radio/Regulations.md",
     "Radio/Interference.md",
@@ -186,7 +187,6 @@
     "Networking/Routing/OSPF/RIP vs OSPF.md",
     "Networking/Routing/OSPF/OSPF Step by Step.md",
     "Networking/Routing/NAT/What is NAT.md",
-    "Networking/Routing/NAT/Types of NAT.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
