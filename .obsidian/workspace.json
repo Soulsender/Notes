@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Azure/Final.md",
+                "file": "Security/Midterm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Azure/Final.md",
+                "file": "Security/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Azure/Final.md",
+                "file": "Security/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Azure/Final.md"
+                "file": "Security/Midterm.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
-    "Radio/Regulations.md",
+    "Security/Access Control.md",
+    "Security/Midterm.md",
     "Windows/Azure/Final.md",
+    "Radio/Regulations.md",
     "Radio/Interference.md",
     "Networking/IOS Commands.md",
     "Networking/Routing/Final Exam.md",
@@ -185,8 +187,6 @@
     "Networking/Routing/OSPF/OSPF Step by Step.md",
     "Networking/Routing/NAT/What is NAT.md",
     "Networking/Routing/NAT/Types of NAT.md",
-    "Networking/Routing/ACLs/Purpose.md",
-    "Networking/Routing/OSPF/Elections & DRs.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
