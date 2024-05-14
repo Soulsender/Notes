@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec464f1c132162ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a37c7c1e5bdffa2",
+  "active": "ec464f1c132162ef",
   "lastOpenFiles": [
     "Windows/Azure/Skill Exam.md",
     "Windows/Untitled.md",
