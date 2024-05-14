@@ -1,0 +1,11 @@
+- scope of work
+	- who, what, when, where, why
+- Network IDS (NIDS)
+- active IDS -> IPS
+- **security information event management (SIEM)**
+	- determines if there is a threat based on baseline info
+- **security orchestration automation & response (SOAR)**
+	- integrated with SIEM
+	- uses automated responses to respond to security issues
+	- **playbooks** are a sequence of actions to take
+	- **runbooks** are automated and manual procedures to take

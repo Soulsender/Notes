@@ -1,0 +1,10 @@
+- 30MHz only unless proficiency with morse or basic with honours
+- Canada is international ITU region
+	- Region 2 - north/south america
+	- Region 3 - china/australia
+	- Region 1 - north asia/europe/africa
+- most amateur equipment is not certified for commercial use
+- emergency
+	- only with other amateur stations
+- distress
+	- any means of communication

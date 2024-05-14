@@ -40,9 +40,21 @@
                 "currentVersion": "1.5.12"
               }
             }
+          },
+          {
+            "id": "896afdc114a07a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Azure/Skill Exam.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Azure/Skill Exam.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Azure/Skill Exam.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -182,11 +194,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec464f1c132162ef",
+  "active": "896afdc114a07a32",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Windows/Azure/Final.md",
+    "Security/Final.md",
+    "Radio/Transmission Lines.md",
+    "Radio/Regulations.md",
+    "Radio/Interference.md",
+    "Radio/Antennas.md",
+    "Networking/Switching/Final.md",
+    "Networking/Subnet Sheet.md",
+    "Networking/Routing/Final Exam.md",
     "Windows/Azure/Skill Exam.md",
     "Windows/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "Radio/Propagation.md",
     "Networking/Switching/WLANs/Operation.md",
     "Networking/Switching/WLANs/Access Points.md",
@@ -203,16 +224,7 @@
     "Networking/Routing/OSPF/Components of OSPF.md",
     "Networking/IOS Commands.md",
     "Radio/Power.md",
-    "Radio/NATO Alphabet.md",
-    "Radio/Metric Prefixes.md",
     "Radio",
-    "Linux/Logical Volumes.md",
-    "Networking/Routing/VPNs/VPN Technology.md",
-    "Windows/Azure/Midterm.md",
-    "Security/Access Control.md",
-    "Linux/Midterm.md",
-    "Networking/Routing/VPNs/MPLS.md",
-    "Networking/Routing/Midterm (1-7).md",
     "Networking/Routing/VPNs",
     "Networking/Routing/WANs",
     "Networking/Switching/FHRP",
