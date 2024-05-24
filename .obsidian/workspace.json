@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actually Accurate Pancetta.md",
-                "mode": "source",
+                "file": "Actually Accurate Pancetta Carbonara.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actually Accurate Pancetta.md",
+                "file": "Actually Accurate Pancetta Carbonara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actually Accurate Pancetta.md",
+                "file": "Actually Accurate Pancetta Carbonara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actually Accurate Pancetta.md"
+                "file": "Actually Accurate Pancetta Carbonara.md"
               }
             }
           },
@@ -175,7 +175,7 @@
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
     "Programming/C/Format Specifiers.md",
-    "Actually Accurate Pancetta.md",
+    "Actually Accurate Pancetta Carbonara.md",
     "Programming/C/Implicit vs Explicit.md",
     "Networking/Routing/Midterm (1-7).md",
     "Networking/Routing/Final Exam.md",
