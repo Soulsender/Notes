@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d8ee3748911f3fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pancetta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/C/Format Specifiers.md",
+                "file": "pancetta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/C/Format Specifiers.md",
+                "file": "pancetta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/C/Format Specifiers.md"
+                "file": "pancetta.md"
               }
             }
           },
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e37be6b6ed98f2ad",
+  "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
-    "Programming/C/Implicit vs Explicit.md",
     "Programming/C/Format Specifiers.md",
+    "pancetta.md",
+    "Programming/C/Implicit vs Explicit.md",
     "Networking/Routing/Midterm (1-7).md",
     "Networking/Routing/Final Exam.md",
     "Networking/Switching/Final.md",
@@ -186,7 +200,6 @@
     "Networking/Routing/WANs/WAN Standards.md",
     "Networking/Routing/VPNs/MPLS.md",
     "Networking/Routing/OSPF/States.md",
-    "Networking/Routing/OSPF/RIP vs OSPF.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
