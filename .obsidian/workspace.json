@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pancetta.md",
+                "file": "Actually Accurate Pancetta.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pancetta.md",
+                "file": "Actually Accurate Pancetta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pancetta.md",
+                "file": "Actually Accurate Pancetta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pancetta.md"
+                "file": "Actually Accurate Pancetta.md"
               }
             }
           },
@@ -175,7 +175,7 @@
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
     "Programming/C/Format Specifiers.md",
-    "pancetta.md",
+    "Actually Accurate Pancetta.md",
     "Programming/C/Implicit vs Explicit.md",
     "Networking/Routing/Midterm (1-7).md",
     "Networking/Routing/Final Exam.md",
