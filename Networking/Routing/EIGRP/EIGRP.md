@@ -26,3 +26,7 @@
 	- reliable, needs ack
 	- queries are multicast/unicast
 	- reply are unicast
+### Messages
+- EIGRP frame destination multicast `01:00:5e:00:00:0a`
+- IP header `224.0.0.10:88`
+- 
