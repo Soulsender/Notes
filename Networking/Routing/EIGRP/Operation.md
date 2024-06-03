@@ -5,3 +5,7 @@
 - R2 sends update packet with all routes it knows
 - R2 sends hello to R1
 - R1 updates neighbor table with R2
+- R1 sends ack
+- R1 sends update packet with all known routes (except R2's known) to R2
+- R2 sends ack
+- R1 uses DUAL to c
