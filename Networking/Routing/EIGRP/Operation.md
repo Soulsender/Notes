@@ -8,4 +8,19 @@
 - R1 sends ack
 - R1 sends update packet with all known routes (except R2's known) to R2
 - R2 sends ack
-- R1 uses DUAL to c
+- R1 and R2 use DUAL to calculate best routes
+### Metrics
+- bandwidth
+- delay
+- reliability (optional)
+- load (optional)
+### DUAL
+- successor
+	- neighboring router for packet forwarding
+	- least cost
+- feasible successors (FS)
+	- backup paths
+- reported distance (RD)
+	- advertised distance
+- feasible distance (FD)
+	- actual metric of route
