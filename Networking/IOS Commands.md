@@ -1,3 +1,6 @@
+### EIGRP
+- `router eigrp AS-1234` configure EIGRP to use AS
+- `eigrp router-id 172.16.0.1` configure router ID
 ### Security
 - `switchport port-security {sticky}` enable port security (dynamic default, can have sticky)
 - `switchport port-secuirty maximum {}` maximum MAC addresses on a port

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md",
+                "file": "Networking/Routing/EIGRP/Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md",
+                "file": "Networking/Routing/EIGRP/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md",
+                "file": "Networking/Routing/EIGRP/Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md"
+                "file": "Networking/Routing/EIGRP/Operation.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
-    "Actually Accurate Pancetta Carbonara.md",
     "Networking/Routing/EIGRP/EIGRP.md",
+    "Networking/Routing/EIGRP/Operation.md",
+    "Networking/IOS Commands.md",
+    "Actually Accurate Pancetta Carbonara.md",
     "Networking/Routing/EIGRP",
     "Programming/C/Format Specifiers.md",
     "Programming/C/Implicit vs Explicit.md",
@@ -189,7 +191,6 @@
     "Windows/Azure/Final.md",
     "Radio/Regulations.md",
     "Radio/Interference.md",
-    "Networking/IOS Commands.md",
     "Radio/Antennas.md",
     "Radio/Transmission Lines.md",
     "Networking/Switching/Midterm.md",
@@ -200,7 +201,6 @@
     "Radio/NATO Alphabet.md",
     "Radio/Metric Prefixes.md",
     "Networking/Routing/WANs/WAN Standards.md",
-    "Networking/Routing/VPNs/MPLS.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",

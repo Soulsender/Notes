@@ -29,4 +29,7 @@
 ### Messages
 - EIGRP frame destination multicast `01:00:5e:00:00:0a`
 - IP header `224.0.0.10:88`
-- 
+### Autonomous System (AS)
+- collection of networks under authority
+- AS numbers used to exchange routes
+- managed by IANA
