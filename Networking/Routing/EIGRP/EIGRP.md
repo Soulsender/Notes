@@ -2,9 +2,9 @@
 - has authentication
 - routing updates are not encrypted
 - uses multicast and unicast, NOT broadcast
-	- multicast `224.0.0.10` and 
+	- multicast `224.0.0.10` and `ff02::a`
 ### PDMs
-- uses protocol dependant modules (PDMs) for protocols
+- uses protocol dependent modules (PDMs) for protocols
 - maintains EIGRP neighbor and topology tables
 - computing metric with DUAL
 - filtering and ACLs
@@ -13,7 +13,16 @@
 - not all RTP packets are sent reliably
 - `update`, `query`,`reply`
 ### Packets Types
-- hello - used to discover and form adjacencies
-	- unreliably sent
-	- no ack
-- 
+- hello 
+	- used to discover and form adjacencies
+	- unreliably sent, no ack
+- update
+	- sent initially for topology info
+	- reliable, needs ack
+	- only contain relevant routing info
+	- unicast
+- query, reply
+	- used by DUAL when searching for network
+	- reliable, needs ack
+	- queries are multicast/unicast
+	- reply are unicast
