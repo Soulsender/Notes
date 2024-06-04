@@ -8,6 +8,7 @@
 - maintains EIGRP neighbor and topology tables
 - computing metric with DUAL
 - filtering and ACLs
+- allows support for different layer 3 protocols
 ### RTP
 - transport layer protocol for delivery and reception of EIGRP packets
 - not all RTP packets are sent reliably

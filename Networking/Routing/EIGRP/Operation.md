@@ -14,7 +14,7 @@
 - delay
 - reliability (optional)
 - load (optional)
-### DUAL
+### DUAL (diffusing update algorithm)
 - successor
 	- neighboring router for packet forwarding
 	- least cost
@@ -24,3 +24,6 @@
 	- advertised distance
 - feasible distance (FD)
 	- actual metric of route
+- states
+	- passive - available for use
+	- active - route is being recomputed by DUAL
