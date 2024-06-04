@@ -1,3 +1,4 @@
+#exam 
 - [x] questions of purpose (gateway, mask, etc.)
 - [x] PDUs
 - [x] calculating network addresses (host, mask)

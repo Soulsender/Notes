@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/WLANs/Operation.md",
+                "file": "Windows/Windows Essentials/DNS Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/WLANs/Operation.md",
+                "file": "Windows/Windows Essentials/DNS Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/WLANs/Operation.md",
+                "file": "Windows/Windows Essentials/DNS Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/WLANs/Operation.md"
+                "file": "Windows/Windows Essentials/DNS Zones.md"
               }
             }
           },
@@ -174,32 +174,32 @@
   },
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
-    "Networking/Switching/WLANs/Access Points.md",
-    "Networking/Switching/WLANs/802.11 Standards.md",
-    "Networking/Switching/VLANs/VLAN Trunks.md",
-    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
-    "Networking/Switching/STP/Versions of STP.md",
-    "Networking/Switching/STP/Roles & States.md",
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Networking/Switching/STP/PortFast.md",
-    "Networking/Switching/STP/Election Process.md",
-    "Networking/Switching/STP/BPDUs & BID.md",
-    "Networking/Switching/Security/Access Control.md",
-    "Networking/Switching/FHRP/HSRP.md",
-    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
-    "Networking/Switching/EtherChannel/Operation.md",
-    "Networking/Switching/DHCP/SLAAC.md",
-    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
-    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
-    "Networking/Switching/DHCP/DHCPv6.md",
-    "Networking/Subnet Sheet.md",
-    "Networking/IOS Commands.md",
-    "Networking/Resetting Password.md",
-    "Networking/CCNA.md",
-    "Networking/Routing/Midterm (1-7).md",
-    "Networking/Routing/Skills Exam.md",
-    "Networking/Routing/Final Exam.md",
-    "Networking/Routing/ACLs/Wildcard Mask.md",
+    "Windows/Windows Essentials/DNS Records.md",
+    "Windows/Windows Essentials/Disks.md",
+    "Windows/Windows Essentials/AD Sites.md",
+    "Windows/Windows Essentials/Active Directory.md",
+    "Windows/Azure/Skill Exam.md",
+    "Windows/Azure/Module 7.md",
+    "Windows/Azure/Midterm.md",
+    "Windows/Azure/Final.md",
+    "Radio/Transmission Lines.md",
+    "Security/Security Model.md",
+    "Security/Midterm.md",
+    "Security/Final.md",
+    "Security/Access Control.md",
+    "Radio/Regulations.md",
+    "Radio/Propagation.md",
+    "Radio/Power.md",
+    "Radio/NATO Alphabet.md",
+    "Radio/Metric Prefixes.md",
+    "Radio/Interference.md",
+    "Radio/Antennas.md",
+    "Networking/Essentials/Subnet Classes.md",
+    "Networking/Essentials/Reference Models.md",
+    "Networking/Essentials/QUIZ TAKEAWAYS.md",
+    "Networking/Essentials/OSI Model.md",
+    "Networking/Essentials/Midterm Notes.md",
+    "Networking/Essentials/Console with Linux.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",

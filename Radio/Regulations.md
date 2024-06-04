@@ -1,3 +1,4 @@
+#radio
 - 30MHz only unless proficiency with morse or basic with honours
 - Canada is international ITU region
 	- Region 2 - north/south america

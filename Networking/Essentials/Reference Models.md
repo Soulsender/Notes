@@ -1,4 +1,4 @@
-
+#logical 
 ![[OSI Model-1694547590772.jpeg]]
 ## OSI Model
 >"Please Do Not Teach Stupid People Acronyms"

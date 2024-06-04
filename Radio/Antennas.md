@@ -1,3 +1,4 @@
+#radio
 - isotropic antenna is **hypothetical** point source where radiation is same in all directions
 ### Polarity
 - waves changing angles

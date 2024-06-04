@@ -1,3 +1,4 @@
+#exam 
 ### Bypassing TPM
 - Shift + F10
 - `regedit`

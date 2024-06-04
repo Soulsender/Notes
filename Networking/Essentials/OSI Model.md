@@ -1,3 +1,4 @@
+#logical
 # OSI Model (Troubleshooting)
 (PDNTSPA)	-	**P**lease **D**o **N**ot **T**hrow **S**ausage **P**izza **A**way
 

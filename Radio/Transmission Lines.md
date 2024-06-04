@@ -1,3 +1,4 @@
+#radio
 ### Coaxial
 - RG-213 best TL
 - coaxial is weatherproof
