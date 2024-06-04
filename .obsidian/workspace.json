@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md",
+                "file": "Networking/CCNA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md",
+                "file": "Networking/CCNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md",
+                "file": "Networking/CCNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/EIGRP/EIGRP.md"
+                "file": "Networking/CCNA.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
-    "Networking/Routing/EIGRP/Operation.md",
     "Networking/Routing/EIGRP/EIGRP.md",
+    "Networking/CCNA.md",
+    "Networking/Routing/EIGRP/Operation.md",
     "Networking/IOS Commands.md",
     "Actually Accurate Pancetta Carbonara.md",
     "Networking/Routing/EIGRP",
@@ -200,7 +201,6 @@
     "Radio/Propagation.md",
     "Radio/NATO Alphabet.md",
     "Radio/Metric Prefixes.md",
-    "Networking/Routing/WANs/WAN Standards.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",
