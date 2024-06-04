@@ -1,3 +1,4 @@
+#ospf #routing 
 - link state routing protocol
 - alternative for RIP
 #### Packets

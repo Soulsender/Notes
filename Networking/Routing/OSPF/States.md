@@ -1,3 +1,4 @@
+#ospf #routing 
 #### Down State
 - no hello packets
 - router sends hello

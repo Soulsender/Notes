@@ -1,3 +1,4 @@
+#ospf #routing 
 https://www.youtube.com/watch?v=kfvJ8QVJscc
 - routers send out LSAs (link-state advertisement)
 - all LSAs are kept a database (LSDB)

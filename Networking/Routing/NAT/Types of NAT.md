@@ -1,3 +1,4 @@
+#nat
 ### Static NAT
 - one-to-one mapping
 - manually configured

@@ -1,3 +1,4 @@
+#routing #eigrp 
 ### Example
 - R1 joins routing domain
 - sends EIGRP hello to all EIGRP ports

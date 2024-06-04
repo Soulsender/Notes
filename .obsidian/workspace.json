@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/CCNA.md",
-                "mode": "preview",
+                "file": "Networking/Routing/OSPF/States.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Routing/OSPF/States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Routing/OSPF/States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/CCNA.md"
+                "file": "Networking/Routing/OSPF/States.md"
               }
             }
           },
@@ -174,9 +174,20 @@
   },
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
-    "Networking/Routing/EIGRP/EIGRP.md",
-    "Networking/CCNA.md",
+    "Networking/Routing/OSPF/RIP vs OSPF.md",
+    "Networking/Routing/OSPF/QUIZ.md",
+    "Networking/Routing/OSPF/OSPF Step by Step.md",
+    "Networking/Routing/OSPF/Elections & DRs.md",
+    "Networking/Routing/OSPF/Components of OSPF.md",
+    "Networking/Routing/ACLs/Wildcard Mask.md",
+    "Networking/Routing/ACLs/Purpose.md",
+    "Networking/Routing/ACLs/ACL Examples.md",
     "Networking/Routing/EIGRP/Operation.md",
+    "Networking/Routing/EIGRP/EIGRP.md",
+    "Networking/Routing/NAT/What is NAT.md",
+    "Networking/Routing/NAT/Types of NAT.md",
+    "Networking/CCNA.md",
+    "README.md",
     "Networking/IOS Commands.md",
     "Actually Accurate Pancetta Carbonara.md",
     "Networking/Routing/EIGRP",
@@ -190,17 +201,6 @@
     "Security/Midterm.md",
     "Security/Access Control.md",
     "Windows/Azure/Final.md",
-    "Radio/Regulations.md",
-    "Radio/Interference.md",
-    "Radio/Antennas.md",
-    "Radio/Transmission Lines.md",
-    "Networking/Switching/Midterm.md",
-    "README.md",
-    "Radio/Power.md",
-    "Networking/Switching/STP/Purpose of STP.md",
-    "Radio/Propagation.md",
-    "Radio/NATO Alphabet.md",
-    "Radio/Metric Prefixes.md",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",

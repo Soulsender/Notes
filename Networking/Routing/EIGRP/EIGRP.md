@@ -1,3 +1,4 @@
+#routing #eigrp
 ### Features
 - has authentication
 - routing updates are not encrypted

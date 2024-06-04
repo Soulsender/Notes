@@ -87,24 +87,24 @@
 - [x] 4.5 Describe the use of syslog features including facilities and levels
 - [ ] 4.6 Configure and verify DHCP client and relay
 - [ ] 4.7 Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping
-- [ ] 4.8 Configure network devices for remote access using SSH
+- [x] 4.8 Configure network devices for remote access using SSH
 - [ ] 4.9 Describe the capabilities and functions of TFTP/FTP in the network
-- [ ] 5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)
-- [ ] 5.2 Describe security program elements (user awareness, training, and physical access control)
-- [ ] 5.3 Configure and verify device access control using local passwords
-- [ ] 5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)
-- [ ] 5.5 Describe IPsec remote access and site-to-site VPNs
-- [ ] 5.6 Configure and verify access control lists
+- [x] 5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)
+- [x] 5.2 Describe security program elements (user awareness, training, and physical access control)
+- [x] 5.3 Configure and verify device access control using local passwords
+- [x] 5.4 Describe security password policies elements, such as management, complexity, and password alternatives (multifactor authentication, certificates, and biometrics)
+- [x] 5.5 Describe IPsec remote access and site-to-site VPNs
+- [x] 5.6 Configure and verify access control lists
 - [ ] 5.7 Configure and verify Layer 2 security features (DHCP snooping, dynamic ARP inspection, and port security)
-- [ ] 5.8 Compare authentication, authorization, and accounting concepts
-- [ ] 5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)
-- [ ] 5.10 Configure and verify WLAN within the GUI using WPA2 PSK
-- [ ] 6.1 Explain how automation impacts network management
+- [x] 5.8 Compare authentication, authorization, and accounting concepts
+- [x] 5.9 Describe wireless security protocols (WPA, WPA2, and WPA3)
+- [x] 5.10 Configure and verify WLAN within the GUI using WPA2 PSK
+- [x] 6.1 Explain how automation impacts network management
 - [ ] 6.2 Compare traditional networks with controller-based networking
 - [ ] 6.3 Describe controller-based, software defined architecture (overlay, underlay, and fabric)
   - [ ] 6.3.a Separation of control plane and data plane
   - [ ] 6.3.b Northbound and Southbound APIs
 - [ ] 6.4 Compare traditional campus device management with Cisco DNA Center enabled device management
-- [ ] 6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)
+- [x] 6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)
 - [ ] 6.6 Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible
-- [ ] 6.7 Recognize components of JSON-encoded data
+- [x] 6.7 Recognize components of JSON-encoded data
