@@ -11,12 +11,8 @@
             "id": "e37be6b6ed98f2ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/CCNA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/CCNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/CCNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networking/CCNA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,6 +153,9 @@
   },
   "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
+    "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
+    "Networking/CCNA.md",
+    "Networking/IOS Commands.md",
     "Programming/C/Format Specifiers.md",
     "Linux/Midterm.md",
     "Linux/Logical Volumes.md",
@@ -184,9 +179,6 @@
     "Windows/Windows Essentials/DNS Zones.md",
     "Windows/Windows Essentials/DNS Records.md",
     "Windows/Windows Essentials/Disks.md",
-    "Windows/Windows Essentials/AD Sites.md",
-    "Windows/Windows Essentials/Active Directory.md",
-    "Windows/Azure/Skill Exam.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
