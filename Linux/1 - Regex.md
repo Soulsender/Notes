@@ -1,3 +1,4 @@
+#linux
 #### Regex Characters
 - `^` starts regex
 - `$` ends regex

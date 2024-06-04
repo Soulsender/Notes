@@ -1,3 +1,4 @@
+#dns #active-directory 
 - DNS zones are used any time a domain name wishes to have DNS records
 #### Forward Lookup Zones
 - converts a name to an IP address or another name

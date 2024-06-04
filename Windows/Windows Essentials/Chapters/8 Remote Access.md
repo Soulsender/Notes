@@ -1,3 +1,4 @@
+#active-directory 
 #### Network policy server (NPS)
 - component of network policy and access services role
 - allows creation and enforcement of network access policies for authentication
