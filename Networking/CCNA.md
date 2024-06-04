@@ -1,5 +1,36 @@
 #exam
+### Practice
 https://www.howtonetwork.com/ccnasimplified/
+- [x] Module 1
+- [x] Module 2
+- [x] Module 3
+- [x] Module 4
+- [ ] Module 5
+- [ ] Module 6
+- [ ] Module 7
+- [ ] Module 8
+- [ ] Module 9
+- [ ] Module 10
+- [ ] Module 11
+- [ ] Module 12
+- [ ] Module 13
+- [ ] Module 14
+- [ ] Module 15
+- [ ] Module 16
+- [ ] Module 17
+- [ ] Module 18
+- [ ] Module 19
+- [ ] Module 20
+- [ ] Module 21
+- [ ] Module 22
+- [ ] Module 23
+- [ ] Module 24
+- [ ] Module 25
+- [ ] Module 26
+- [ ] Module 27
+- [ ] Module 28
+- [ ] Module 29
+### Subjects
 - [x] 1.1 Explain the role and function of network components
   - [x] 1.1.a Routers
   - [x] 1.1.b Layer 2 and Layer 3 switches
