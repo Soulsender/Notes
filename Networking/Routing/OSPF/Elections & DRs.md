@@ -1,4 +1,4 @@
-#ospf #routing 
+#ospf 
 - only happen on multiarea (router serial) networks, not point 2 point (ethernet)
 - highest interface OSPF priority wins election (0-255)
 - default priority is 1

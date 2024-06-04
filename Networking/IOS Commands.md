@@ -1,3 +1,4 @@
+#ios
 ### EIGRP
 - `router eigrp AS-1234` configure EIGRP to use AS
 - `eigrp router-id 172.16.0.1` configure router ID

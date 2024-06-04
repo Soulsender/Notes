@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/OSPF/States.md",
+                "file": "Networking/Switching/WLANs/Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#routing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/OSPF/States.md",
+                "file": "Networking/Switching/WLANs/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/OSPF/States.md",
+                "file": "Networking/Switching/WLANs/Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/OSPF/States.md"
+                "file": "Networking/Switching/WLANs/Operation.md"
               }
             }
           },
@@ -174,33 +174,33 @@
   },
   "active": "4d8ee3748911f3fb",
   "lastOpenFiles": [
-    "Networking/Routing/OSPF/RIP vs OSPF.md",
-    "Networking/Routing/OSPF/QUIZ.md",
-    "Networking/Routing/OSPF/OSPF Step by Step.md",
-    "Networking/Routing/OSPF/Elections & DRs.md",
-    "Networking/Routing/OSPF/Components of OSPF.md",
-    "Networking/Routing/ACLs/Wildcard Mask.md",
-    "Networking/Routing/ACLs/Purpose.md",
-    "Networking/Routing/ACLs/ACL Examples.md",
-    "Networking/Routing/EIGRP/Operation.md",
-    "Networking/Routing/EIGRP/EIGRP.md",
-    "Networking/Routing/NAT/What is NAT.md",
-    "Networking/Routing/NAT/Types of NAT.md",
-    "Networking/CCNA.md",
-    "README.md",
-    "Networking/IOS Commands.md",
-    "Actually Accurate Pancetta Carbonara.md",
-    "Networking/Routing/EIGRP",
-    "Programming/C/Format Specifiers.md",
-    "Programming/C/Implicit vs Explicit.md",
-    "Networking/Routing/Midterm (1-7).md",
-    "Networking/Routing/Final Exam.md",
-    "Networking/Switching/Final.md",
+    "Networking/Switching/WLANs/Access Points.md",
+    "Networking/Switching/WLANs/802.11 Standards.md",
+    "Networking/Switching/VLANs/VLAN Trunks.md",
+    "Networking/Switching/VLANs/Inter-VLAN Routing.md",
+    "Networking/Switching/STP/Versions of STP.md",
+    "Networking/Switching/STP/Roles & States.md",
+    "Networking/Switching/STP/Purpose of STP.md",
+    "Networking/Switching/STP/PortFast.md",
+    "Networking/Switching/STP/Election Process.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "Networking/Switching/Security/Access Control.md",
+    "Networking/Switching/FHRP/HSRP.md",
+    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
+    "Networking/Switching/EtherChannel/Operation.md",
+    "Networking/Switching/DHCP/SLAAC.md",
+    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
+    "Networking/Switching/DHCP/DHCPv6.md",
     "Networking/Subnet Sheet.md",
-    "Security/Final.md",
-    "Security/Midterm.md",
-    "Security/Access Control.md",
-    "Windows/Azure/Final.md",
+    "Networking/IOS Commands.md",
+    "Networking/Resetting Password.md",
+    "Networking/CCNA.md",
+    "Networking/Routing/Midterm (1-7).md",
+    "Networking/Routing/Skills Exam.md",
+    "Networking/Routing/Final Exam.md",
+    "Networking/Routing/ACLs/Wildcard Mask.md",
+    "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
     "Radio",

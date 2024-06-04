@@ -1,3 +1,4 @@
+#spanning-tree 
 - allows switch port to bypass listening and learning states and go immediately to forwarding
 - immediately goes from blocking to forwarding
 - only configured on ports with end devices

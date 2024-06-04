@@ -1,3 +1,4 @@
+#wlans 
 - autonomous / standalone
 	- configured via CLI or GUI
 	- entire configuration resides on one device (ie. home router)

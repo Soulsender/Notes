@@ -1,3 +1,4 @@
+#dhcp
 ## Roles
 #### DHCPv6 Server
 - router provides stateless/stateful DHCPv6

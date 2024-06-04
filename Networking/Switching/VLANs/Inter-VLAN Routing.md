@@ -1,3 +1,4 @@
+#vlans
 ### InterVLAN Router
 - inefficient
 - router must have interface for all VLAN
