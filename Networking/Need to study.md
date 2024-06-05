@@ -3,3 +3,5 @@
 - IPv6 unspecified addresses
 - PoE
 - VTP
+- uplinkfast/backbonefast
+- spanning tree is 802.1d
