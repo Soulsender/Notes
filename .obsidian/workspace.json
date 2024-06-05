@@ -14,7 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Networking/CCNA.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e4e9155c8c0b925",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d17c28e4ad8b9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Need to study.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Need to study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Need to study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/CCNA.md"
+                "file": "Networking/Need to study.md"
               }
             }
           },
@@ -159,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e37be6b6ed98f2ad",
+  "active": "4d17c28e4ad8b9a7",
   "lastOpenFiles": [
-    "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/CCNA.md",
+    "Networking/Need to study.md",
+    "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/IOS Commands.md",
     "Programming/C/Format Specifiers.md",
     "Linux/Midterm.md",
@@ -186,7 +205,6 @@
     "Windows/Windows Essentials/Groups.md",
     "Windows/Windows Essentials/DNS Zones.md",
     "Windows/Windows Essentials/DNS Records.md",
-    "Windows/Windows Essentials/Disks.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",

@@ -7,7 +7,7 @@ https://www.howtonetwork.com/ccnasimplified/
 - [x] Module 4
 - [ ] Module 5
 - [ ] Module 6
-- [ ] Module 7
+- [x] Module 7
 - [ ] Module 8
 - [ ] Module 9
 - [ ] Module 10
