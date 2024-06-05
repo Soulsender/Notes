@@ -2,3 +2,4 @@
 - IPv6 site-local
 - IPv6 unspecified addresses
 - PoE
+- VTP

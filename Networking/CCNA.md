@@ -8,9 +8,9 @@ https://www.howtonetwork.com/ccnasimplified/
 - [ ] Module 5
 - [ ] Module 6
 - [x] Module 7
-- [ ] Module 8
-- [ ] Module 9
-- [ ] Module 10
+- [x] Module 8
+- [x] Module 9
+- [x] Module 10
 - [ ] Module 11
 - [ ] Module 12
 - [ ] Module 13
