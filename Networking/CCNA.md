@@ -31,6 +31,7 @@ https://www.howtonetwork.com/ccnasimplified/
 - [ ] Module 28
 - [ ] Module 29
 ### Subjects
+https://learningnetwork.cisco.com/s/ccna-exam-topics
 - [x] 1.1 Explain the role and function of network components
   - [x] 1.1.a Routers
   - [x] 1.1.b Layer 2 and Layer 3 switches
