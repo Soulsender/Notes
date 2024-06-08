@@ -6,3 +6,5 @@
 - uplinkfast/backbonefast
 - spanning tree is 802.1d
 - LACP is 802.3ad
+- admin distance for OSPF, EIGRP, BGP, RIP
+- RIP

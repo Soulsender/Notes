@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Need to study.md",
+                "file": "Networking/CCNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Need to study.md",
+                "file": "Networking/CCNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Need to study.md"
+                "file": "Networking/CCNA.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d17c28e4ad8b9a7",
+  "active": "e37be6b6ed98f2ad",
   "lastOpenFiles": [
-    "Networking/CCNA.md",
     "Networking/Need to study.md",
+    "Networking/CCNA.md",
     "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/IOS Commands.md",
     "Programming/C/Format Specifiers.md",

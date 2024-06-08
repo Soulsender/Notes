@@ -13,7 +13,7 @@ https://www.howtonetwork.com/ccnasimplified/
 - [x] Module 10
 - [x] Module 11
 - [x] Module 12
-- [ ] Module 13
+- [x] Module 13
 - [ ] Module 14
 - [ ] Module 15
 - [ ] Module 16
