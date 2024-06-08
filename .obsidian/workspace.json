@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/CCNA.md",
-                "mode": "preview",
+                "file": "Networking/Routing/Metric Table.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Need to study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Need to study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/CCNA.md"
+                "file": "Networking/Need to study.md"
               }
             }
           },
@@ -179,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e37be6b6ed98f2ad",
+  "active": "4d17c28e4ad8b9a7",
   "lastOpenFiles": [
+    "Networking/Routing/Metric Table.md",
     "Networking/Need to study.md",
     "Networking/CCNA.md",
     "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
@@ -206,7 +207,6 @@
     "Windows/Windows Essentials/Hyper V.md",
     "Windows/Windows Essentials/Groups.md",
     "Windows/Windows Essentials/DNS Zones.md",
-    "Windows/Windows Essentials/DNS Records.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",

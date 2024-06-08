@@ -9,7 +9,6 @@
 - admin distance for OSPF, EIGRP, BGP, RIP
 - RIP
 - OSPF port 89
-- cost = 10^8/bandwidth
 - OSPF process ID 1-65535
 - routers exchange updates (ASBR)
 - OSPF multicast 224.0.0.5
