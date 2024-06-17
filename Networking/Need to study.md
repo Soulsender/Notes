@@ -2,7 +2,10 @@
 - cisco DNA center and WLC
 - next gen firewalls 
 - PoE
-- fiber
+- CSMA/CD
+- LLDP
+- LAG
+- routing protocol code
 ## Practice Exam
 - IPv6 tunnelling
 - IPv6 site-local
