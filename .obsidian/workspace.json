@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1b164dacdeaf6a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "a1b164dacdeaf6a4",
   "lastOpenFiles": [
     "Networking/Need to study.md",
     "Networking/Routing/Metric Table.md",
