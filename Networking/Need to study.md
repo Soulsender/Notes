@@ -14,6 +14,6 @@
 - routers exchange updates (ASBR)
 - OSPF flood LSA multicast 224.0.0.5 (AllSPFRouter)
 - OSPF listen LSA multicast 224.0.0.6
-- backbone router (must have area 0
+- backbone router (ABR) must have area 0
 - frame relay
 - OSPF LSA packet types
