@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "86633dd36cbd5831",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1b164dacdeaf6a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/CCNA.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "bbc2efb3d9594e48",
         "type": "tabs",
         "children": [
@@ -31,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Need to study.md",
-                "mode": "source",
+                "file": "Networking/Routing/EIGRP/Operation.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Need to study.md",
+                "file": "Networking/Routing/EIGRP/Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Need to study.md",
+                "file": "Networking/Routing/EIGRP/Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Need to study.md"
+                "file": "Networking/Routing/EIGRP/Operation.md"
               }
             }
           },
@@ -179,8 +161,9 @@
   },
   "active": "0a67db880eeea731",
   "lastOpenFiles": [
-    "Networking/CCNA.md",
+    "Networking/Routing/EIGRP/EIGRP.md",
     "Networking/Need to study.md",
+    "Networking/CCNA.md",
     "Networking/Routing/Metric Table.md",
     "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Networking/IOS Commands.md",
@@ -204,7 +187,6 @@
     "Windows/Windows Essentials/Operation Master Roles.md",
     "Windows/Windows Essentials/Hyper V.md",
     "Windows/Windows Essentials/Groups.md",
-    "Windows/Windows Essentials/DNS Zones.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
