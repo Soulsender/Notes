@@ -8,8 +8,12 @@
 - LACP is 802.3ad
 - admin distance for OSPF, EIGRP, BGP, RIP
 - RIP
+### OSPF
 - OSPF port 89
 - OSPF process ID 1-65535
 - routers exchange updates (ASBR)
-- OSPF multicast 224.0.0.5
+- OSPF flood LSA multicast 224.0.0.5 (AllSPFRouter)
+- OSPF listen LSA multicast 224.0.0.6
+- backbone router (must have area 0
 - frame relay
+- OSPF LSA packet types
