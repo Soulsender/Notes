@@ -23,9 +23,11 @@
             "id": "a1b164dacdeaf6a4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Networking/CCNA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/Final Exam.md",
+                "file": "Networking/CCNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/Final Exam.md",
+                "file": "Networking/CCNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/Final Exam.md"
+                "file": "Networking/CCNA.md"
               }
             }
           },
