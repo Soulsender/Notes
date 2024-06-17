@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Routing/EIGRP/Operation.md",
+                "file": "Networking/Need to study.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Routing/EIGRP/Operation.md",
+                "file": "Networking/Need to study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Routing/EIGRP/Operation.md",
+                "file": "Networking/Need to study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Routing/EIGRP/Operation.md"
+                "file": "Networking/Need to study.md"
               }
             }
           },
@@ -161,12 +161,13 @@
   },
   "active": "0a67db880eeea731",
   "lastOpenFiles": [
+    "Networking/IOS Commands.md",
+    "Networking/CCNA.md",
+    "Networking/Routing/EIGRP/Operation.md",
     "Networking/Routing/EIGRP/EIGRP.md",
     "Networking/Need to study.md",
-    "Networking/CCNA.md",
     "Networking/Routing/Metric Table.md",
     "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-    "Networking/IOS Commands.md",
     "Programming/C/Format Specifiers.md",
     "Linux/Midterm.md",
     "Linux/Logical Volumes.md",
@@ -186,7 +187,6 @@
     "Windows/Windows Essentials/Partition Tables.md",
     "Windows/Windows Essentials/Operation Master Roles.md",
     "Windows/Windows Essentials/Hyper V.md",
-    "Windows/Windows Essentials/Groups.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
