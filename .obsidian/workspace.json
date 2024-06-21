@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Need to study.md",
-                "mode": "preview",
+                "file": "Hacking/Windows/Important Directories.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Need to study.md",
+                "file": "Hacking/Windows/Important Directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Need to study.md",
+                "file": "Hacking/Windows/Important Directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Need to study.md"
+                "file": "Hacking/Windows/Important Directories.md"
               }
             }
           },
@@ -161,11 +161,13 @@
   },
   "active": "0a67db880eeea731",
   "lastOpenFiles": [
+    "Networking/Need to study.md",
+    "Hacking/Windows/Important Directories.md",
+    "Hacking/Windows",
     "Networking/IOS Commands.md",
     "Networking/CCNA.md",
     "Networking/Routing/EIGRP/Operation.md",
     "Networking/Routing/EIGRP/EIGRP.md",
-    "Networking/Need to study.md",
     "Networking/Routing/Metric Table.md",
     "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Programming/C/Format Specifiers.md",
@@ -186,7 +188,6 @@
     "Windows/Windows Essentials/Practice Questions.md",
     "Windows/Windows Essentials/Partition Tables.md",
     "Windows/Windows Essentials/Operation Master Roles.md",
-    "Windows/Windows Essentials/Hyper V.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
@@ -200,7 +201,6 @@
     "Networking/Routing/WANs",
     "Misc",
     "Windows/Azure",
-    "Networking/Switching/DHCP",
     "attachments/image/Operation-1707757181846.jpeg",
     "attachments/image/Operation-1707704731190.jpeg",
     "attachments/image/Operation-1707704664097.jpeg",
