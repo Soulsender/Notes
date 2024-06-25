@@ -4,7 +4,9 @@
 ### Metasploit
 - `exploit(multi/http/oscommerce_installer_unauth_code_exec`
 - gain shell as php app user
+### PrivEsc
 - create meterpreter revshell executable with msfvenom
+- upload executable to target via previously established shell
 - run metasploit listener `windows/meterpreter/reverse_tcp`
 - gain shell and hashdump
 - password for `Lab:googleplus`
