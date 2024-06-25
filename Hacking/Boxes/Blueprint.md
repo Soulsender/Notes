@@ -5,4 +5,4 @@
 - create meterpreter revshell executable with msfvenom
 - run metasploit listener `windows/meterpreter/reverse_tcp`
 - gain shell and hashdump
-- 
+- password for `Lab:googleplus`
