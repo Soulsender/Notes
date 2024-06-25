@@ -1,6 +1,8 @@
-- enumerate box
+### Enumeration
 - PHP application `oscommerce-2.3.4`
-- use metasploit exploit `exploit/multi/http/oscommerce_installer_unauth_code_exec`
+	- https://www.exploit-db.com/exploits/44374
+### Metasploit
+- `exploit(multi/http/oscommerce_installer_unauth_code_exec`
 - gain shell as php app user
 - create meterpreter revshell executable with msfvenom
 - run metasploit listener `windows/meterpreter/reverse_tcp`
