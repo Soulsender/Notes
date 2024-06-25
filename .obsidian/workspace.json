@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Tools/Metasploit.md",
+                "file": "Hacking/Boxes/Blueprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Tools/Metasploit.md",
+                "file": "Hacking/Boxes/Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Tools/Metasploit.md",
+                "file": "Hacking/Boxes/Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Tools/Metasploit.md"
+                "file": "Hacking/Boxes/Blueprint.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "0a67db880eeea731",
   "lastOpenFiles": [
-    "Hacking/Five Stages of Ethical Hacking.md",
     "Hacking/Tools/Metasploit.md",
+    "Hacking/Boxes/Blueprint.md",
+    "Hacking/Boxes",
+    "Hacking/Five Stages of Ethical Hacking.md",
     "Hacking/Windows/Important Directories.md",
     "Hacking/Tools",
     "Networking/Need to study.md",
@@ -188,7 +190,6 @@
     "Windows/Windows Essentials/Virtual Switches.md",
     "Windows/Windows Essentials/SMB & NFS.md",
     "Windows/Windows Essentials/Skills Exam.md",
-    "Windows/Windows Essentials/Practice Questions.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
@@ -200,7 +201,6 @@
     "Networking/Routing/VPNs",
     "Networking/Switching/FHRP",
     "Networking/Routing/WANs",
-    "Misc",
     "attachments/image/Operation-1707757181846.jpeg",
     "attachments/image/Operation-1707704731190.jpeg",
     "attachments/image/Operation-1707704664097.jpeg",
