@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Boxes/CyberLens.md",
+                "file": "Hacking/Boxes/Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Boxes/CyberLens.md",
+                "file": "Hacking/Boxes/Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Boxes/CyberLens.md"
+                "file": "Hacking/Boxes/Blueprint.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "667325f1c80eec9b",
+  "active": "0a67db880eeea731",
   "lastOpenFiles": [
-    "Hacking/Boxes/Blueprint.md",
     "Hacking/Boxes/CyberLens.md",
+    "Hacking/Boxes/Blueprint.md",
     "Hacking/Tools/Metasploit.md",
     "Hacking/Boxes",
     "Hacking/Five Stages of Ethical Hacking.md",
