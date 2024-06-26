@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Boxes/Blueprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1f229793068fc75f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "667325f1c80eec9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking/Boxes/CyberLens.md",
+                "file": "Hacking/Boxes/GoldenEye.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Boxes/Blueprint.md",
+                "file": "Hacking/Boxes/GoldenEye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Boxes/Blueprint.md",
+                "file": "Hacking/Boxes/GoldenEye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Boxes/Blueprint.md"
+                "file": "Hacking/Boxes/GoldenEye.md"
               }
             }
           },
@@ -179,8 +161,9 @@
   },
   "active": "0a67db880eeea731",
   "lastOpenFiles": [
-    "Hacking/Boxes/CyberLens.md",
     "Hacking/Boxes/Blueprint.md",
+    "Hacking/Boxes/GoldenEye.md",
+    "Hacking/Boxes/CyberLens.md",
     "Hacking/Tools/Metasploit.md",
     "Hacking/Boxes",
     "Hacking/Five Stages of Ethical Hacking.md",
@@ -207,7 +190,6 @@
     "Windows/Windows Essentials/Chapters/6 DHCP.md",
     "Windows/Windows Essentials/Chapters/2 Initial Configuration.md",
     "Windows/Windows Essentials/Virtual Switches.md",
-    "Windows/Windows Essentials/SMB & NFS.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
