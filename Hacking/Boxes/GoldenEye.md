@@ -8,4 +8,6 @@
 - user `natalya` in HTML source code
 ### POP3 (55007)
 - bruteforce for `boris:secret1!`
+- bruteforce for `natalya:bird`
 - potential user `alec`
+- user creds `xenia:RCP90rulez!`
