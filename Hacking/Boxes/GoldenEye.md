@@ -10,4 +10,6 @@
 - bruteforce for `boris:secret1!`
 - bruteforce for `natalya:bird`
 - potential user `alec`
+### severnaya-station.com/gnocertdir
 - user creds `xenia:RCP90rulez!`
+- another use
