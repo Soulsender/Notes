@@ -16,4 +16,4 @@
 - user cred `dr_doak:4England!`
 - `s3cret.txt` in private files
 - leads to `/dir007key/for-007.jpg` on webserver
-- image contains base64 encoded password `xWinter1995x!`
+- image contains base64 encoded password `admin:xWinter1995x!`
