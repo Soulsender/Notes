@@ -7,4 +7,5 @@
 - `/sev-home` login `boris:InvincibleHack3r`
 - user `natalya` in HTML source code
 ### POP3 (55007)
-- bruteforce for `boris`
+- bruteforce for `boris:secret1!`
+- potential user `alec`
