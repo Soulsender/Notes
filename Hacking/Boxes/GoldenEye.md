@@ -12,4 +12,8 @@
 - potential user `alec`
 ### severnaya-station.com/gnocertdir
 - user creds `xenia:RCP90rulez!`
-- another use
+- another user called `doak`
+- user cred `dr_doak:4England!`
+- `s3cret.txt` in private files
+- leads to `/dir007key/for-007.jpg` on webserver
+- image contains base64 encoded password `xWinter1995x!`
