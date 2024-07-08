@@ -2,4 +2,4 @@
 - add 2 to number of hosts
 - ex. 5 hosts
 	- smallest power of 2 that is >= 7
-	- 
+	- 2^3 = 8
