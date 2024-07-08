@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/CCNA.md",
-                "mode": "preview",
+                "file": "Networking/Subnetting/Subnetting.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Subnetting/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Networking/Subnetting/Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/CCNA.md"
+                "file": "Networking/Subnetting/Subnetting.md"
               }
             }
           },
@@ -196,8 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "801f4a0f901f6708",
+  "active": "7cff6b15a3f0a196",
   "lastOpenFiles": [
+    "Networking/Subnetting",
+    "Networking/CCNA.md",
+    "Networking/Subnetting/Subnetting.md",
     "Networking/Essentials/Subnet Classes.md",
     "Networking/Essentials/OSI Model.md",
     "conflict-files-obsidian-git.md",
@@ -207,7 +210,6 @@
     "Networking/Routing/EIGRP/EIGRP.md",
     "Networking/Routing/EIGRP",
     "Networking/Need to study.md",
-    "Networking/CCNA.md",
     "Hacking/Windows/Important Directories.md",
     "Hacking/Windows",
     "Hacking/Tools/Metasploit.md",
@@ -226,8 +228,6 @@
     "Networking/Switching/Final.md",
     "Networking/Subnet Sheet.md",
     "Networking/Routing/Final Exam.md",
-    "Windows/Azure/Skill Exam.md",
-    "Windows/Untitled.md",
     "Networking/Switching/WLANs",
     "Networking/Switching/Security",
     "Radio",
