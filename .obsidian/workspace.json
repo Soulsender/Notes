@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Essentials/Subnet Classes.md",
+                "file": "Networking/CCNA.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Essentials/Subnet Classes.md",
+                "file": "Networking/CCNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Essentials/Subnet Classes.md",
+                "file": "Networking/CCNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Essentials/Subnet Classes.md"
+                "file": "Networking/CCNA.md"
               }
             }
           },
@@ -196,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "801f4a0f901f6708",
   "lastOpenFiles": [
-    "Networking/Essentials/OSI Model.md",
     "Networking/Essentials/Subnet Classes.md",
+    "Networking/Essentials/OSI Model.md",
     "conflict-files-obsidian-git.md",
     "Programming/C/Format Specifiers.md",
     "Networking/Routing/Metric Table.md",
