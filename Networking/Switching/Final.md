@@ -1,3 +1,4 @@
+#exam 
 ### Dynamic Trunking (DTP)
 - `switchport nonegotiate` 
 - default dynamic auto

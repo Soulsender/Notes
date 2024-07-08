@@ -1,3 +1,4 @@
+#active-directory 
 #### Types
 all groups have universal, global, domain local, and local scopes
 - security group

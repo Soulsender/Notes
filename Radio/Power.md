@@ -1,3 +1,4 @@
+#electrical
 - **current (amps; I)** is measure of electrons
 - **voltage (E or V)** is electrical pressure
 - **resistance** (ohms; R)

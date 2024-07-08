@@ -1,3 +1,4 @@
+#hardware 
 #### GPT (GUID Partition Table)
 - associated with UEFI
 - every partition has a globally unique identifier

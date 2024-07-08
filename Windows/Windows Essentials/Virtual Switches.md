@@ -1,3 +1,4 @@
+#active-directory 
 #### External Switch
 - used to access the hardware NIC of the host device
 - provides internet and outside connectivity for VMs

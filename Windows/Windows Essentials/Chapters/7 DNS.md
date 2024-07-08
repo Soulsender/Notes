@@ -1,3 +1,4 @@
+#dns #active-directory 
 #### Zones
 - primary - read/write copy of dns database
 - secondary - read only copy of dns database

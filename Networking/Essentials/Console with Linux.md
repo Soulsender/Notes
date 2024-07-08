@@ -1,3 +1,4 @@
+#linux
 - Step 1: Open the Linux Terminal window. 
 - Step 2: Connect the Linux USB port to the chassis.
 - Step 3: Enter the following commands to find the Linux USB port number:

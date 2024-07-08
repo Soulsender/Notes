@@ -1,3 +1,4 @@
+#acls 
 - **objects** are data, apps, systems, networks
 - **subjects** are users, apps, processes
 #### Discretionary Access Control (DAC)

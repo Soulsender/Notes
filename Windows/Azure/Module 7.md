@@ -1,3 +1,4 @@
+#cloud
 ### Expressroute
 - lets you extend on-prem networks into the cloud (expressroute circuit)
 - can use BPG protocol for dynamic routing

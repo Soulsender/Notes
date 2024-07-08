@@ -1,0 +1,3 @@
+- `%d` for integers
+- `%s` for char strings
+- `%d` for booleans

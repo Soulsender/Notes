@@ -1,3 +1,4 @@
+#dns
 - A
 	- traditional domain to IP record
 - AAAA

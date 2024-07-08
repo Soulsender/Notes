@@ -1,3 +1,4 @@
+#dhcp 
 - generated GUA either randomly or with EUI64 (MAC address)
 - DAD process is used to verify address is not already used
 - finds default gateway via router advertisements sent from link router

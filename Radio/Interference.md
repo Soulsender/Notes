@@ -1,3 +1,4 @@
+#radio
 - spurious emissions
 	- transmitting outside of the band you mean to
 - key click

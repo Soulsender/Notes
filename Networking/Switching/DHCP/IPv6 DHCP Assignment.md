@@ -1,3 +1,4 @@
+#dhcp 
 #### Stateful DHCP
 - uses DHCP server fully to get IPv6 address
 #### Stateless DHCP

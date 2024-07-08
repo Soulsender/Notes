@@ -1,3 +1,4 @@
+#spanning-tree 
 1. Elect root bridge
 2. Place root interfaces into Forwarding state
 3. Non-root switches choose their root port

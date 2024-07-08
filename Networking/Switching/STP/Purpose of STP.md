@@ -1,3 +1,4 @@
+#spanning-tree 
 - cisco default opeartion is PVST+
 - used to eliminate frame loops
 - adds redundancy

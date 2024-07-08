@@ -1,3 +1,4 @@
+#spanning-tree 
 - STP
 	- original
 	- assumes one spanning tree instance for entire bridged network regardless of VLANs

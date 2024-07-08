@@ -1,3 +1,4 @@
+#ospf 
 #### RIP
 - only uses hop count to find path
 - distance vector

@@ -1,3 +1,4 @@
+#ipv6 
 - interface ID -> host bits
 - prefix -> network bits
 - prefix length -> subnet mask

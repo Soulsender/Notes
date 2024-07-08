@@ -1,3 +1,4 @@
+#exam
 ### OSPF
 - Hello, DBD, LSR, LSU, LSAck (Hello, DRUA)
 - dead interval is 4x hello interval

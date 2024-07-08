@@ -1,3 +1,4 @@
+#active-directory 
 #### Auto Activation
 - key management server (KMS)
 	- new servers will automatically activate themselves

@@ -1,3 +1,4 @@
+#vlans 
 - VLAN 1 is reserved for untagged traffic (data that does not have a VLAN tag) which is also called native VLAN
 - native VLANs must be the same on both ends of switches
 - all trunks must have native VLANs

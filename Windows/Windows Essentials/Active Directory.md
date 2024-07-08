@@ -1,3 +1,4 @@
+#active-directory
 #### Active directory domain services (AD DS)
 - stores information about domain members, devices, users 
 - verifies credentials
