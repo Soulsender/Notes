@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a67db880eeea731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hacking/Boxes/GoldenEye.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e739ff8084bb7aeb",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.5"
+              }
+            }
+          },
+          {
+            "id": "8b26503a7b9c0428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/Boxes/GoldenEye.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/Boxes/GoldenEye.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/Boxes/GoldenEye.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -170,8 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e739ff8084bb7aeb",
+  "active": "8b26503a7b9c0428",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Networking/Subnetting.md",
+    "CTFs & Boxes/THM/GoldenEye.md",
+    "CTFs & Boxes/THM/CyberLens.md",
+    "CTFs & Boxes/THM/Blueprint.md",
+    "CTFs & Boxes/THM",
     "Hacking/Boxes/Blueprint.md",
     "Hacking/Boxes/GoldenEye.md",
     "Hacking/Boxes/CyberLens.md",
@@ -196,11 +202,6 @@
     "Linux/12 - Packages.md",
     "Linux/11 - Networking.md",
     "Linux/1 - Regex.md",
-    "Windows/Windows Essentials/Chapters/8 Remote Access.md",
-    "Windows/Windows Essentials/Chapters/7 DNS.md",
-    "Windows/Windows Essentials/Chapters/6 DHCP.md",
-    "Windows/Windows Essentials/Chapters/2 Initial Configuration.md",
-    "Windows/Windows Essentials/Virtual Switches.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
@@ -211,7 +212,6 @@
     "attachments/image/Operation-1707757181885.jpeg",
     "Networking/Routing/VPNs",
     "Networking/Switching/FHRP",
-    "Networking/Routing/WANs",
     "attachments/image/Operation-1707757181846.jpeg",
     "attachments/image/Operation-1707704731190.jpeg",
     "attachments/image/Operation-1707704664097.jpeg",
