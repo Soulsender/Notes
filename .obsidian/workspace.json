@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e739ff8084bb7aeb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a67db880eeea731",
+  "active": "e739ff8084bb7aeb",
   "lastOpenFiles": [
     "Hacking/Boxes/Blueprint.md",
     "Hacking/Boxes/GoldenEye.md",
