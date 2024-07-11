@@ -17,3 +17,7 @@
 - `s3cret.txt` in private files
 - leads to `/dir007key/for-007.jpg` on webserver
 - image contains base64 encoded password `admin:xWinter1995x!`
+- spellcheck plugin:
+	- change path to reverse shell
+	- change spell check to PSpellShell
+	- enable spellcheck in a new blog entry so the server tries to read that path
