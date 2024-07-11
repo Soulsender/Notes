@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
+                "file": "Hacking/CTFs & Boxes/THM/Blueprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
+                "file": "Hacking/CTFs & Boxes/THM/Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
+                "file": "Hacking/CTFs & Boxes/THM/Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md"
+                "file": "Hacking/CTFs & Boxes/THM/Blueprint.md"
               }
             }
           },
@@ -161,12 +161,12 @@
   },
   "active": "13f08d0445ba12f9",
   "lastOpenFiles": [
+    "Hacking/CTFs & Boxes/THM/CyberLens.md",
+    "Hacking/CTFs & Boxes/THM/Blueprint.md",
+    "Hacking/CTFs & Boxes/THM/GoldenEye.md",
     "Networking/CCNA.md",
     "conflict-files-obsidian-git.md",
     "Networking/Subnetting.md",
-    "Hacking/CTFs & Boxes/THM/GoldenEye.md",
-    "Hacking/CTFs & Boxes/THM/CyberLens.md",
-    "Hacking/CTFs & Boxes/THM/Blueprint.md",
     "Hacking/CTFs & Boxes/THM",
     "Hacking/Boxes/Blueprint.md",
     "Hacking/Boxes/GoldenEye.md",
