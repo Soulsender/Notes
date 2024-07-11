@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/CCNA.md",
+                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/CCNA.md"
+                "file": "Hacking/CTFs & Boxes/THM/GoldenEye.md"
               }
             }
           },
@@ -161,12 +161,13 @@
   },
   "active": "13f08d0445ba12f9",
   "lastOpenFiles": [
+    "Networking/CCNA.md",
     "conflict-files-obsidian-git.md",
     "Networking/Subnetting.md",
-    "CTFs & Boxes/THM/GoldenEye.md",
-    "CTFs & Boxes/THM/CyberLens.md",
-    "CTFs & Boxes/THM/Blueprint.md",
-    "CTFs & Boxes/THM",
+    "Hacking/CTFs & Boxes/THM/GoldenEye.md",
+    "Hacking/CTFs & Boxes/THM/CyberLens.md",
+    "Hacking/CTFs & Boxes/THM/Blueprint.md",
+    "Hacking/CTFs & Boxes/THM",
     "Hacking/Boxes/Blueprint.md",
     "Hacking/Boxes/GoldenEye.md",
     "Hacking/Boxes/CyberLens.md",
@@ -178,7 +179,6 @@
     "Networking/Need to study.md",
     "Hacking/Windows",
     "Networking/IOS Commands.md",
-    "Networking/CCNA.md",
     "Networking/Routing/EIGRP/Operation.md",
     "Networking/Routing/EIGRP/EIGRP.md",
     "Networking/Routing/Metric Table.md",
