@@ -69,7 +69,7 @@ https://learningnetwork.cisco.com/s/ccna-exam-topics
   - [x] 1.11.d Encryption
 - [ ] 1.12 Explain virtualization fundamentals (server virtualization, containers, and VRFs)
 - [ ] 1.13 Describe switching concepts
-  - [ ] 1.13.a MAC learning and aging
+  - [x] 1.13.a MAC learning and aging
   - [x] 1.13.b Frame switching
   - [x] 1.13.c Frame flooding
   - [x] 1.13.d MAC address table
