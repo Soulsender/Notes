@@ -19,5 +19,5 @@
 		- login `bolt/I_love_java` -> ssh login `jeanpaul/I_love_java`
 	- /dev has boltwire login page
 		- messing with path can give user on server ``
-	- subdirectories -> [Feroxbuster](./Feroxbuster)
+	- subdirectories -> [Feroxbuster](Hacking/CTFs%20&%20Boxes/VulnHub/Dev/Feroxbuster.md)
 	- Faulty Bolt installation?

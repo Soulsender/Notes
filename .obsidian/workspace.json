@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8949dbb05d15f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IOS Commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IOS Commands.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -196,44 +208,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cff6b15a3f0a196",
+  "active": "a8949dbb05d15f66",
   "lastOpenFiles": [
-    "Networking/Subnetting",
-    "Networking/CCNA.md",
-    "Networking/Subnetting.md",
-    "Networking/Essentials/Subnet Classes.md",
-    "Networking/Essentials/OSI Model.md",
+    "Networking/IOS Commands.md",
     "conflict-files-obsidian-git.md",
-    "Programming/C/Format Specifiers.md",
-    "Networking/Routing/Metric Table.md",
-    "Networking/Routing/EIGRP/Operation.md",
-    "Networking/Routing/EIGRP/EIGRP.md",
-    "Networking/Routing/EIGRP",
-    "Networking/Need to study.md",
-    "Hacking/Windows/Important Directories.md",
-    "Hacking/Windows",
-    "Hacking/Tools/Metasploit.md",
-    "Hacking/Tools",
-    "CTFs & Boxes/THM/GoldenEye.md",
-    "CTFs & Boxes/THM/CyberLens.md",
-    "CTFs & Boxes/THM/Blueprint.md",
-    "CTFs & Boxes/THM",
-    "Actually Accurate Pancetta Carbonara.md",
-    "Windows/Azure/Final.md",
-    "Security/Final.md",
-    "Radio/Transmission Lines.md",
-    "Radio/Regulations.md",
-    "Radio/Interference.md",
-    "Radio/Antennas.md",
-    "Networking/Switching/Final.md",
-    "Networking/Subnet Sheet.md",
-    "Networking/Routing/Final Exam.md",
-    "Networking/Switching/WLANs",
-    "Networking/Switching/Security",
-    "Radio",
-    "Networking/Routing/VPNs",
-    "Networking/Routing/WANs",
-    "Networking/Switching/FHRP",
+    "Hacking/CTFs & Boxes/VulnHub/Mr Robot/fsoc Desktop.md",
+    "Hacking/CTFs & Boxes/VulnHub/Mr Robot/General.md",
+    "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Vulns.md",
+    "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Notes.md",
+    "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Nikto Scan.md",
+    "Hacking/CTFs & Boxes/VulnHub/Dev/Notes.md",
+    "Hacking/CTFs & Boxes/VulnHub/Dev/Nmap.md",
+    "Hacking/CTFs & Boxes/VulnHub/Dev/Feroxbuster.md",
+    "Hacking/CTFs & Boxes/VulnHub/Butler/Nmap.md",
+    "Hacking/CTFs & Boxes/VulnHub/Blue/Notes.md",
+    "Hacking/CTFs & Boxes/VulnHub/Blue/Nmap.md",
+    "Hacking/CTFs & Boxes/VulnHub/Academy/Notes.md",
+    "Hacking/CTFs & Boxes/VulnHub/Academy/Nmap.md",
+    "Hacking/CTFs & Boxes/PicoGym/Web/GET aHEAD.md",
+    "Hacking/CTFs & Boxes/PicoGym/RevEng/transformation.md",
+    "Hacking/CTFs & Boxes/PicoGym/General/Static ain't always noise.md",
+    "Hacking/CTFs & Boxes/PicoGym/General/Nice netcat....md",
+    "Hacking/CTFs & Boxes/PicoGym/General/Magikarp Ground Mission.md",
+    "Hacking/CTFs & Boxes/PicoGym/Forensics/tunn3l v1s10n.md",
+    "Hacking/CTFs & Boxes/PicoGym/Forensics/information.md",
+    "Hacking/CTFs & Boxes/PicoGym/Forensics/Matryoshka doll.md",
+    "Hacking/CTFs & Boxes/VulnHub/Mr Robot",
+    "Hacking/CTFs & Boxes/VulnHub/Kioptrix",
+    "Hacking/CTFs & Boxes/VulnHub/Dev",
+    "Hacking/CTFs & Boxes/VulnHub/Butler",
+    "Hacking/CTFs & Boxes/VulnHub/Blue",
+    "Hacking/CTFs & Boxes/VulnHub/Academy",
+    "Hacking/CTFs & Boxes/PicoGym/Web",
+    "Hacking/CTFs & Boxes/PicoGym/RevEng",
+    "Hacking/CTFs & Boxes/PicoGym/General",
+    "Hacking/CTFs & Boxes/PicoGym/Forensics",
+    "Hacking/CTFs & Boxes/THM/GoldenEye.md",
+    "Hacking/CTFs & Boxes/THM/CyberLens.md",
+    "Hacking/CTFs & Boxes/THM/Blueprint.md",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757182007.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",
