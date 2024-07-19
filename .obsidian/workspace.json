@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md",
+                "file": "Networking/Routing/CEF/Cisco Express Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md",
+                "file": "Networking/Routing/CEF/Cisco Express Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md",
+                "file": "Networking/Routing/CEF/Cisco Express Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md"
+                "file": "Networking/Routing/CEF/Cisco Express Forwarding.md"
               }
             }
           },
@@ -198,13 +198,16 @@
   },
   "active": "801f4a0f901f6708",
   "lastOpenFiles": [
+    "Networking/Switching/EtherChannel/Operation.md",
+    "Networking/Routing/CEF/Cisco Express Forwarding.md",
+    "Networking/Routing/CEF",
+    "Networking/Essentials/12-IPv6/Dynamic Address.md",
     "Networking/Essentials/12-IPv6/Compressing addresses.md",
     "Networking/CCNA.md",
     "Networking/Switching/DHCP/SLAAC.md",
     "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
     "Networking/Switching/DHCP/DHCPv6.md",
     "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
-    "Networking/Switching/EtherChannel/Operation.md",
     "Networking/Switching/FHRP/HSRP.md",
     "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
     "Networking/Switching/Security/Access Control.md",
@@ -222,8 +225,6 @@
     "Hacking/CTFs & Boxes/VulnHub/Mr Robot/General.md",
     "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Vulns.md",
     "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Notes.md",
-    "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Nikto Scan.md",
-    "Hacking/CTFs & Boxes/VulnHub/Dev/Notes.md",
     "Hacking/CTFs & Boxes/VulnHub/Mr Robot",
     "Hacking/CTFs & Boxes/VulnHub/Kioptrix",
     "Hacking/CTFs & Boxes/VulnHub/Dev",
@@ -233,7 +234,6 @@
     "Hacking/CTFs & Boxes/PicoGym/Web",
     "Hacking/CTFs & Boxes/PicoGym/RevEng",
     "Hacking/CTFs & Boxes/PicoGym/General",
-    "Hacking/CTFs & Boxes/PicoGym/Forensics",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757182007.jpeg",
     "attachments/image/OSPF Step by Step-1704847520989.jpeg",

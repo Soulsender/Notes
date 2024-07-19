@@ -7,4 +7,5 @@
 ### PAgP Modes
 ![[attachments/image/Operation-1707704664097.jpeg]]
 ### LACP Modes
+- supports up to 16 ports; only 8 ports can be active
 ![[attachments/image/Operation-1707704731190.jpeg]]
