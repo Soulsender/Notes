@@ -42,15 +42,15 @@ https://learningnetwork.cisco.com/s/ccna-exam-topics
   - [x] 1.1.g Servers
   - [x] 1.1.h PoE
 - [ ] 1.2 Describe characteristics of network topology architectures
-  - [ ] 1.2.a Two-tier
-  - [ ] 1.2.b Three-tier
-  - [ ] 1.2.c Spine-leaf
+  - [x] 1.2.a Two-tier
+  - [x] 1.2.b Three-tier
+  - [x] 1.2.c Spine-leaf
   - [ ] 1.2.d WAN
   - [ ] 1.2.e Small office/home office (SOHO)
-  - [ ] 1.2.f On-premise and cloud
+  - [x] 1.2.f On-premise and cloud
 - [x] 1.3 Compare physical interface and cabling types
   - [x] 1.3.a Single-mode fiber, multimode fiber, copper
-  - [ ] 1.3.b Connections (Ethernet shared media and point-to-point)
+  - [x] 1.3.b Connections (Ethernet shared media and point-to-point)
 - [x] 1.4 Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)
 - [x] 1.5 Compare TCP to UDP
 - [ ] 1.6 Configure and verify IPv4 addressing and subnetting

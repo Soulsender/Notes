@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/DHCP/SLAAC.md",
+                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/DHCP/SLAAC.md",
+                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/DHCP/SLAAC.md",
+                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/DHCP/SLAAC.md"
+                "file": "Networking/Essentials/12-IPv6/Dynamic Address.md"
               }
             }
           },
@@ -198,6 +198,9 @@
   },
   "active": "801f4a0f901f6708",
   "lastOpenFiles": [
+    "Networking/Essentials/12-IPv6/Compressing addresses.md",
+    "Networking/CCNA.md",
+    "Networking/Switching/DHCP/SLAAC.md",
     "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
     "Networking/Switching/DHCP/DHCPv6.md",
     "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
@@ -211,7 +214,6 @@
     "Networking/Switching/STP/PortFast.md",
     "Networking/Switching/STP/BPDUs & BID.md",
     "Networking/Switching/STP/Election Process.md",
-    "Networking/CCNA.md",
     "Networking/Need to study.md",
     "Networking/Subnetting.md",
     "conflict-files-obsidian-git.md",
@@ -222,8 +224,6 @@
     "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Notes.md",
     "Hacking/CTFs & Boxes/VulnHub/Kioptrix/Nikto Scan.md",
     "Hacking/CTFs & Boxes/VulnHub/Dev/Notes.md",
-    "Hacking/CTFs & Boxes/VulnHub/Dev/Nmap.md",
-    "Hacking/CTFs & Boxes/VulnHub/Dev/Feroxbuster.md",
     "Hacking/CTFs & Boxes/VulnHub/Mr Robot",
     "Hacking/CTFs & Boxes/VulnHub/Kioptrix",
     "Hacking/CTFs & Boxes/VulnHub/Dev",
