@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IEEE.md",
+                "file": "Networking/Switching/Ethernet Frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IEEE.md",
+                "file": "Networking/Switching/Ethernet Frame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IEEE.md",
+                "file": "Networking/Switching/Ethernet Frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IEEE.md"
+                "file": "Networking/Switching/Ethernet Frame.md"
               }
             }
           },
@@ -161,8 +161,12 @@
   },
   "active": "13f08d0445ba12f9",
   "lastOpenFiles": [
-    "Networking/Switching/Ethernet Frame.md",
+    "Networking/Routing/IPv4 Header.md",
+    "Networking/Routing/Metric Table.md",
+    "Networking/Routing/Final Exam.md",
+    "Networking/Routing/Midterm (1-7).md",
     "Networking/IEEE.md",
+    "Networking/Switching/Ethernet Frame.md",
     "Hacking/Tools/Msfvenom.md",
     "Hacking/Tools/Metasploit.md",
     "Hacking/CTFs & Boxes/THM/GoldenEye.md",
@@ -186,12 +190,8 @@
     "Networking/IOS Commands.md",
     "Networking/Routing/EIGRP/Operation.md",
     "Networking/Routing/EIGRP/EIGRP.md",
-    "Networking/Routing/Metric Table.md",
     "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
     "Programming/C/Format Specifiers.md",
-    "Linux/Midterm.md",
-    "Linux/Logical Volumes.md",
-    "Linux/13.1 - Device Nodes.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
