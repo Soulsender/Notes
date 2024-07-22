@@ -1,3 +1,5 @@
 - **preamble**
 	- 7 bytes
 	- synchronization
+- **header/trailer**
+	- 22/4 bytes (26 bytes)

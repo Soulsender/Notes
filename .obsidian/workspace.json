@@ -161,8 +161,9 @@
   },
   "active": "13f08d0445ba12f9",
   "lastOpenFiles": [
-    "Hacking/Tools/Msfvenom.md",
+    "Networking/IEEE.md",
     "Networking/Switching/Ethernet Frame.md",
+    "Hacking/Tools/Msfvenom.md",
     "Hacking/Tools/Metasploit.md",
     "Hacking/CTFs & Boxes/THM/GoldenEye.md",
     "Networking/Routing/CEF/Cisco Express Forwarding.md",
@@ -191,7 +192,6 @@
     "Linux/Midterm.md",
     "Linux/Logical Volumes.md",
     "Linux/13.1 - Device Nodes.md",
-    "Linux/13 - Find.md",
     "Networking/Routing/EIGRP",
     "Networking/Switching/Security",
     "Networking/Switching/WLANs",
