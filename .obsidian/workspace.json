@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8a02f73722458b52",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a02f73722458b52",
+  "active": "7cff6b15a3f0a196",
   "lastOpenFiles": [
     "Hacking/Tools/Metasploit.md",
     "Hacking/Tools/Msfvenom.md",
