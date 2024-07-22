@@ -5,4 +5,7 @@
 	- 400 meters
 - **802.3u** - fast ethernet
 	- 100Mbps
-	- 100BASE-T
+	- 100BASE-(TX/FX/T4)
+- **802.3z / 802.3ab** - gigabit ethernet
+	- 1000BASE-(T/SX/LX/CX)
+	- 1000Mbps

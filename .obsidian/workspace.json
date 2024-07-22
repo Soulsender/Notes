@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/Ethernet Frame.md",
+                "file": "Networking/IEEE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Switching/Ethernet Frame.md",
+                "file": "Networking/IEEE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Switching/Ethernet Frame.md",
+                "file": "Networking/IEEE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Switching/Ethernet Frame.md"
+                "file": "Networking/IEEE.md"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "13f08d0445ba12f9",
   "lastOpenFiles": [
-    "Networking/IEEE.md",
     "Networking/Switching/Ethernet Frame.md",
+    "Networking/IEEE.md",
     "Hacking/Tools/Msfvenom.md",
     "Hacking/Tools/Metasploit.md",
     "Hacking/CTFs & Boxes/THM/GoldenEye.md",
