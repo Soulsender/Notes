@@ -1,0 +1,3 @@
+- **preamble**
+	- 7 bytes
+	- synchronization
