@@ -7,5 +7,8 @@
 	- 100Mbps
 	- 100BASE-(TX/FX/T4)
 - **802.3z / 802.3ab** - gigabit ethernet
-	- 1000BASE-(T/SX/LX/CX)
 	- 1000Mbps
+	- 1000BASE-(T/SX/LX/CX)
+- **802.3an** - gigabit ethernet over UTP
+	- 10Gbps
+	- 10GBASE-T
