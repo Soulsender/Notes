@@ -25,7 +25,7 @@
       {
         "id": "ea70ba3157db55fa",
         "type": "tabs",
-        "dimension": 56.613226452905806,
+        "dimension": 56.61322645290581,
         "children": [
           {
             "id": "2ea5832f68021af1",
@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking/IEEE.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
