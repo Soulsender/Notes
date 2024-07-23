@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Networking/Switching/Ethernet Frame.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -182,11 +182,11 @@
   "active": "2ea5832f68021af1",
   "lastOpenFiles": [
     "Networking/Switching/Ethernet Frame.md",
+    "Networking/IEEE.md",
     "Networking/Routing/IPv4 Header.md",
     "Networking/Routing/Metric Table.md",
     "Networking/Routing/Final Exam.md",
     "Networking/Routing/Midterm (1-7).md",
-    "Networking/IEEE.md",
     "Hacking/Tools/Msfvenom.md",
     "Hacking/Tools/Metasploit.md",
     "Hacking/CTFs & Boxes/THM/GoldenEye.md",
