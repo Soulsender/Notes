@@ -43,7 +43,7 @@ https://learningnetwork.cisco.com/s/ccna-exam-topics
   - [x] 1.13.c Frame flooding
   - [x] 1.13.d MAC address table
 - [x] 2.1 Configure and verify VLANs (normal range) spanning multiple switches
-  - [ ] 2.1.a Access ports (data and voice)
+  - [x] 2.1.a Access ports (data and voice)
   - [x] 2.1.b Default VLAN
   - [x] 2.1.c InterVLAN connectivity
 - [x] 2.2 Configure and verify interswitch connectivity
