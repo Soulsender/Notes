@@ -4,31 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "738f0675feb28572",
+        "id": "fa4fa3a7384b6702",
         "type": "tabs",
-        "dimension": 43.38677354709419,
         "children": [
           {
-            "id": "13f08d0445ba12f9",
+            "id": "78762f8b46090023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Switching/Ethernet Frame.md",
+                "file": "Networking/IOS Commands.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ea70ba3157db55fa",
-        "type": "tabs",
-        "dimension": 56.61322645290581,
-        "children": [
+          },
           {
-            "id": "2ea5832f68021af1",
+            "id": "0a37c7c1e5bdffa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Azure/Skill Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec464f1c132162ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows/Azure/Module 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "801f4a0f901f6708",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -68,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "syslog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,53 +196,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ea5832f68021af1",
+  "active": "801f4a0f901f6708",
   "lastOpenFiles": [
-    "Networking/IEEE.md",
+    "Networking/Routing/CEF/Cisco Express Forwarding.md",
     "Networking/Switching/Ethernet Frame.md",
     "Networking/Routing/IPv4 Header.md",
-    "Networking/Routing/Metric Table.md",
-    "Networking/Routing/Final Exam.md",
-    "Networking/Routing/Midterm (1-7).md",
+    "Networking/IEEE.md",
     "Hacking/Tools/Msfvenom.md",
-    "Hacking/Tools/Metasploit.md",
-    "Hacking/CTFs & Boxes/THM/GoldenEye.md",
-    "Networking/Routing/CEF/Cisco Express Forwarding.md",
+    "Networking/Switching/EtherChannel/Operation.md",
     "Networking/Routing/CEF",
-    "Hacking/CTFs & Boxes/THM/Blueprint.md",
-    "Hacking/CTFs & Boxes/THM/CyberLens.md",
+    "Networking/Essentials/12-IPv6/Dynamic Address.md",
+    "Networking/Essentials/12-IPv6/Compressing addresses.md",
     "Networking/CCNA.md",
-    "conflict-files-obsidian-git.md",
-    "Networking/Subnetting.md",
-    "Hacking/CTFs & Boxes/THM",
-    "Hacking/Boxes/Blueprint.md",
-    "Hacking/Boxes/GoldenEye.md",
-    "Hacking/Boxes/CyberLens.md",
-    "Hacking/Boxes",
-    "Hacking/Five Stages of Ethical Hacking.md",
-    "Hacking/Windows/Important Directories.md",
-    "Hacking/Tools",
+    "Networking/Switching/DHCP/SLAAC.md",
+    "Networking/Switching/DHCP/IPv6 DHCP Assignment.md",
+    "Networking/Switching/DHCP/DHCPv6.md",
+    "Networking/Switching/DHCP/IPv4 DHCP Operation.md",
+    "Networking/Switching/FHRP/HSRP.md",
+    "Networking/Switching/FHRP/First Hope Redundancy Protocols.md",
+    "Networking/Switching/Security/Access Control.md",
+    "Networking/Switching/STP/Versions of STP.md",
+    "Networking/Switching/STP/Roles & States.md",
+    "Networking/Switching/STP/Purpose of STP.md",
+    "Networking/Switching/STP/PortFast.md",
+    "Networking/Switching/STP/BPDUs & BID.md",
+    "Networking/Switching/STP/Election Process.md",
     "Networking/Need to study.md",
-    "Hacking/Windows",
+    "Networking/Subnetting.md",
+    "conflict-files-obsidian-git.md",
     "Networking/IOS Commands.md",
-    "Networking/Routing/EIGRP/Operation.md",
-    "Networking/Routing/EIGRP/EIGRP.md",
-    "Networking/Essentials/4-Physical Layer/4.5 Fiber-Optic Cabling.md",
-    "Programming/C/Format Specifiers.md",
-    "Networking/Routing/EIGRP",
-    "Networking/Switching/Security",
-    "Networking/Switching/WLANs",
-    "Radio",
+    "Hacking/CTFs & Boxes/VulnHub/Mr Robot",
+    "Hacking/CTFs & Boxes/VulnHub/Kioptrix",
+    "Hacking/CTFs & Boxes/VulnHub/Dev",
+    "Hacking/CTFs & Boxes/VulnHub/Butler",
+    "Hacking/CTFs & Boxes/VulnHub/Blue",
+    "Hacking/CTFs & Boxes/VulnHub/Academy",
+    "Hacking/CTFs & Boxes/PicoGym/Web",
+    "Hacking/CTFs & Boxes/PicoGym/RevEng",
+    "Hacking/CTFs & Boxes/PicoGym/General",
     "attachments/image/Operation-1707757181951.jpeg",
     "attachments/image/Operation-1707757182007.jpeg",
-    "attachments/image/Operation-1707757181880.jpeg",
+    "attachments/image/OSPF Step by Step-1704847520989.jpeg",
     "attachments/image/Operation-1707757181885.jpeg",
-    "Networking/Routing/VPNs",
+    "attachments/image/Operation-1707757181880.jpeg",
     "attachments/image/Operation-1707757181846.jpeg",
-    "attachments/image/Operation-1707704731190.jpeg",
-    "attachments/image/Operation-1707704664097.jpeg",
-    "attachments/image/IOS Commands-1707610849488.jpeg",
-    "attachments/image/IOS Commands-1707610849487.jpeg",
-    "attachments/image/IOS Commands-1707610849479.jpeg"
+    "attachments/image/IOS Commands-1707509422244.jpeg",
+    "attachments/image/IOS Commands-1707509422243.jpeg",
+    "attachments/image/IOS Commands-1707509422241.jpeg",
+    "attachments/image/Purpose of STP-1707255207413.jpeg"
   ]
 }

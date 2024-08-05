@@ -1,35 +1,4 @@
 #exam
-### Practice
-https://www.howtonetwork.com/ccnasimplified/
-- [x] Module 1
-- [x] Module 2
-- [x] Module 3
-- [x] Module 4
-- [ ] Module 5
-- [ ] Module 6
-- [x] Module 7
-- [x] Module 8
-- [x] Module 9
-- [x] Module 10
-- [x] Module 11
-- [x] Module 12
-- [x] Module 13
-- [ ] Module 14
-- [x] Module 15
-- [ ] Module 16
-- [ ] Module 17
-- [ ] Module 18
-- [ ] Module 19
-- [ ] Module 20
-- [ ] Module 21
-- [ ] Module 22
-- [ ] Module 23
-- [ ] Module 24
-- [ ] Module 25
-- [ ] Module 26
-- [ ] Module 27
-- [ ] Module 28
-- [ ] Module 29
 ### Subjects
 https://learningnetwork.cisco.com/s/ccna-exam-topics
 - [x] 1.1 Explain the role and function of network components
